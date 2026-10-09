@@ -1,0 +1,34 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Blog | Trendbin</title>
+  <style>
+    :root { --bg: #0f172a; --card: #1e293b; --text: #f8fafc; --accent: #10b981; }
+    body { background-color: var(--bg); color: var(--text); font-family: -apple-system, sans-serif; padding: 24px 16px; }
+    .container { max-width: 800px; margin: 40px auto; }
+    a { color: var(--accent); text-decoration: none; font-size: 1.2rem; font-weight: bold; }
+    .post-list { list-style: none; padding: 0; }
+    .post-list li { background: var(--card); padding: 20px; border-radius: 8px; margin-bottom: 16px; }
+    .date { color: #94a3b8; font-size: 0.85rem; margin-top: 8px; display: block; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a href="/index.html" style="font-size: 1rem;">← Back to Dashboard</a>
+    <h1 style="margin-top: 20px;">Trendbin Articles</h1>
+    <ul class="post-list">
+      {% for post in site.posts %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
+          <p style="margin-top: 10px; font-size: 0.95rem;">{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</body>
+</html>

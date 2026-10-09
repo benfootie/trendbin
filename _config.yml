@@ -1,0 +1,4 @@
+name: Trendbin
+description: The Internet's Live Trends Dashboard
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
