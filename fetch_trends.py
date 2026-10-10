@@ -37,10 +37,13 @@ def fetch_spotify():
     try:
         auth_res = requests.post("https://accounts.spotify.com/api/token", data={"grant_type": "client_credentials"}, auth=(SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET))
         token = auth_res.json().get("access_token")
-        res = requests.get("https://api.spotify.com/v1/playlists/37i9dQZEVXbMDoHDwVN2tF/items?limit=50", headers={"Authorization": f"Bearer {token}"}, timeout=10)
+        
+        # Swapped from restricted Playlist API to public Search API
+        res = requests.get("https://api.spotify.com/v1/search?q=year:2026&type=track&limit=50", headers={"Authorization": f"Bearer {token}"}, timeout=10)
         trends = []
-        for item in res.json().get("items", []):
-            track = item.get("track", {})
+        
+        # Search API returns tracks directly inside tracks -> items
+        for track in res.json().get("tracks", {}).get("items", []):
             if not track: continue
             artists = ", ".join([a.get("name") for a in track.get("artists", [])])
             images = track.get("album", {}).get("images", [])
