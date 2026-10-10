@@ -4,8 +4,8 @@ import datetime
 import requests
 
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY")
-SPOTIFY_CLIENT_ID = os.environ.get("SPOTIFY_CLIENT_ID")
-SPOTIFY_CLIENT_SECRET = os.environ.get("SPOTIFY_CLIENT_SECRET")
+#SPOTIFY_CLIENT_ID = os.environ.get("SPOTIFY_CLIENT_ID")
+#SPOTIFY_CLIENT_SECRET = os.environ.get("SPOTIFY_CLIENT_SECRET")
 
 # Matching the 3 countries in your index.html dropdown
 COUNTRIES = {"US": "United States", "IN": "India", "GB": "United Kingdom"}
@@ -32,29 +32,7 @@ def fetch_youtube(code):
         return videos
     except: return []
 
-def fetch_spotify():
-    if not SPOTIFY_CLIENT_ID or not SPOTIFY_CLIENT_SECRET: return []
-    try:
-        auth_res = requests.post("https://accounts.spotify.com/api/token", data={"grant_type": "client_credentials"}, auth=(SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET))
-        token = auth_res.json().get("access_token")
-        
-        # Swapped from restricted Playlist API to public Search API
-        res = requests.get("https://api.spotify.com/v1/search?q=year:2026&type=track&limit=50", headers={"Authorization": f"Bearer {token}"}, timeout=10)
-        print("Spotify Error:", res.status_code, res.text)
-        trends = []
-        
-        # Search API returns tracks directly inside tracks -> items
-        for track in res.json().get("tracks", {}).get("items", []):
-            if not track: continue
-            artists = ", ".join([a.get("name") for a in track.get("artists", [])])
-            images = track.get("album", {}).get("images", [])
-            thumb = images[1].get("url") if len(images) > 1 else (images[0].get("url") if images else "")
-            trends.append({
-                "title": track.get("name"), "channel": artists, "metrics": "Spotify Global",
-                "url": track.get("external_urls", {}).get("spotify", ""), "thumbnail": thumb
-            })
-        return trends
-    except: return []
+
 
 def fetch_github():
     try:
@@ -94,7 +72,7 @@ def main():
     for code, name in COUNTRIES.items():
         payload["countries"][code] = {"name": name, "youtube": fetch_youtube(code)}
         
-    payload["global"] = {"spotify": fetch_spotify(), "github": fetch_github(), "bluesky": fetch_bluesky()}
+    payload["global"] = { "github": fetch_github(), "bluesky": fetch_bluesky()}
 
     with open("data/trends.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
