@@ -40,6 +40,7 @@ def fetch_spotify():
         
         # Swapped from restricted Playlist API to public Search API
         res = requests.get("https://api.spotify.com/v1/search?q=year:2026&type=track&limit=50", headers={"Authorization": f"Bearer {token}"}, timeout=10)
+        print("Spotify Error:", res.status_code, res.text)
         trends = []
         
         # Search API returns tracks directly inside tracks -> items
