@@ -1,4 +1,6 @@
 name: Trendbin
 description: The Internet's Live Trends Dashboard
+baseurl: "/trendbin"
+url: "https://benfootie.github.io"
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title/

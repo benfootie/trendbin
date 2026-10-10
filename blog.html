@@ -1,5 +1,4 @@
 ---
-layout: null
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -18,7 +17,7 @@ layout: null
 </head>
 <body>
   <div class="container">
-   <a href="index.html" style="font-size: 1rem;">← Back to Dashboard</a>
+  <a href="{{ '/index.html' | relative_url }}" style="font-size: 1rem;">← Back to Dashboard</a>
     <h1 style="margin-top: 20px;">Trendbin Articles</h1>
     <ul class="post-list">
       {% for post in site.posts %}
