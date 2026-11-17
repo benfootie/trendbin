@@ -1,351 +1,358 @@
 {
-  "updated_at": "2026-11-17T12:52:29.600772+00:00",
+  "updated_at": "2026-11-17T21:33:56.338531+00:00",
   "countries": {
     "US": {
       "name": "United States",
       "youtube": [
         {
-          "title": "TXT (투모로우바이투게더) 'Angel Bite' Official MV",
-          "channel": "HYBE LABELS",
-          "metrics": "6,139,476 views",
-          "url": "https://www.youtube.com/watch?v=M9G4guYg-i8",
-          "thumbnail": "https://i.ytimg.com/vi/M9G4guYg-i8/hqdefault.jpg"
-        },
-        {
-          "title": "GTA 6 MARATHON | Official Trailer",
-          "channel": "Kai Cenat Live",
-          "metrics": "1,462,979 views",
-          "url": "https://www.youtube.com/watch?v=_AY5krZErfg",
-          "thumbnail": "https://i.ytimg.com/vi/_AY5krZErfg/hqdefault.jpg"
-        },
-        {
-          "title": "The Last Modded GTA 5 Free Roam Video...",
-          "channel": "SMii7Y",
-          "metrics": "2,317,433 views",
-          "url": "https://www.youtube.com/watch?v=wt_W2w_N_Jk",
-          "thumbnail": "https://i.ytimg.com/vi/wt_W2w_N_Jk/hqdefault.jpg"
-        },
-        {
-          "title": "Flunky x Jammin - Otendewa ( Official Audio )",
-          "channel": "Flunky",
-          "metrics": "132,100 views",
-          "url": "https://www.youtube.com/watch?v=-1Doa1tmSAY",
-          "thumbnail": "https://i.ytimg.com/vi/-1Doa1tmSAY/hqdefault.jpg"
-        },
-        {
-          "title": "Remain | Official Trailer",
-          "channel": "Warner Bros.",
-          "metrics": "1,876,586 views",
-          "url": "https://www.youtube.com/watch?v=Fso81Ypg9T4",
-          "thumbnail": "https://i.ytimg.com/vi/Fso81Ypg9T4/hqdefault.jpg"
-        },
-        {
-          "title": "🔴LIVE | AOE 2 | GETTING DRUNK ON MONDAY | ME AND JOHN VS HARD BOTS | FART IN MY MOUTH | #BUNGULATE",
-          "channel": "TheBurntPeanut",
-          "metrics": "1,358,516 views",
-          "url": "https://www.youtube.com/watch?v=CW_rULxbDs0",
-          "thumbnail": "https://i.ytimg.com/vi/CW_rULxbDs0/hqdefault.jpg"
-        },
-        {
-          "title": "XG - DEPENDS (Performance Video)",
-          "channel": "XG",
-          "metrics": "541,001 views",
-          "url": "https://www.youtube.com/watch?v=_B0QvdeXjdE",
-          "thumbnail": "https://i.ytimg.com/vi/_B0QvdeXjdE/hqdefault.jpg"
-        },
-        {
-          "title": "GIVE ME SOME SUGAH | Official Trailer | Netflix",
-          "channel": "Netflix",
-          "metrics": "920,185 views",
-          "url": "https://www.youtube.com/watch?v=tLdpJLVaVRQ",
-          "thumbnail": "https://i.ytimg.com/vi/tLdpJLVaVRQ/hqdefault.jpg"
-        },
-        {
-          "title": "Can 1 Champion beat 5 Coppers?",
-          "channel": "Jynxzi",
-          "metrics": "1,101,257 views",
-          "url": "https://www.youtube.com/watch?v=_XbDOwFfUWg",
-          "thumbnail": "https://i.ytimg.com/vi/_XbDOwFfUWg/hqdefault.jpg"
-        },
-        {
-          "title": "Top 50 Christmas Songs of All Time 🎅🏼 Best Christmas Music Playlist 🎅🏼 Merry Christmas Playlist 2026",
-          "channel": "Timeless Music",
-          "metrics": "116,523 views",
-          "url": "https://www.youtube.com/watch?v=A1VSujN1YgM",
-          "thumbnail": "https://i.ytimg.com/vi/A1VSujN1YgM/hqdefault.jpg"
-        },
-        {
-          "title": "JAMES BOND TRAILER 2028 Robert Pattinson",
-          "channel": "Emergency Awesome",
-          "metrics": "268,077 views",
-          "url": "https://www.youtube.com/watch?v=Y6cPcmQDtio",
-          "thumbnail": "https://i.ytimg.com/vi/Y6cPcmQDtio/hqdefault.jpg"
-        },
-        {
-          "title": "They Locked Me In This Abandoned Building…",
-          "channel": "CaseOh",
-          "metrics": "462,811 views",
-          "url": "https://www.youtube.com/watch?v=-1w_hO9g09s",
-          "thumbnail": "https://i.ytimg.com/vi/-1w_hO9g09s/hqdefault.jpg"
-        },
-        {
-          "title": "Mangi Sulu",
-          "channel": "Kronos_StyleKumul - Topic",
-          "metrics": "23,158 views",
-          "url": "https://www.youtube.com/watch?v=Rqg2skyf3lw",
-          "thumbnail": "https://i.ytimg.com/vi/Rqg2skyf3lw/hqdefault.jpg"
-        },
-        {
-          "title": "NBA 2K27 x GTA 6 (Grand Theft Auto 6) - Official Vice City Crossover Trailer",
-          "channel": "IGN",
-          "metrics": "1,477,702 views",
-          "url": "https://www.youtube.com/watch?v=0e746-1G_sE",
-          "thumbnail": "https://i.ytimg.com/vi/0e746-1G_sE/hqdefault.jpg"
-        },
-        {
-          "title": "GTA 6 - Everything You Need to Know",
-          "channel": "TmarTn2",
-          "metrics": "664,427 views",
-          "url": "https://www.youtube.com/watch?v=RrgB-jXPcaI",
-          "thumbnail": "https://i.ytimg.com/vi/RrgB-jXPcaI/hqdefault.jpg"
-        },
-        {
-          "title": "Fall Out Boy - Doomsday Generation (Slacker For The Ages) [feat. Walter Schreifels] (Official Video)",
-          "channel": "Fall Out Boy",
-          "metrics": "171,592 views",
-          "url": "https://www.youtube.com/watch?v=KcAiT134_Es",
-          "thumbnail": "https://i.ytimg.com/vi/KcAiT134_Es/hqdefault.jpg"
-        },
-        {
-          "title": "Danganronpa 2x2 - System Trailer",
-          "channel": "Spike Chunsoft, Inc.",
-          "metrics": "144,942 views",
-          "url": "https://www.youtube.com/watch?v=ReJkYcgSneE",
-          "thumbnail": "https://i.ytimg.com/vi/ReJkYcgSneE/hqdefault.jpg"
-        },
-        {
-          "title": "GTA6 Livestream - Nov 18",
-          "channel": "VanossGaming",
-          "metrics": "568,800 views",
-          "url": "https://www.youtube.com/watch?v=4jzYed83Zpc",
-          "thumbnail": "https://i.ytimg.com/vi/4jzYed83Zpc/hqdefault.jpg"
-        },
-        {
           "title": "I.N \"NO RETURN\" | [Stray Kids : SKZ-PLAYER]",
           "channel": "Stray Kids",
-          "metrics": "306,568 views",
+          "metrics": "1,033,125 views",
           "url": "https://www.youtube.com/watch?v=masFBnN7jsA",
           "thumbnail": "https://i.ytimg.com/vi/masFBnN7jsA/hqdefault.jpg"
         },
         {
-          "title": "Garfield | Official Trailer | Paramount+",
-          "channel": "Paramount Plus",
-          "metrics": "196,340 views",
-          "url": "https://www.youtube.com/watch?v=QL-Z4fYqEYc",
-          "thumbnail": "https://i.ytimg.com/vi/QL-Z4fYqEYc/hqdefault.jpg"
+          "title": "Twilight (But Better) Teaser Trailer",
+          "channel": "Grace Reiter",
+          "metrics": "151,726 views",
+          "url": "https://www.youtube.com/watch?v=5GB00NsVH3Q",
+          "thumbnail": "https://i.ytimg.com/vi/5GB00NsVH3Q/hqdefault.jpg"
         },
         {
-          "title": "I Taught MY DAUGHTER How To WIN In DRESS TO IMPRESS ROBLOX!",
-          "channel": "callmehhaley",
-          "metrics": "372,832 views",
-          "url": "https://www.youtube.com/watch?v=2fNok52mr90",
-          "thumbnail": "https://i.ytimg.com/vi/2fNok52mr90/hqdefault.jpg"
+          "title": "THE GAME AWARDS: 2026 Nominee Reveal! (Game of the Year)",
+          "channel": "thegameawards",
+          "metrics": "966,371 views",
+          "url": "https://www.youtube.com/watch?v=_e0oJSfmIFU",
+          "thumbnail": "https://i.ytimg.com/vi/_e0oJSfmIFU/hqdefault.jpg"
         },
         {
-          "title": "Tainy, Anuel AA, Ozuna - Adicto (Letra/Lyrics) || bebé, yo soy adicto a tu piel",
-          "channel": "Love Trip",
-          "metrics": "765,868 views",
-          "url": "https://www.youtube.com/watch?v=mtTZ_-VbS30",
-          "thumbnail": "https://i.ytimg.com/vi/mtTZ_-VbS30/hqdefault.jpg"
+          "title": "Top Christmas Songs of All Time Playlist 🎄 Best Christmas Music 2027 🎅 Christmas Songs Playlist",
+          "channel": "Christmas Songs and Carols - Love to Sing",
+          "metrics": "67,608 views",
+          "url": "https://www.youtube.com/watch?v=bZXBgchXJc8",
+          "thumbnail": "https://i.ytimg.com/vi/bZXBgchXJc8/hqdefault.jpg"
         },
         {
-          "title": "Warframe | Warframe: Tau Official Teaser - Watch Devstream 199 on November 27!",
-          "channel": "PlayWarframe",
-          "metrics": "202,277 views",
-          "url": "https://www.youtube.com/watch?v=Mgv4nC-A_GY",
-          "thumbnail": "https://i.ytimg.com/vi/Mgv4nC-A_GY/hqdefault.jpg"
+          "title": "3 Body Problem: Season 2 | Official Teaser | Netflix",
+          "channel": "Netflix",
+          "metrics": "541,148 views",
+          "url": "https://www.youtube.com/watch?v=KInfw7kCPkc",
+          "thumbnail": "https://i.ytimg.com/vi/KInfw7kCPkc/hqdefault.jpg"
         },
         {
-          "title": "We are Going to Sweep... THE MOON!",
-          "channel": "SMii7Yminus",
-          "metrics": "1,364,566 views",
-          "url": "https://www.youtube.com/watch?v=ldggxkmdG8I",
-          "thumbnail": "https://i.ytimg.com/vi/ldggxkmdG8I/hqdefault.jpg"
+          "title": "The Last Modded GTA 5 Free Roam Video...",
+          "channel": "SMii7Y",
+          "metrics": "3,095,525 views",
+          "url": "https://www.youtube.com/watch?v=wt_W2w_N_Jk",
+          "thumbnail": "https://i.ytimg.com/vi/wt_W2w_N_Jk/hqdefault.jpg"
         },
         {
-          "title": "Balcony Jazz At Night - Cozy Outdoor Jazz (Official Music Video)",
-          "channel": "Cozy Outdoor Jazz",
-          "metrics": "126,981 views",
-          "url": "https://www.youtube.com/watch?v=B3ht0wUFf9M",
-          "thumbnail": "https://i.ytimg.com/vi/B3ht0wUFf9M/hqdefault.jpg"
+          "title": "Lil Baby - Aint Goin (Official Music Video)",
+          "channel": "Lil Baby Official ",
+          "metrics": "64,944 views",
+          "url": "https://www.youtube.com/watch?v=BBYdzzyWhTU",
+          "thumbnail": "https://i.ytimg.com/vi/BBYdzzyWhTU/hqdefault.jpg"
         },
         {
-          "title": "FlightReacts To Kai & Speed GTA 6 Trailers!",
-          "channel": "NotYourAverageFlight",
-          "metrics": "56,888 views",
-          "url": "https://www.youtube.com/watch?v=F_Dnb5ljf-4",
-          "thumbnail": "https://i.ytimg.com/vi/F_Dnb5ljf-4/hqdefault.jpg"
+          "title": "GTA 6 MARATHON | Official Trailer",
+          "channel": "Kai Cenat Live",
+          "metrics": "1,825,386 views",
+          "url": "https://www.youtube.com/watch?v=_AY5krZErfg",
+          "thumbnail": "https://i.ytimg.com/vi/_AY5krZErfg/hqdefault.jpg"
         },
         {
-          "title": "Less Than 24 Hours to GTA 6... NEW INFO - 6 Screenshots + My Content Plans For Launch",
-          "channel": "TGG",
-          "metrics": "500,134 views",
-          "url": "https://www.youtube.com/watch?v=-AFSP8PJzKs",
-          "thumbnail": "https://i.ytimg.com/vi/-AFSP8PJzKs/hqdefault.jpg"
+          "title": "🔴LIVE | AOE 2 | GETTING DRUNK ON MONDAY | ME AND JOHN VS HARD BOTS | FART IN MY MOUTH | #BUNGULATE",
+          "channel": "TheBurntPeanut",
+          "metrics": "1,448,631 views",
+          "url": "https://www.youtube.com/watch?v=CW_rULxbDs0",
+          "thumbnail": "https://i.ytimg.com/vi/CW_rULxbDs0/hqdefault.jpg"
         },
         {
-          "title": "Carin Leon - Primera Cita (Letra)",
-          "channel": "Hey!",
-          "metrics": "426,072 views",
-          "url": "https://www.youtube.com/watch?v=t6oKMdyzx14",
-          "thumbnail": "https://i.ytimg.com/vi/t6oKMdyzx14/hqdefault.jpg"
-        },
-        {
-          "title": "Avengers Doomsday Final Trailer | \"We Are Doomed\"",
-          "channel": "Venral",
-          "metrics": "832,586 views",
-          "url": "https://www.youtube.com/watch?v=BV0nOUX3DcA",
-          "thumbnail": "https://i.ytimg.com/vi/BV0nOUX3DcA/hqdefault.jpg"
-        },
-        {
-          "title": "The Parkour Podcast...",
-          "channel": "Joe Bart Games",
-          "metrics": "1,083,281 views",
-          "url": "https://www.youtube.com/watch?v=GDf8gPvxiGo",
-          "thumbnail": "https://i.ytimg.com/vi/GDf8gPvxiGo/hqdefault.jpg"
-        },
-        {
-          "title": "Big Michael Michael",
-          "channel": "Omblados - Topic",
-          "metrics": "99,324 views",
-          "url": "https://www.youtube.com/watch?v=j4eJ2xriKI4",
-          "thumbnail": "https://i.ytimg.com/vi/j4eJ2xriKI4/hqdefault.jpg"
-        },
-        {
-          "title": "Sonic the Hedgehog x McLaren Racing: Beyond Fast - Teaser Trailer",
-          "channel": "Sonic the Hedgehog",
-          "metrics": "234,905 views",
-          "url": "https://www.youtube.com/watch?v=f8lFkUzg5Mg",
-          "thumbnail": "https://i.ytimg.com/vi/f8lFkUzg5Mg/hqdefault.jpg"
+          "title": "Flunky x Jammin - Otendewa ( Official Audio )",
+          "channel": "Flunky",
+          "metrics": "136,111 views",
+          "url": "https://www.youtube.com/watch?v=-1Doa1tmSAY",
+          "thumbnail": "https://i.ytimg.com/vi/-1Doa1tmSAY/hqdefault.jpg"
         },
         {
           "title": "iSHOWSPEED x GTA 6 | OFFICIAL TRAILER",
           "channel": "IShowSpeed",
-          "metrics": "1,543,123 views",
+          "metrics": "2,194,927 views",
           "url": "https://www.youtube.com/watch?v=2BRL4ALMCyA",
           "thumbnail": "https://i.ytimg.com/vi/2BRL4ALMCyA/hqdefault.jpg"
         },
         {
-          "title": "FullyChop - Second Guessin ft. DMG Lil Scoom  (Official Music Video)",
-          "channel": "FullyChop",
-          "metrics": "74,711 views",
-          "url": "https://www.youtube.com/watch?v=ybikSHMnNYQ",
-          "thumbnail": "https://i.ytimg.com/vi/ybikSHMnNYQ/hqdefault.jpg"
+          "title": "Less Than 24 Hours to GTA 6... NEW INFO - 6 Screenshots + My Content Plans For Launch",
+          "channel": "TGG",
+          "metrics": "1,201,145 views",
+          "url": "https://www.youtube.com/watch?v=-AFSP8PJzKs",
+          "thumbnail": "https://i.ytimg.com/vi/-AFSP8PJzKs/hqdefault.jpg"
         },
         {
-          "title": "this marvel news is crazy...",
-          "channel": "VETZ",
-          "metrics": "58,836 views",
-          "url": "https://www.youtube.com/watch?v=vU0eErdO850",
-          "thumbnail": "https://i.ytimg.com/vi/vU0eErdO850/hqdefault.jpg"
+          "title": "Top 50 Christmas Songs of All Time 🎅🏼 Best Christmas Music Playlist 🎅🏼 Merry Christmas Playlist 2026",
+          "channel": "Timeless Music",
+          "metrics": "192,800 views",
+          "url": "https://www.youtube.com/watch?v=A1VSujN1YgM",
+          "thumbnail": "https://i.ytimg.com/vi/A1VSujN1YgM/hqdefault.jpg"
         },
         {
-          "title": "I gave birth.",
-          "channel": "Flamingo",
-          "metrics": "284,076 views",
-          "url": "https://www.youtube.com/watch?v=mbfZWRpN8SU",
-          "thumbnail": "https://i.ytimg.com/vi/mbfZWRpN8SU/hqdefault.jpg"
+          "title": "Ted: The Animated Series | Official Trailer | Peacock Original",
+          "channel": "Peacock",
+          "metrics": "159,055 views",
+          "url": "https://www.youtube.com/watch?v=5cK2fXepkoU",
+          "thumbnail": "https://i.ytimg.com/vi/5cK2fXepkoU/hqdefault.jpg"
+        },
+        {
+          "title": "Can 1 Champion beat 5 Coppers?",
+          "channel": "Jynxzi",
+          "metrics": "1,364,695 views",
+          "url": "https://www.youtube.com/watch?v=_XbDOwFfUWg",
+          "thumbnail": "https://i.ytimg.com/vi/_XbDOwFfUWg/hqdefault.jpg"
+        },
+        {
+          "title": "XG - DEPENDS (Performance Video)",
+          "channel": "XG",
+          "metrics": "903,684 views",
+          "url": "https://www.youtube.com/watch?v=_B0QvdeXjdE",
+          "thumbnail": "https://i.ytimg.com/vi/_B0QvdeXjdE/hqdefault.jpg"
+        },
+        {
+          "title": "2nd Anniversary Celebration Trailer | Two Years of Marvel Rivals",
+          "channel": "Marvel Rivals",
+          "metrics": "143,874 views",
+          "url": "https://www.youtube.com/watch?v=dXHSPs5bblQ",
+          "thumbnail": "https://i.ytimg.com/vi/dXHSPs5bblQ/hqdefault.jpg"
+        },
+        {
+          "title": "A Skeptical Look at 'Grand Theft Auto VI'...",
+          "channel": "Luke Stephens",
+          "metrics": "278,005 views",
+          "url": "https://www.youtube.com/watch?v=GKfom_Qa5Hs",
+          "thumbnail": "https://i.ytimg.com/vi/GKfom_Qa5Hs/hqdefault.jpg"
+        },
+        {
+          "title": "TXT (투모로우바이투게더) 'Angel Bite' Official MV",
+          "channel": "HYBE LABELS",
+          "metrics": "9,174,462 views",
+          "url": "https://www.youtube.com/watch?v=M9G4guYg-i8",
+          "thumbnail": "https://i.ytimg.com/vi/M9G4guYg-i8/hqdefault.jpg"
+        },
+        {
+          "title": "Remain | Official Trailer",
+          "channel": "Warner Bros.",
+          "metrics": "2,925,542 views",
+          "url": "https://www.youtube.com/watch?v=Fso81Ypg9T4",
+          "thumbnail": "https://i.ytimg.com/vi/Fso81Ypg9T4/hqdefault.jpg"
+        },
+        {
+          "title": "GTA 6 - Everything You Need to Know",
+          "channel": "TmarTn2",
+          "metrics": "910,205 views",
+          "url": "https://www.youtube.com/watch?v=RrgB-jXPcaI",
+          "thumbnail": "https://i.ytimg.com/vi/RrgB-jXPcaI/hqdefault.jpg"
+        },
+        {
+          "title": "Mangi Sulu",
+          "channel": "Kronos_StyleKumul - Topic",
+          "metrics": "23,895 views",
+          "url": "https://www.youtube.com/watch?v=Rqg2skyf3lw",
+          "thumbnail": "https://i.ytimg.com/vi/Rqg2skyf3lw/hqdefault.jpg"
+        },
+        {
+          "title": "Only Murders in London | Official Trailer | Hulu",
+          "channel": "Hulu",
+          "metrics": "821,156 views",
+          "url": "https://www.youtube.com/watch?v=Pqb80zv19V4",
+          "thumbnail": "https://i.ytimg.com/vi/Pqb80zv19V4/hqdefault.jpg"
+        },
+        {
+          "title": "They Locked Me In This Abandoned Building…",
+          "channel": "CaseOh",
+          "metrics": "610,162 views",
+          "url": "https://www.youtube.com/watch?v=-1w_hO9g09s",
+          "thumbnail": "https://i.ytimg.com/vi/-1w_hO9g09s/hqdefault.jpg"
+        },
+        {
+          "title": "HAGALO (Remix)",
+          "channel": "Køddy G - Topic",
+          "metrics": "185,874 views",
+          "url": "https://www.youtube.com/watch?v=53r_NpXcZVA",
+          "thumbnail": "https://i.ytimg.com/vi/53r_NpXcZVA/hqdefault.jpg"
+        },
+        {
+          "title": "The Beatles - In My Life (Official Teaser Trailer starring Owen Cooper)",
+          "channel": "The Beatles",
+          "metrics": "79,980 views",
+          "url": "https://www.youtube.com/watch?v=usvWh-7lPyw",
+          "thumbnail": "https://i.ytimg.com/vi/usvWh-7lPyw/hqdefault.jpg"
+        },
+        {
+          "title": "MONOCHROME",
+          "channel": "Markiplier",
+          "metrics": "190,285 views",
+          "url": "https://www.youtube.com/watch?v=2azaT1HxJHI",
+          "thumbnail": "https://i.ytimg.com/vi/2azaT1HxJHI/hqdefault.jpg"
+        },
+        {
+          "title": "DESDE LOS 15",
+          "channel": "Lil Naay - Topic",
+          "metrics": "132,891 views",
+          "url": "https://www.youtube.com/watch?v=-X6rwGDHIuc",
+          "thumbnail": "https://i.ytimg.com/vi/-X6rwGDHIuc/hqdefault.jpg"
+        },
+        {
+          "title": "Avengers: Doomsday | TV SPOT “DARKNESS” CONCEPT | Marvel Studios",
+          "channel": "MovieTrailers Entertainment",
+          "metrics": "788,922 views",
+          "url": "https://www.youtube.com/watch?v=z59xy3GvSrk",
+          "thumbnail": "https://i.ytimg.com/vi/z59xy3GvSrk/hqdefault.jpg"
+        },
+        {
+          "title": "GTA6 Livestream - Nov 18",
+          "channel": "VanossGaming",
+          "metrics": "770,235 views",
+          "url": "https://www.youtube.com/watch?v=4jzYed83Zpc",
+          "thumbnail": "https://i.ytimg.com/vi/4jzYed83Zpc/hqdefault.jpg"
+        },
+        {
+          "title": "\"PINKY UP\" (Official EYEKONS Video) | KATSEYE",
+          "channel": "KATSEYE",
+          "metrics": "589,972 views",
+          "url": "https://www.youtube.com/watch?v=Cp-72VPlBzQ",
+          "thumbnail": "https://i.ytimg.com/vi/Cp-72VPlBzQ/hqdefault.jpg"
+        },
+        {
+          "title": "Honest Trailers | Resident Evil (2026)",
+          "channel": "Screen Junkies",
+          "metrics": "70,741 views",
+          "url": "https://www.youtube.com/watch?v=N4T1WcU4qHA",
+          "thumbnail": "https://i.ytimg.com/vi/N4T1WcU4qHA/hqdefault.jpg"
+        },
+        {
+          "title": "Dead by Daylight | The Future of Dead by Daylight Deep Dive",
+          "channel": "Dead by Daylight",
+          "metrics": "209,745 views",
+          "url": "https://www.youtube.com/watch?v=b2Fvy2VL9Js",
+          "thumbnail": "https://i.ytimg.com/vi/b2Fvy2VL9Js/hqdefault.jpg"
         },
         {
           "title": "Kevin Gates - In My Hand",
           "channel": "kevingatesTV",
-          "metrics": "79,048 views",
+          "metrics": "105,855 views",
           "url": "https://www.youtube.com/watch?v=B-OvKbbATZw",
           "thumbnail": "https://i.ytimg.com/vi/B-OvKbbATZw/hqdefault.jpg"
         },
         {
-          "title": "NUREMBERG 1561 - Official Trailer",
-          "channel": "TUPACABRA",
-          "metrics": "135,911 views",
-          "url": "https://www.youtube.com/watch?v=Xeto4CMwvzA",
-          "thumbnail": "https://i.ytimg.com/vi/Xeto4CMwvzA/hqdefault.jpg"
+          "title": "FlightReacts To Kai & Speed GTA 6 Trailers!",
+          "channel": "NotYourAverageFlight",
+          "metrics": "106,553 views",
+          "url": "https://www.youtube.com/watch?v=F_Dnb5ljf-4",
+          "thumbnail": "https://i.ytimg.com/vi/F_Dnb5ljf-4/hqdefault.jpg"
         },
         {
-          "title": "They tried to betray my guild. This is what happened to them.",
-          "channel": "Asmongold TV  ",
-          "metrics": "690,212 views",
-          "url": "https://www.youtube.com/watch?v=_z5Dr5IV_Yo",
-          "thumbnail": "https://i.ytimg.com/vi/_z5Dr5IV_Yo/hqdefault.jpg"
+          "title": "Trolling My Friends In Haunted Heist...",
+          "channel": "Joe Bart Games",
+          "metrics": "157,512 views",
+          "url": "https://www.youtube.com/watch?v=o_VTIA-ICHQ",
+          "thumbnail": "https://i.ytimg.com/vi/o_VTIA-ICHQ/hqdefault.jpg"
         },
         {
-          "title": "Top 50 Christmas Songs of ALL Time 🎅 Best Christmas Music Playlist 🎄🎁 Merry Christmas Songs",
-          "channel": "Winter Glow Christmas",
-          "metrics": "334,691 views",
-          "url": "https://www.youtube.com/watch?v=o2LLvKf608Y",
-          "thumbnail": "https://i.ytimg.com/vi/o2LLvKf608Y/hqdefault.jpg"
+          "title": "Balcony Jazz At Night - Cozy Outdoor Jazz (Official Music Video)",
+          "channel": "Cozy Outdoor Jazz",
+          "metrics": "157,295 views",
+          "url": "https://www.youtube.com/watch?v=B3ht0wUFf9M",
+          "thumbnail": "https://i.ytimg.com/vi/B3ht0wUFf9M/hqdefault.jpg"
         },
         {
-          "title": "The Modern Audience Is Massively COPING About Fable's \"Gameplay\" Trailer Being REJECTED By Gamers",
-          "channel": "Rev",
-          "metrics": "33,940 views",
-          "url": "https://www.youtube.com/watch?v=avNPgM_q2wE",
-          "thumbnail": "https://i.ytimg.com/vi/avNPgM_q2wE/hqdefault.jpg"
+          "title": "JAMES BOND TRAILER 2028 Robert Pattinson",
+          "channel": "Emergency Awesome",
+          "metrics": "333,230 views",
+          "url": "https://www.youtube.com/watch?v=Y6cPcmQDtio",
+          "thumbnail": "https://i.ytimg.com/vi/Y6cPcmQDtio/hqdefault.jpg"
         },
         {
-          "title": "Your Favorite YouTubers are Addicted to Crack",
-          "channel": "SMii7Yplus",
-          "metrics": "2,276,584 views",
-          "url": "https://www.youtube.com/watch?v=onkUy9goSo0",
-          "thumbnail": "https://i.ytimg.com/vi/onkUy9goSo0/hqdefault.jpg"
+          "title": "I gave birth.",
+          "channel": "Flamingo",
+          "metrics": "433,010 views",
+          "url": "https://www.youtube.com/watch?v=mbfZWRpN8SU",
+          "thumbnail": "https://i.ytimg.com/vi/mbfZWRpN8SU/hqdefault.jpg"
         },
         {
-          "title": "Grupo Selectivo  Ft Grupo Recluta - No Hay Loco Que No Corone  (Video Oficial)",
-          "channel": "Selectivo Oficial",
-          "metrics": "206,776 views",
-          "url": "https://www.youtube.com/watch?v=37kOCTtv5yM",
-          "thumbnail": "https://i.ytimg.com/vi/37kOCTtv5yM/hqdefault.jpg"
+          "title": "smile",
+          "channel": "LOVIXX - Topic",
+          "metrics": "259,490 views",
+          "url": "https://www.youtube.com/watch?v=Y6ZV_lxktcU",
+          "thumbnail": "https://i.ytimg.com/vi/Y6ZV_lxktcU/hqdefault.jpg"
         },
         {
-          "title": "Foxhole Engines of War - Announcement Trailer",
-          "channel": "Siege Camp",
-          "metrics": "225,175 views",
-          "url": "https://www.youtube.com/watch?v=JiP_wARSrhU",
-          "thumbnail": "https://i.ytimg.com/vi/JiP_wARSrhU/hqdefault.jpg"
+          "title": "Danganronpa 2x2 - System Trailer",
+          "channel": "Spike Chunsoft, Inc.",
+          "metrics": "211,893 views",
+          "url": "https://www.youtube.com/watch?v=ReJkYcgSneE",
+          "thumbnail": "https://i.ytimg.com/vi/ReJkYcgSneE/hqdefault.jpg"
         },
         {
-          "title": "We Ranked EVERY Video Game Song",
-          "channel": "Clooless Reacts",
-          "metrics": "196,213 views",
-          "url": "https://www.youtube.com/watch?v=L8zyrUH0gAA",
-          "thumbnail": "https://i.ytimg.com/vi/L8zyrUH0gAA/hqdefault.jpg"
+          "title": "I Taught MY DAUGHTER How To WIN In DRESS TO IMPRESS ROBLOX!",
+          "channel": "callmehhaley",
+          "metrics": "462,697 views",
+          "url": "https://www.youtube.com/watch?v=2fNok52mr90",
+          "thumbnail": "https://i.ytimg.com/vi/2fNok52mr90/hqdefault.jpg"
         },
         {
-          "title": "LAKEHOUSE. ft. Future.",
-          "channel": "YFN Lucci - Topic",
-          "metrics": "56,964 views",
-          "url": "https://www.youtube.com/watch?v=-b_NLHFhvRs",
-          "thumbnail": "https://i.ytimg.com/vi/-b_NLHFhvRs/hqdefault.jpg"
+          "title": "Carin Leon - Primera Cita (Letra)",
+          "channel": "Hey!",
+          "metrics": "618,876 views",
+          "url": "https://www.youtube.com/watch?v=t6oKMdyzx14",
+          "thumbnail": "https://i.ytimg.com/vi/t6oKMdyzx14/hqdefault.jpg"
         },
         {
-          "title": "GARFIELD - Official Trailer (2026) 4K",
-          "channel": "JoBlo Animation 4K",
-          "metrics": "196,754 views",
-          "url": "https://www.youtube.com/watch?v=pdmFWvFzjFU",
-          "thumbnail": "https://i.ytimg.com/vi/pdmFWvFzjFU/hqdefault.jpg"
+          "title": "Texas Hunting Reserve | Announcement Trailer #theHunterCOTW",
+          "channel": "Expansive Worlds",
+          "metrics": "25,588 views",
+          "url": "https://www.youtube.com/watch?v=0iaHvSLeMcQ",
+          "thumbnail": "https://i.ytimg.com/vi/0iaHvSLeMcQ/hqdefault.jpg"
         },
         {
-          "title": "Shaggy - Angel (Lyrics) Ft. Rayvon",
-          "channel": "RapVerse",
-          "metrics": "295,522 views",
-          "url": "https://www.youtube.com/watch?v=NJ8sBelL59Q",
-          "thumbnail": "https://i.ytimg.com/vi/NJ8sBelL59Q/hqdefault.jpg"
+          "title": "I Found The Worst GTA 5 Lore Video... Trevor IS Dumb, Actually",
+          "channel": "DarkViperAU",
+          "metrics": "239,792 views",
+          "url": "https://www.youtube.com/watch?v=QfXC_-d2Kz4",
+          "thumbnail": "https://i.ytimg.com/vi/QfXC_-d2Kz4/hqdefault.jpg"
         },
         {
-          "title": "THE AVENGERS DOOMSDAY FINAL TRAILER HAS LEAKED...",
-          "channel": "Everything Always",
-          "metrics": "184,966 views",
-          "url": "https://www.youtube.com/watch?v=fwV-0f9ipkA",
-          "thumbnail": "https://i.ytimg.com/vi/fwV-0f9ipkA/hqdefault.jpg"
+          "title": "November 17th",
+          "channel": "Starlito - Topic",
+          "metrics": "11,291 views",
+          "url": "https://www.youtube.com/watch?v=padq6J94NyE",
+          "thumbnail": "https://i.ytimg.com/vi/padq6J94NyE/hqdefault.jpg"
+        },
+        {
+          "title": "Garfield | Official Trailer | Paramount+",
+          "channel": "Paramount Plus",
+          "metrics": "223,649 views",
+          "url": "https://www.youtube.com/watch?v=QL-Z4fYqEYc",
+          "thumbnail": "https://i.ytimg.com/vi/QL-Z4fYqEYc/hqdefault.jpg"
+        },
+        {
+          "title": "We are Going to Sweep... THE MOON!",
+          "channel": "SMii7Yminus",
+          "metrics": "1,560,997 views",
+          "url": "https://www.youtube.com/watch?v=ldggxkmdG8I",
+          "thumbnail": "https://i.ytimg.com/vi/ldggxkmdG8I/hqdefault.jpg"
+        },
+        {
+          "title": "Fall Out Boy - Doomsday Generation (Slacker For The Ages) [feat. Walter Schreifels] (Official Video)",
+          "channel": "Fall Out Boy",
+          "metrics": "209,393 views",
+          "url": "https://www.youtube.com/watch?v=KcAiT134_Es",
+          "thumbnail": "https://i.ytimg.com/vi/KcAiT134_Es/hqdefault.jpg"
+        },
+        {
+          "title": "Warframe | Warframe: Tau Official Teaser - Watch Devstream 199 on November 27!",
+          "channel": "PlayWarframe",
+          "metrics": "245,497 views",
+          "url": "https://www.youtube.com/watch?v=Mgv4nC-A_GY",
+          "thumbnail": "https://i.ytimg.com/vi/Mgv4nC-A_GY/hqdefault.jpg"
         }
       ]
     },
@@ -353,354 +360,354 @@
       "name": "India",
       "youtube": [
         {
-          "title": "#Video - डॉक्टरवा साला | #Aashish Yadav , #Khushi Kakkar | Doctorwa Sala | New #Magahi Song 2026",
-          "channel": "Aashish Yadav Entertainment",
-          "metrics": "765,472 views",
-          "url": "https://www.youtube.com/watch?v=HdD4wp7hA70",
-          "thumbnail": "https://i.ytimg.com/vi/HdD4wp7hA70/hqdefault.jpg"
+          "title": "EETHA - Ji Ji Re Ji (Video) Shraddha Kapoor | Ajay-Atul, Shreya G, Amitabh B | In Cinemas 4th Dec",
+          "channel": "Universal Music India",
+          "metrics": "6,362,583 views",
+          "url": "https://www.youtube.com/watch?v=0HPTMnDgH5U",
+          "thumbnail": "https://i.ytimg.com/vi/0HPTMnDgH5U/hqdefault.jpg"
         },
         {
           "title": "O.M - Trailer | Dhanush | Mammootty | Sai Pallavi | Sreeleela | Rajkumar Periasamy | Sai Abhyankkar",
           "channel": "Divo Music",
-          "metrics": "29,639,712 views",
+          "metrics": "30,649,303 views",
           "url": "https://www.youtube.com/watch?v=aGSOpb_6kv8",
           "thumbnail": "https://i.ytimg.com/vi/aGSOpb_6kv8/hqdefault.jpg"
         },
         {
+          "title": "WE BOUGHT THE MOST EXPENSIVE HOUSE | GTA 5 GAMEPLAY #172",
+          "channel": "Techno Gamerz",
+          "metrics": "4,575,770 views",
+          "url": "https://www.youtube.com/watch?v=3oSyJwGLzAw",
+          "thumbnail": "https://i.ytimg.com/vi/3oSyJwGLzAw/hqdefault.jpg"
+        },
+        {
+          "title": "#Video - डॉक्टरवा साला | #Aashish Yadav , #Khushi Kakkar | Doctorwa Sala | New #Magahi Song 2026",
+          "channel": "Aashish Yadav Entertainment",
+          "metrics": "925,264 views",
+          "url": "https://www.youtube.com/watch?v=HdD4wp7hA70",
+          "thumbnail": "https://i.ytimg.com/vi/HdD4wp7hA70/hqdefault.jpg"
+        },
+        {
+          "title": "Aakasamlo Oka Tara Trailer | Dulquer Salmaan | Satvika | Shruti Haasan | GV Prakash | Pavan Sadineni",
+          "channel": "Geetha Arts ",
+          "metrics": "5,846,924 views",
+          "url": "https://www.youtube.com/watch?v=hXPXHfgHvzU",
+          "thumbnail": "https://i.ytimg.com/vi/hXPXHfgHvzU/hqdefault.jpg"
+        },
+        {
           "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
           "channel": "PAJI IS LIVE",
-          "metrics": "4,911,095 views",
+          "metrics": "4,912,610 views",
           "url": "https://www.youtube.com/watch?v=JSl2YvKUUXA",
           "thumbnail": "https://i.ytimg.com/vi/JSl2YvKUUXA/hqdefault.jpg"
         },
         {
           "title": "#Video | #Raushan Rohi | पेटीकोट | #रंगदारी गाना | Petikot | #Srishti Bharti | #Rangdari Maghi Song",
           "channel": "Raushan Rohi Entertainment",
-          "metrics": "837,075 views",
+          "metrics": "985,050 views",
           "url": "https://www.youtube.com/watch?v=HZjdE2UDvZ4",
           "thumbnail": "https://i.ytimg.com/vi/HZjdE2UDvZ4/hqdefault.jpg"
         },
         {
-          "title": "Aakasamlo Oka Tara Trailer | Dulquer Salmaan | Satvika | Shruti Haasan | GV Prakash | Pavan Sadineni",
-          "channel": "Geetha Arts ",
-          "metrics": "4,887,354 views",
-          "url": "https://www.youtube.com/watch?v=hXPXHfgHvzU",
-          "thumbnail": "https://i.ytimg.com/vi/hXPXHfgHvzU/hqdefault.jpg"
-        },
-        {
-          "title": "GTA 5 LIVE | Train vs 100 Luxury Cars 😱🔥 कौन बचेगा?",
-          "channel": "Sunil Gaming",
-          "metrics": "2,808,402 views",
-          "url": "https://www.youtube.com/watch?v=IyJvTbHIbSA",
-          "thumbnail": "https://i.ytimg.com/vi/IyJvTbHIbSA/hqdefault.jpg"
-        },
-        {
-          "title": "Insomaniac Insomaniac | Yo Yo Honey Singh | Priyanshi Srivastava | Full Video",
-          "channel": "Yo Yo Honey Singh",
-          "metrics": "16,470,154 views",
-          "url": "https://www.youtube.com/watch?v=PXri2z4SLAc",
-          "thumbnail": "https://i.ytimg.com/vi/PXri2z4SLAc/hqdefault.jpg"
-        },
-        {
           "title": "Lakshmi Puthra Official Trailer | Chikkanna, Vandita Gowda | Thara Anuradha| Arjun Janya | A P Arjun",
           "channel": "DBeatsMusicWorld",
-          "metrics": "101,405 views",
+          "metrics": "277,154 views",
           "url": "https://www.youtube.com/watch?v=mjmUAJULQL0",
           "thumbnail": "https://i.ytimg.com/vi/mjmUAJULQL0/hqdefault.jpg"
         },
         {
-          "title": "I TRANSFORMED Into PROBOIZ95 in Minecraft…",
-          "channel": "Junkeyy",
-          "metrics": "1,298,468 views",
-          "url": "https://www.youtube.com/watch?v=JzrI8kuezwc",
-          "thumbnail": "https://i.ytimg.com/vi/JzrI8kuezwc/hqdefault.jpg"
+          "title": "I PRETENDED TO BE A GIRL IN ROBLOX STEAL AN EGG !!",
+          "channel": "Shivang Mini",
+          "metrics": "744,728 views",
+          "url": "https://www.youtube.com/watch?v=3INqD4WE_XI",
+          "thumbnail": "https://i.ytimg.com/vi/3INqD4WE_XI/hqdefault.jpg"
         },
         {
           "title": "Video | मए हो जाला | Khesari Lal Yadav, Chanda Raj | Ft. Dimpal Singh | Bhojpuri Song 2026",
           "channel": "Mahadeva Records",
-          "metrics": "988,228 views",
+          "metrics": "1,180,184 views",
           "url": "https://www.youtube.com/watch?v=HYCnOnKUUUQ",
           "thumbnail": "https://i.ytimg.com/vi/HYCnOnKUUUQ/hqdefault.jpg"
         },
         {
+          "title": "MANIKANDA - Teaser (Tamil) | Vaibhav | Vishnu Sasi Shankar | Venkat Prabhu | Premgi | Tantra Films",
+          "channel": "AP International",
+          "metrics": "161,966 views",
+          "url": "https://www.youtube.com/watch?v=BLrV7Pa0ZU8",
+          "thumbnail": "https://i.ytimg.com/vi/BLrV7Pa0ZU8/hqdefault.jpg"
+        },
+        {
+          "title": "chain together live stream #shortslive #chaintogethergame @GMRYASH",
+          "channel": "GMR YASH 04",
+          "metrics": "2,994,469 views",
+          "url": "https://www.youtube.com/watch?v=23iB4xJLOi0",
+          "thumbnail": "https://i.ytimg.com/vi/23iB4xJLOi0/hqdefault.jpg"
+        },
+        {
+          "title": "Insomaniac Insomaniac | Yo Yo Honey Singh | Priyanshi Srivastava | Full Video",
+          "channel": "Yo Yo Honey Singh",
+          "metrics": "21,520,155 views",
+          "url": "https://www.youtube.com/watch?v=PXri2z4SLAc",
+          "thumbnail": "https://i.ytimg.com/vi/PXri2z4SLAc/hqdefault.jpg"
+        },
+        {
           "title": "Doomsday Trailer is Coming? Doom is not Iron man? - RoastVerse 189",
           "channel": "ComicVerse",
-          "metrics": "1,327,592 views",
+          "metrics": "1,395,712 views",
           "url": "https://www.youtube.com/watch?v=tWsm7cojWIs",
           "thumbnail": "https://i.ytimg.com/vi/tWsm7cojWIs/hqdefault.jpg"
         },
         {
-          "title": "Surviving On One REALISTIC BLOCK in MInecraft..",
-          "channel": "Carry Depie",
-          "metrics": "1,794,660 views",
-          "url": "https://www.youtube.com/watch?v=HNEMfMCPXDU",
-          "thumbnail": "https://i.ytimg.com/vi/HNEMfMCPXDU/hqdefault.jpg"
+          "title": "GTA 5 LIVE | Train vs 100 Luxury Cars 😱🔥 कौन बचेगा?",
+          "channel": "Sunil Gaming",
+          "metrics": "2,816,370 views",
+          "url": "https://www.youtube.com/watch?v=IyJvTbHIbSA",
+          "thumbnail": "https://i.ytimg.com/vi/IyJvTbHIbSA/hqdefault.jpg"
         },
         {
           "title": "Big Men Chapter 5 - Nuksaan (Official Video) R Nait | Latest Punjabi Songs 2026",
           "channel": "R Nait",
-          "metrics": "2,141,846 views",
+          "metrics": "2,742,181 views",
           "url": "https://www.youtube.com/watch?v=2VU3R5jlDiM",
           "thumbnail": "https://i.ytimg.com/vi/2VU3R5jlDiM/hqdefault.jpg"
         },
         {
           "title": "Dhindora 2 | Official Trailer | Bhuvan Bam | Netflix India",
           "channel": "Netflix India",
-          "metrics": "9,450,798 views",
+          "metrics": "10,135,178 views",
           "url": "https://www.youtube.com/watch?v=AjGW8oxTars",
           "thumbnail": "https://i.ytimg.com/vi/AjGW8oxTars/hqdefault.jpg"
         },
         {
-          "title": "DARKHEROES: SHENG HAS ARRIVED!! [Season 4 Episode 1]",
-          "channel": "ProBoiz 95",
-          "metrics": "4,205,815 views",
-          "url": "https://www.youtube.com/watch?v=y8ccGvuywug",
-          "thumbnail": "https://i.ytimg.com/vi/y8ccGvuywug/hqdefault.jpg"
-        },
-        {
-          "title": "EETHA - Ji Ji Re Ji (Video) Shraddha Kapoor | Ajay-Atul, Shreya G, Amitabh B | In Cinemas 4th Dec",
-          "channel": "Universal Music India",
-          "metrics": "1,387,708 views",
-          "url": "https://www.youtube.com/watch?v=0HPTMnDgH5U",
-          "thumbnail": "https://i.ytimg.com/vi/0HPTMnDgH5U/hqdefault.jpg"
-        },
-        {
-          "title": "Avengers Doomsday Trailer Today and DCU Reboot - Superhero News #361 (தமிழ்)",
-          "channel": "Mokka Commentry",
-          "metrics": "172,901 views",
-          "url": "https://www.youtube.com/watch?v=6wxurpuO4io",
-          "thumbnail": "https://i.ytimg.com/vi/6wxurpuO4io/hqdefault.jpg"
-        },
-        {
-          "title": "We Found Mysterious Mob Doors in Minecraft..",
-          "channel": "Karry Kraft",
-          "metrics": "887,090 views",
-          "url": "https://www.youtube.com/watch?v=RI_cKQ3WJZ8",
-          "thumbnail": "https://i.ytimg.com/vi/RI_cKQ3WJZ8/hqdefault.jpg"
+          "title": "🔴 LIVE | tiger hunt challange🐆 | GTA V Mods #gtav #gtalive gta v live",
+          "channel": "Gaming With VV",
+          "metrics": "8,828,489 views",
+          "url": "https://www.youtube.com/watch?v=jGrZPh6CxiQ",
+          "thumbnail": "https://i.ytimg.com/vi/jGrZPh6CxiQ/hqdefault.jpg"
         },
         {
           "title": "কার্তিক পূজার গান | Kartik Thakur Song 2026 | Kartik Puja Song  | Kartik Song | Kartik Puja | BRM",
           "channel": "BRM MUSIC",
-          "metrics": "139,974 views",
+          "metrics": "248,482 views",
           "url": "https://www.youtube.com/watch?v=Q3I0P7FnAt4",
           "thumbnail": "https://i.ytimg.com/vi/Q3I0P7FnAt4/hqdefault.jpg"
         },
         {
-          "title": "ANANTHAPAYANA – OFFICIAL TRAILER | Shree Kaka | Akash Parva | Santosh Ashok Hegade| SK Films Factory",
-          "channel": "ASHOK AUDIO",
-          "metrics": "33,331 views",
-          "url": "https://www.youtube.com/watch?v=wDg0ki-fAoo",
-          "thumbnail": "https://i.ytimg.com/vi/wDg0ki-fAoo/hqdefault.jpg"
+          "title": "Avengers: Doomsday | TV SPOT “DARKNESS” CONCEPT | Marvel Studios",
+          "channel": "MovieTrailers Entertainment",
+          "metrics": "788,922 views",
+          "url": "https://www.youtube.com/watch?v=z59xy3GvSrk",
+          "thumbnail": "https://i.ytimg.com/vi/z59xy3GvSrk/hqdefault.jpg"
         },
         {
-          "title": "bye...I Will Miss You",
-          "channel": "Mythpat",
-          "metrics": "1,798,729 views",
-          "url": "https://www.youtube.com/watch?v=T19V2vE7nQ8",
-          "thumbnail": "https://i.ytimg.com/vi/T19V2vE7nQ8/hqdefault.jpg"
+          "title": "I Pretended to be BABY HOUSE HEAD on ONE CHUNK!",
+          "channel": "Carry Depie",
+          "metrics": "649,705 views",
+          "url": "https://www.youtube.com/watch?v=Yn9e5by-j7U",
+          "thumbnail": "https://i.ytimg.com/vi/Yn9e5by-j7U/hqdefault.jpg"
         },
         {
           "title": "Video | #Neelkamal_Singh | कमर के नापी | #नीलकमल सिंह | Kamar Ke Napi | Akanksha Puri | New Song",
           "channel": "T-Series Hamaar Bhojpuri",
-          "metrics": "418,782 views",
+          "metrics": "792,427 views",
           "url": "https://www.youtube.com/watch?v=din4c47CQjw",
           "thumbnail": "https://i.ytimg.com/vi/din4c47CQjw/hqdefault.jpg"
         },
         {
-          "title": "O.M Operation Mole | Trailer Reaction | Dhanush | Mammukka | Malayalam",
-          "channel": "LifeofShazzam",
-          "metrics": "464,612 views",
-          "url": "https://www.youtube.com/watch?v=tQUxxuH28fQ",
-          "thumbnail": "https://i.ytimg.com/vi/tQUxxuH28fQ/hqdefault.jpg"
+          "title": "Avengers Doomsday Trailer Today and DCU Reboot - Superhero News #361 (தமிழ்)",
+          "channel": "Mokka Commentry",
+          "metrics": "182,899 views",
+          "url": "https://www.youtube.com/watch?v=6wxurpuO4io",
+          "thumbnail": "https://i.ytimg.com/vi/6wxurpuO4io/hqdefault.jpg"
         },
         {
-          "title": "GRANNY khele🔥 #shortsfeed #shorts #granny",
-          "channel": " NAITIK 09",
-          "metrics": "1,388,588 views",
-          "url": "https://www.youtube.com/watch?v=tb5VVlcnV6k",
-          "thumbnail": "https://i.ytimg.com/vi/tb5VVlcnV6k/hqdefault.jpg"
-        },
-        {
-          "title": "#Video | छुआ के आईल बाड़ू | #Chandan Chanchal | Chhuaa Ke Aail Badu | New Bhojpuri Song 2026",
-          "channel": "West Bhojpuri",
-          "metrics": "378,912 views",
-          "url": "https://www.youtube.com/watch?v=uwZiDhiR6us",
-          "thumbnail": "https://i.ytimg.com/vi/uwZiDhiR6us/hqdefault.jpg"
-        },
-        {
-          "title": "Ramayana is Ruling the Box Office! King New Song? - Flick the News 107",
-          "channel": "FlickVerse",
-          "metrics": "1,450,645 views",
-          "url": "https://www.youtube.com/watch?v=tPY1RfpqFPI",
-          "thumbnail": "https://i.ytimg.com/vi/tPY1RfpqFPI/hqdefault.jpg"
-        },
-        {
-          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-          "channel": "Hear Is Live",
-          "metrics": "3,835,123 views",
-          "url": "https://www.youtube.com/watch?v=-J-jB5_IN3E",
-          "thumbnail": "https://i.ytimg.com/vi/-J-jB5_IN3E/hqdefault.jpg"
-        },
-        {
-          "title": "#Video | होई गईलें भोर | Power Star #Pawan Singh | Hoi Gaile Bhor | New Chhath Geet 2026 | छठ",
-          "channel": "Maa Amma Films Bhakti",
-          "metrics": "3,335,109 views",
-          "url": "https://www.youtube.com/watch?v=MPTaStdbVuw",
-          "thumbnail": "https://i.ytimg.com/vi/MPTaStdbVuw/hqdefault.jpg"
-        },
-        {
-          "title": "Maatrubhumi - Trailer | Salman Khan, Chitrangda Singh | Apoorva Lakhia | 4th December 2026",
-          "channel": "Salman Khan Films",
-          "metrics": "51,894,729 views",
-          "url": "https://www.youtube.com/watch?v=fA8-gXDoAk8",
-          "thumbnail": "https://i.ytimg.com/vi/fA8-gXDoAk8/hqdefault.jpg"
-        },
-        {
-          "title": "Riya gets injected By Shinchan 💥 | INDIAN THEFT AUTO SIMULATOR",
-          "channel": "JINWO X GAMER",
-          "metrics": "488,816 views",
-          "url": "https://www.youtube.com/watch?v=sKjk3_8nw7U",
-          "thumbnail": "https://i.ytimg.com/vi/sKjk3_8nw7U/hqdefault.jpg"
+          "title": "I TRANSFORMED Into PROBOIZ95 in Minecraft…",
+          "channel": "Junkeyy",
+          "metrics": "1,648,104 views",
+          "url": "https://www.youtube.com/watch?v=JzrI8kuezwc",
+          "thumbnail": "https://i.ytimg.com/vi/JzrI8kuezwc/hqdefault.jpg"
         },
         {
           "title": "Maine Tere Hi Bharose Hanuman - Hanuman Ansh | Neem Karoli Baba मैंने तेरे ही भरोसे",
           "channel": "Bhakti Sadhna भक्ति साधना",
-          "metrics": "120,449 views",
+          "metrics": "197,809 views",
           "url": "https://www.youtube.com/watch?v=s0UD4TZDByA",
           "thumbnail": "https://i.ytimg.com/vi/s0UD4TZDByA/hqdefault.jpg"
         },
         {
-          "title": "Aakasamlo Oka Tara Trailer Reaction Malayalam | DulquerSalmaan Satvika Shruti Haasan | @UnniVlogs",
-          "channel": "Unni Vlogs Cinephile",
-          "metrics": "53,829 views",
-          "url": "https://www.youtube.com/watch?v=BCQHGuWcUmg",
-          "thumbnail": "https://i.ytimg.com/vi/BCQHGuWcUmg/hqdefault.jpg"
-        },
-        {
-          "title": "THATS NOT MY MOM !!",
-          "channel": "Shivang Beyond",
-          "metrics": "91,305 views",
-          "url": "https://www.youtube.com/watch?v=WkpG46K88Y4",
-          "thumbnail": "https://i.ytimg.com/vi/WkpG46K88Y4/hqdefault.jpg"
-        },
-        {
-          "title": "शारदा सिन्हा के लोकप्रिय छठ गीत | Sharda Sinha Chhath Geet 2026 | Nonstop Chhath Songs Jukebox",
-          "channel": "Sharda Sinha Official ",
-          "metrics": "1,244,556 views",
-          "url": "https://www.youtube.com/watch?v=qUZM1DttM60",
-          "thumbnail": "https://i.ytimg.com/vi/qUZM1DttM60/hqdefault.jpg"
-        },
-        {
-          "title": "GTA 5 LIVE 🔥#shortsfeed #shortslive #gta #shorts #live #gta5",
-          "channel": "RageGod fps",
-          "metrics": "841,471 views",
-          "url": "https://www.youtube.com/watch?v=Izj0xZxDTqA",
-          "thumbnail": "https://i.ytimg.com/vi/Izj0xZxDTqA/hqdefault.jpg"
-        },
-        {
-          "title": "मगंलवार के दिन जरूर अपने घर में ये सुंदरकांड चलाकर रख देना कर्ज ,बीमारी खत्म और धन वर्षा शुरू",
-          "channel": "Sunder Path",
-          "metrics": "118,460 views",
-          "url": "https://www.youtube.com/watch?v=4JzmpXRcbhY",
-          "thumbnail": "https://i.ytimg.com/vi/4JzmpXRcbhY/hqdefault.jpg"
-        },
-        {
-          "title": "WHY I FELL IN LOVE WITH STEAL AN EGG ROBLOX AGAIN !!",
-          "channel": "Shivang Mini",
-          "metrics": "823,133 views",
-          "url": "https://www.youtube.com/watch?v=S2lHQi09r9k",
-          "thumbnail": "https://i.ytimg.com/vi/S2lHQi09r9k/hqdefault.jpg"
-        },
-        {
-          "title": "വൃശ്ചികം ഒന്നിന് കേൾക്കേണ്ട അയ്യപ്പ ഭക്തിഗാനങ്ങൾ | Ayyapp Songs Malayalam | Ayyappa Devotional Songs",
-          "channel": "CL Records Music Company",
-          "metrics": "134,287 views",
-          "url": "https://www.youtube.com/watch?v=n19LRLNznE4",
-          "thumbnail": "https://i.ytimg.com/vi/n19LRLNznE4/hqdefault.jpg"
-        },
-        {
-          "title": "Jack Ne Riya Ko Injection Laga Diya 😝💥 Indian Theft Aura Simulator 🔥",
-          "channel": "Hapyer Nation",
-          "metrics": "394,174 views",
-          "url": "https://www.youtube.com/watch?v=aHTAQq5ysb4",
-          "thumbnail": "https://i.ytimg.com/vi/aHTAQq5ysb4/hqdefault.jpg"
-        },
-        {
-          "title": "Chhathi Maiya | Chhath Puja Geet | THE VVAAN | Sidharth Malhotra, Tamannaah | Vishal Mishra| Lyrical",
-          "channel": "Zee Music Company",
-          "metrics": "1,027,781 views",
-          "url": "https://www.youtube.com/watch?v=p4QwL0IuseU",
-          "thumbnail": "https://i.ytimg.com/vi/p4QwL0IuseU/hqdefault.jpg"
-        },
-        {
-          "title": "😱💉Motu Doctor Gives Patlu a Painful Injection 😂 Part 2 Indian Theft Auto Simulator #gameplay ",
-          "channel": "Side Player Gamer",
-          "metrics": "212,859 views",
-          "url": "https://www.youtube.com/watch?v=8AeZpZ1UVKM",
-          "thumbnail": "https://i.ytimg.com/vi/8AeZpZ1UVKM/hqdefault.jpg"
-        },
-        {
-          "title": "Shubh - Never Left (Official Music Video)",
-          "channel": "SHUBH",
-          "metrics": "6,209,583 views",
-          "url": "https://www.youtube.com/watch?v=zdz8swOQUqw",
-          "thumbnail": "https://i.ytimg.com/vi/zdz8swOQUqw/hqdefault.jpg"
-        },
-        {
-          "title": "INDIAN TRUCK DRIVER GAMEPLAY #shortsfeed #shortslive #shorts #ets2 #live #dangerous #1",
-          "channel": "Yang Is Live",
-          "metrics": "3,035,198 views",
-          "url": "https://www.youtube.com/watch?v=avVmXzfRFYw",
-          "thumbnail": "https://i.ytimg.com/vi/avVmXzfRFYw/hqdefault.jpg"
-        },
-        {
-          "title": "सम्पूर्ण रामायण चौपाई  ~ मंगल भवन अमंगल हारी |  Ravi Raj ~ Ramayan Chaupai || #Ram Katha 2026",
-          "channel": "BHAKTI LIVE ",
-          "metrics": "55,594 views",
-          "url": "https://www.youtube.com/watch?v=HndncfV2jcQ",
-          "thumbnail": "https://i.ytimg.com/vi/HndncfV2jcQ/hqdefault.jpg"
-        },
-        {
-          "title": "Doraemon Ne Shin-chan ko Nahi Diya Remote Control Ambulance And Bus 🤯 Of Indian Theft Auto Simulator",
-          "channel": "anmol gaming 2m",
-          "metrics": "476,453 views",
-          "url": "https://www.youtube.com/watch?v=flm5BC6OSn4",
-          "thumbnail": "https://i.ytimg.com/vi/flm5BC6OSn4/hqdefault.jpg"
-        },
-        {
-          "title": "Pramod Premi Yadav New Song | बाप के भेज | Baap Ke Bhej | New Bhojpuri Song 2026",
-          "channel": "Saregama Hum Bhojpuri",
-          "metrics": "187,701 views",
-          "url": "https://www.youtube.com/watch?v=BfR8NI7Z6d4",
-          "thumbnail": "https://i.ytimg.com/vi/BfR8NI7Z6d4/hqdefault.jpg"
+          "title": "iSHOWSPEED x GTA 6 | OFFICIAL TRAILER",
+          "channel": "IShowSpeed",
+          "metrics": "2,194,927 views",
+          "url": "https://www.youtube.com/watch?v=2BRL4ALMCyA",
+          "thumbnail": "https://i.ytimg.com/vi/2BRL4ALMCyA/hqdefault.jpg"
         },
         {
           "title": "🌿FREE FIRE LIVE🌿PLAYING BR-RANKED😎2X AWM SPEED GAME PLAY 🎮🎯 ON LIVE - GARENA FREE FIRE",
           "channel": "DAD I AM OK GAMING",
-          "metrics": "1,130,712 views",
-          "url": "https://www.youtube.com/watch?v=kZx1kxrFScI",
-          "thumbnail": "https://i.ytimg.com/vi/kZx1kxrFScI/hqdefault.jpg"
+          "metrics": "1,101,831 views",
+          "url": "https://www.youtube.com/watch?v=xbbwelyxEls",
+          "thumbnail": "https://i.ytimg.com/vi/xbbwelyxEls/hqdefault.jpg"
         },
         {
-          "title": "O Zubeen Dada (Legend Never Die)",
-          "channel": "Zubeen Garg - Topic",
-          "metrics": "78,082 views",
-          "url": "https://www.youtube.com/watch?v=RulNan01D2w",
-          "thumbnail": "https://i.ytimg.com/vi/RulNan01D2w/hqdefault.jpg"
+          "title": "#Video | छुआ के आईल बाड़ू | #Chandan Chanchal | Chhuaa Ke Aail Badu | New Bhojpuri Song 2026",
+          "channel": "West Bhojpuri",
+          "metrics": "479,415 views",
+          "url": "https://www.youtube.com/watch?v=uwZiDhiR6us",
+          "thumbnail": "https://i.ytimg.com/vi/uwZiDhiR6us/hqdefault.jpg"
+        },
+        {
+          "title": "ANANTHAPAYANA – OFFICIAL TRAILER | Shree Kaka | Akash Parva | Santosh Ashok Hegade| SK Films Factory",
+          "channel": "ASHOK AUDIO",
+          "metrics": "93,072 views",
+          "url": "https://www.youtube.com/watch?v=wDg0ki-fAoo",
+          "thumbnail": "https://i.ytimg.com/vi/wDg0ki-fAoo/hqdefault.jpg"
+        },
+        {
+          "title": "GTA 5 LIVE 🔥#gta5 #gtav #gaming",
+          "channel": "ADITYAISLIVE",
+          "metrics": "1,996,839 views",
+          "url": "https://www.youtube.com/watch?v=gLAWjkUa8yo",
+          "thumbnail": "https://i.ytimg.com/vi/gLAWjkUa8yo/hqdefault.jpg"
+        },
+        {
+          "title": "#Video | होई गईलें भोर | Power Star #Pawan Singh | Hoi Gaile Bhor | New Chhath Geet 2026 | छठ",
+          "channel": "Maa Amma Films Bhakti",
+          "metrics": "3,358,191 views",
+          "url": "https://www.youtube.com/watch?v=MPTaStdbVuw",
+          "thumbnail": "https://i.ytimg.com/vi/MPTaStdbVuw/hqdefault.jpg"
+        },
+        {
+          "title": "O.M Operation Mole | Trailer Reaction | Dhanush | Mammukka | Malayalam",
+          "channel": "LifeofShazzam",
+          "metrics": "474,569 views",
+          "url": "https://www.youtube.com/watch?v=tQUxxuH28fQ",
+          "thumbnail": "https://i.ytimg.com/vi/tQUxxuH28fQ/hqdefault.jpg"
+        },
+        {
+          "title": "SCRIMS WITH @JONATHANGAMINGYT  | BGMI LIVE | ‪@LoLzZzGaming‬",
+          "channel": "LoLzZz Gaming",
+          "metrics": "969,995 views",
+          "url": "https://www.youtube.com/watch?v=lm-hZ5v8nds",
+          "thumbnail": "https://i.ytimg.com/vi/lm-hZ5v8nds/hqdefault.jpg"
+        },
+        {
+          "title": "मगंलवार के दिन जरूर अपने घर में ये सुंदरकांड चलाकर रख देना कर्ज ,बीमारी खत्म और धन वर्षा शुरू",
+          "channel": "Sunder Path",
+          "metrics": "151,083 views",
+          "url": "https://www.youtube.com/watch?v=4JzmpXRcbhY",
+          "thumbnail": "https://i.ytimg.com/vi/4JzmpXRcbhY/hqdefault.jpg"
+        },
+        {
+          "title": "3 Body Problem: Season 2 | Official Teaser | Netflix",
+          "channel": "Netflix",
+          "metrics": "541,148 views",
+          "url": "https://www.youtube.com/watch?v=KInfw7kCPkc",
+          "thumbnail": "https://i.ytimg.com/vi/KInfw7kCPkc/hqdefault.jpg"
+        },
+        {
+          "title": "bye...I Will Miss You",
+          "channel": "Mythpat",
+          "metrics": "2,623,107 views",
+          "url": "https://www.youtube.com/watch?v=T19V2vE7nQ8",
+          "thumbnail": "https://i.ytimg.com/vi/T19V2vE7nQ8/hqdefault.jpg"
+        },
+        {
+          "title": "✓ Nach Bindani Dj Pe | Masoom Sharma | Gulshan Music,Jaat Nia,Renuka Panwar | New Haryanvi Song 2026",
+          "channel": "Royal Beats Music",
+          "metrics": "84,579 views",
+          "url": "https://www.youtube.com/watch?v=xunDWhM-PqE",
+          "thumbnail": "https://i.ytimg.com/vi/xunDWhM-PqE/hqdefault.jpg"
+        },
+        {
+          "title": "LIVE | King of Salangpur Movie Trailer Launch Event & Lok Dayro | Brijraj Gadhvi | Uday Dhadhal",
+          "channel": "SHIKSHA TV LIVE",
+          "metrics": "9,346 views",
+          "url": "https://www.youtube.com/watch?v=l1EHiDxjl4I",
+          "thumbnail": "https://i.ytimg.com/vi/l1EHiDxjl4I/hqdefault.jpg"
+        },
+        {
+          "title": "GTA 5 LIVE 🔥 #shortsfeed #shorts #grandtheftauto5",
+          "channel": " NAITIK 09",
+          "metrics": "2,746,195 views",
+          "url": "https://www.youtube.com/watch?v=QalS9zbrHu8",
+          "thumbnail": "https://i.ytimg.com/vi/QalS9zbrHu8/hqdefault.jpg"
+        },
+        {
+          "title": "शारदा सिन्हा के लोकप्रिय छठ गीत | Sharda Sinha Chhath Geet 2026 | Nonstop Chhath Songs Jukebox",
+          "channel": "Sharda Sinha Official ",
+          "metrics": "1,249,871 views",
+          "url": "https://www.youtube.com/watch?v=qUZM1DttM60",
+          "thumbnail": "https://i.ytimg.com/vi/qUZM1DttM60/hqdefault.jpg"
+        },
+        {
+          "title": "AOT Official Trailer Reaction | Dulquer Salmaan Aakasamlo oka tara | shruthi | Entertainment Kizhi",
+          "channel": "Entertainment Kizhi",
+          "metrics": "32,391 views",
+          "url": "https://www.youtube.com/watch?v=xMlZVnN2cSc",
+          "thumbnail": "https://i.ytimg.com/vi/xMlZVnN2cSc/hqdefault.jpg"
+        },
+        {
+          "title": "We Found Mysterious Mob Doors in Minecraft..",
+          "channel": "Karry Kraft",
+          "metrics": "1,035,155 views",
+          "url": "https://www.youtube.com/watch?v=RI_cKQ3WJZ8",
+          "thumbnail": "https://i.ytimg.com/vi/RI_cKQ3WJZ8/hqdefault.jpg"
+        },
+        {
+          "title": "కార్తీక  సోమవారం రోజు ఈ పాటలు  వింటే సకల సంపదలు, అష్ట ఐశ్వర్యాలు మీ సొంతం SIVA MANASASMARAMI",
+          "channel": "భక్తి పాటలు తెలుగు - Bhakthi Patalu Telugu",
+          "metrics": "456,422 views",
+          "url": "https://www.youtube.com/watch?v=_3KNTW3jcTc",
+          "thumbnail": "https://i.ytimg.com/vi/_3KNTW3jcTc/hqdefault.jpg"
+        },
+        {
+          "title": "Ramayana is Ruling the Box Office! King New Song? - Flick the News 107",
+          "channel": "FlickVerse",
+          "metrics": "1,461,713 views",
+          "url": "https://www.youtube.com/watch?v=tPY1RfpqFPI",
+          "thumbnail": "https://i.ytimg.com/vi/tPY1RfpqFPI/hqdefault.jpg"
         },
         {
           "title": "Can We Escape from Papa's Pizzeria?",
           "channel": "The Savage Square",
-          "metrics": "101,209 views",
+          "metrics": "348,304 views",
           "url": "https://www.youtube.com/watch?v=xPErUYWQBeY",
           "thumbnail": "https://i.ytimg.com/vi/xPErUYWQBeY/hqdefault.jpg"
         },
         {
-          "title": "Ek Sanam Teri Aankh Katili Full Song  - Jani Jani Pila De Pani Song | Instagram Trending Song 2026",
-          "channel": "Sufi Irfan ",
-          "metrics": "301,861 views",
-          "url": "https://www.youtube.com/watch?v=NknGqF0PZak",
-          "thumbnail": "https://i.ytimg.com/vi/NknGqF0PZak/hqdefault.jpg"
+          "title": "വൃശ്ചികം ഒന്നിന് കേൾക്കേണ്ട അയ്യപ്പ ഭക്തിഗാനങ്ങൾ | Ayyapp Songs Malayalam | Ayyappa Devotional Songs",
+          "channel": "CL Records Music Company",
+          "metrics": "182,904 views",
+          "url": "https://www.youtube.com/watch?v=n19LRLNznE4",
+          "thumbnail": "https://i.ytimg.com/vi/n19LRLNznE4/hqdefault.jpg"
+        },
+        {
+          "title": "THATS NOT MY MOM !!",
+          "channel": "Shivang Beyond",
+          "metrics": "270,317 views",
+          "url": "https://www.youtube.com/watch?v=WkpG46K88Y4",
+          "thumbnail": "https://i.ytimg.com/vi/WkpG46K88Y4/hqdefault.jpg"
+        },
+        {
+          "title": "O Zubeen Dada (Legend Never Die)",
+          "channel": "Zubeen Garg - Topic",
+          "metrics": "126,156 views",
+          "url": "https://www.youtube.com/watch?v=RulNan01D2w",
+          "thumbnail": "https://i.ytimg.com/vi/RulNan01D2w/hqdefault.jpg"
+        },
+        {
+          "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
+          "channel": "BOSS GAMING",
+          "metrics": "2,181,830 views",
+          "url": "https://www.youtube.com/watch?v=er5b-T4YcGM",
+          "thumbnail": "https://i.ytimg.com/vi/er5b-T4YcGM/hqdefault.jpg"
+        },
+        {
+          "title": "Shubh - Never Left (Official Music Video)",
+          "channel": "SHUBH",
+          "metrics": "6,836,824 views",
+          "url": "https://www.youtube.com/watch?v=zdz8swOQUqw",
+          "thumbnail": "https://i.ytimg.com/vi/zdz8swOQUqw/hqdefault.jpg"
         }
       ]
     },
@@ -708,340 +715,354 @@
       "name": "United Kingdom",
       "youtube": [
         {
+          "title": "Top Christmas Songs of All Time Playlist 🎄 Best Christmas Music 2027 🎅 Christmas Songs Playlist",
+          "channel": "Christmas Songs and Carols - Love to Sing",
+          "metrics": "67,608 views",
+          "url": "https://www.youtube.com/watch?v=bZXBgchXJc8",
+          "thumbnail": "https://i.ytimg.com/vi/bZXBgchXJc8/hqdefault.jpg"
+        },
+        {
+          "title": "3 Body Problem: Season 2 | Official Teaser | Netflix",
+          "channel": "Netflix",
+          "metrics": "541,148 views",
+          "url": "https://www.youtube.com/watch?v=KInfw7kCPkc",
+          "thumbnail": "https://i.ytimg.com/vi/KInfw7kCPkc/hqdefault.jpg"
+        },
+        {
+          "title": "THE GAME AWARDS: 2026 Nominee Reveal! (Game of the Year)",
+          "channel": "thegameawards",
+          "metrics": "966,371 views",
+          "url": "https://www.youtube.com/watch?v=_e0oJSfmIFU",
+          "thumbnail": "https://i.ytimg.com/vi/_e0oJSfmIFU/hqdefault.jpg"
+        },
+        {
           "title": "I.N \"NO RETURN\" | [Stray Kids : SKZ-PLAYER]",
           "channel": "Stray Kids",
-          "metrics": "306,568 views",
+          "metrics": "1,033,125 views",
           "url": "https://www.youtube.com/watch?v=masFBnN7jsA",
           "thumbnail": "https://i.ytimg.com/vi/masFBnN7jsA/hqdefault.jpg"
         },
         {
-          "title": "Official Hollyoaks Winter Trailer 2026 | Hollyoaks",
-          "channel": "Hollyoaks",
-          "metrics": "44,191 views",
-          "url": "https://www.youtube.com/watch?v=S6WSR8lq7H0",
-          "thumbnail": "https://i.ytimg.com/vi/S6WSR8lq7H0/hqdefault.jpg"
+          "title": "Twilight (But Better) Teaser Trailer",
+          "channel": "Grace Reiter",
+          "metrics": "151,726 views",
+          "url": "https://www.youtube.com/watch?v=5GB00NsVH3Q",
+          "thumbnail": "https://i.ytimg.com/vi/5GB00NsVH3Q/hqdefault.jpg"
         },
         {
           "title": "Less Than 24 Hours to GTA 6... NEW INFO - 6 Screenshots + My Content Plans For Launch",
           "channel": "TGG",
-          "metrics": "500,134 views",
+          "metrics": "1,201,145 views",
           "url": "https://www.youtube.com/watch?v=-AFSP8PJzKs",
           "thumbnail": "https://i.ytimg.com/vi/-AFSP8PJzKs/hqdefault.jpg"
         },
         {
+          "title": "\"PINKY UP\" (Official EYEKONS Video) | KATSEYE",
+          "channel": "KATSEYE",
+          "metrics": "589,972 views",
+          "url": "https://www.youtube.com/watch?v=Cp-72VPlBzQ",
+          "thumbnail": "https://i.ytimg.com/vi/Cp-72VPlBzQ/hqdefault.jpg"
+        },
+        {
+          "title": "The Beatles - In My Life (Official Teaser Trailer starring Owen Cooper)",
+          "channel": "The Beatles",
+          "metrics": "79,980 views",
+          "url": "https://www.youtube.com/watch?v=usvWh-7lPyw",
+          "thumbnail": "https://i.ytimg.com/vi/usvWh-7lPyw/hqdefault.jpg"
+        },
+        {
+          "title": "A Skeptical Look at 'Grand Theft Auto VI'...",
+          "channel": "Luke Stephens",
+          "metrics": "278,005 views",
+          "url": "https://www.youtube.com/watch?v=GKfom_Qa5Hs",
+          "thumbnail": "https://i.ytimg.com/vi/GKfom_Qa5Hs/hqdefault.jpg"
+        },
+        {
+          "title": "Kizo ft. Avi, Oskar83 - HOTEL PARADISE",
+          "channel": "KIZO",
+          "metrics": "154,042 views",
+          "url": "https://www.youtube.com/watch?v=vcGuaFBzQ0I",
+          "thumbnail": "https://i.ytimg.com/vi/vcGuaFBzQ0I/hqdefault.jpg"
+        },
+        {
+          "title": "Only Murders in London | Official Trailer | Hulu",
+          "channel": "Hulu",
+          "metrics": "821,156 views",
+          "url": "https://www.youtube.com/watch?v=Pqb80zv19V4",
+          "thumbnail": "https://i.ytimg.com/vi/Pqb80zv19V4/hqdefault.jpg"
+        },
+        {
+          "title": "I Found The Worst GTA 5 Lore Video... Trevor IS Dumb, Actually",
+          "channel": "DarkViperAU",
+          "metrics": "239,792 views",
+          "url": "https://www.youtube.com/watch?v=QfXC_-d2Kz4",
+          "thumbnail": "https://i.ytimg.com/vi/QfXC_-d2Kz4/hqdefault.jpg"
+        },
+        {
+          "title": "EETHA - Ji Ji Re Ji (Video) Shraddha Kapoor | Ajay-Atul, Shreya G, Amitabh B | In Cinemas 4th Dec",
+          "channel": "Universal Music India",
+          "metrics": "6,362,583 views",
+          "url": "https://www.youtube.com/watch?v=0HPTMnDgH5U",
+          "thumbnail": "https://i.ytimg.com/vi/0HPTMnDgH5U/hqdefault.jpg"
+        },
+        {
+          "title": "Only Murders In London | Official Trailer | Disney+",
+          "channel": "Disney Plus UK",
+          "metrics": "47,368 views",
+          "url": "https://www.youtube.com/watch?v=WTfQ_bbUelQ",
+          "thumbnail": "https://i.ytimg.com/vi/WTfQ_bbUelQ/hqdefault.jpg"
+        },
+        {
+          "title": "Revealing My Secret.. | Hermitcraft Season 11 | Ep.31",
+          "channel": "SmallishBeans",
+          "metrics": "119,283 views",
+          "url": "https://www.youtube.com/watch?v=EIC8fGtKCw0",
+          "thumbnail": "https://i.ytimg.com/vi/EIC8fGtKCw0/hqdefault.jpg"
+        },
+        {
           "title": "TXT (투모로우바이투게더) 'Angel Bite' Official MV",
           "channel": "HYBE LABELS",
-          "metrics": "6,139,476 views",
+          "metrics": "9,174,462 views",
           "url": "https://www.youtube.com/watch?v=M9G4guYg-i8",
           "thumbnail": "https://i.ytimg.com/vi/M9G4guYg-i8/hqdefault.jpg"
         },
         {
-          "title": "GTA 6 MARATHON | Official Trailer",
-          "channel": "Kai Cenat Live",
-          "metrics": "1,462,979 views",
-          "url": "https://www.youtube.com/watch?v=_AY5krZErfg",
-          "thumbnail": "https://i.ytimg.com/vi/_AY5krZErfg/hqdefault.jpg"
+          "title": "Avengers: Doomsday | TV SPOT “DARKNESS” CONCEPT | Marvel Studios",
+          "channel": "MovieTrailers Entertainment",
+          "metrics": "788,922 views",
+          "url": "https://www.youtube.com/watch?v=z59xy3GvSrk",
+          "thumbnail": "https://i.ytimg.com/vi/z59xy3GvSrk/hqdefault.jpg"
+        },
+        {
+          "title": "GTA 5 But Lava Rises Every Second...",
+          "channel": "TechyCrew",
+          "metrics": "165,501 views",
+          "url": "https://www.youtube.com/watch?v=HANQU0QM6xo",
+          "thumbnail": "https://i.ytimg.com/vi/HANQU0QM6xo/hqdefault.jpg"
+        },
+        {
+          "title": "Bury Tomorrow - Assimilate (Official Music Video)",
+          "channel": "burytomorrow",
+          "metrics": "5,109 views",
+          "url": "https://www.youtube.com/watch?v=DoU6XsUF65w",
+          "thumbnail": "https://i.ytimg.com/vi/DoU6XsUF65w/hqdefault.jpg"
+        },
+        {
+          "title": "iSHOWSPEED x GTA 6 | OFFICIAL TRAILER",
+          "channel": "IShowSpeed",
+          "metrics": "2,194,927 views",
+          "url": "https://www.youtube.com/watch?v=2BRL4ALMCyA",
+          "thumbnail": "https://i.ytimg.com/vi/2BRL4ALMCyA/hqdefault.jpg"
         },
         {
           "title": "The Last Modded GTA 5 Free Roam Video...",
           "channel": "SMii7Y",
-          "metrics": "2,317,433 views",
+          "metrics": "3,095,525 views",
           "url": "https://www.youtube.com/watch?v=wt_W2w_N_Jk",
           "thumbnail": "https://i.ytimg.com/vi/wt_W2w_N_Jk/hqdefault.jpg"
         },
         {
           "title": "U2 - Can’t Stop Us Now",
           "channel": "U2VEVO",
-          "metrics": "534,472 views",
+          "metrics": "786,888 views",
           "url": "https://www.youtube.com/watch?v=e6O_WnhzM-8",
           "thumbnail": "https://i.ytimg.com/vi/e6O_WnhzM-8/hqdefault.jpg"
         },
         {
-          "title": "JAMES BOND: 007 Official Trailer (2027) Teaser",
-          "channel": "MovieGasm‍․com",
-          "metrics": "238,700 views",
-          "url": "https://www.youtube.com/watch?v=0k8cc3ilIhM",
-          "thumbnail": "https://i.ytimg.com/vi/0k8cc3ilIhM/hqdefault.jpg"
+          "title": "Ted: The Animated Series | Official Trailer | Peacock Original",
+          "channel": "Peacock",
+          "metrics": "159,055 views",
+          "url": "https://www.youtube.com/watch?v=5cK2fXepkoU",
+          "thumbnail": "https://i.ytimg.com/vi/5cK2fXepkoU/hqdefault.jpg"
         },
         {
-          "title": "Funniest Sidemen GTA Moments Whilst You Wait For GTA 6",
-          "channel": "SidemenReacts",
-          "metrics": "626,063 views",
-          "url": "https://www.youtube.com/watch?v=NHThc9GQatY",
-          "thumbnail": "https://i.ytimg.com/vi/NHThc9GQatY/hqdefault.jpg"
-        },
-        {
-          "title": "#67 #SAD  Dopesmoke - 1Link Ft OTL x G41 x C1 x CFigures x DT",
-          "channel": "Dopesmoke 67",
-          "metrics": "85,453 views",
-          "url": "https://www.youtube.com/watch?v=jpTZeL7CSmU",
-          "thumbnail": "https://i.ytimg.com/vi/jpTZeL7CSmU/hqdefault.jpg"
-        },
-        {
-          "title": "Remain | Official Trailer",
-          "channel": "Warner Bros.",
-          "metrics": "1,876,586 views",
-          "url": "https://www.youtube.com/watch?v=Fso81Ypg9T4",
-          "thumbnail": "https://i.ytimg.com/vi/Fso81Ypg9T4/hqdefault.jpg"
-        },
-        {
-          "title": "Can 1 Champion beat 5 Coppers?",
-          "channel": "Jynxzi",
-          "metrics": "1,101,257 views",
-          "url": "https://www.youtube.com/watch?v=_XbDOwFfUWg",
-          "thumbnail": "https://i.ytimg.com/vi/_XbDOwFfUWg/hqdefault.jpg"
+          "title": "Why am I so bad at this!?",
+          "channel": "jacksepticeye",
+          "metrics": "217,953 views",
+          "url": "https://www.youtube.com/watch?v=PI_qgAU8ZQQ",
+          "thumbnail": "https://i.ytimg.com/vi/PI_qgAU8ZQQ/hqdefault.jpg"
         },
         {
           "title": "E1 (3x3) - A Letter (Official Video) #ALG",
           "channel": "E1 (3x3)",
-          "metrics": "17,835 views",
+          "metrics": "28,207 views",
           "url": "https://www.youtube.com/watch?v=VMJr_2YaWnI",
           "thumbnail": "https://i.ytimg.com/vi/VMJr_2YaWnI/hqdefault.jpg"
         },
         {
-          "title": "JAMES BOND Official Teaser (2028) Robert Pattinson",
-          "channel": "Rapid Trailer",
-          "metrics": "50,798 views",
-          "url": "https://www.youtube.com/watch?v=mLcq23BxUiM",
-          "thumbnail": "https://i.ytimg.com/vi/mLcq23BxUiM/hqdefault.jpg"
-        },
-        {
-          "title": "GTA 6 - Everything You Need to Know",
-          "channel": "TmarTn2",
-          "metrics": "664,427 views",
-          "url": "https://www.youtube.com/watch?v=RrgB-jXPcaI",
-          "thumbnail": "https://i.ytimg.com/vi/RrgB-jXPcaI/hqdefault.jpg"
-        },
-        {
-          "title": "Fall Out Boy - Doomsday Generation (Slacker For The Ages) [feat. Walter Schreifels] (Official Video)",
-          "channel": "Fall Out Boy",
-          "metrics": "171,592 views",
-          "url": "https://www.youtube.com/watch?v=KcAiT134_Es",
-          "thumbnail": "https://i.ytimg.com/vi/KcAiT134_Es/hqdefault.jpg"
-        },
-        {
-          "title": "007: JAMES BOND 26 Official Trailer Teaser (2028) Robert Pattinson",
-          "channel": "Movie Trailers Source",
-          "metrics": "72,887 views",
-          "url": "https://www.youtube.com/watch?v=28JDr5lFIsI",
-          "thumbnail": "https://i.ytimg.com/vi/28JDr5lFIsI/hqdefault.jpg"
-        },
-        {
-          "title": "iSHOWSPEED x GTA 6 | OFFICIAL TRAILER",
-          "channel": "IShowSpeed",
-          "metrics": "1,543,123 views",
-          "url": "https://www.youtube.com/watch?v=2BRL4ALMCyA",
-          "thumbnail": "https://i.ytimg.com/vi/2BRL4ALMCyA/hqdefault.jpg"
-        },
-        {
-          "title": "ATEEZ(에이티즈) - '친구 (THANK U)' MV",
-          "channel": "ATEEZ",
-          "metrics": "258,910 views",
-          "url": "https://www.youtube.com/watch?v=4BSexJbNNLY",
-          "thumbnail": "https://i.ytimg.com/vi/4BSexJbNNLY/hqdefault.jpg"
-        },
-        {
-          "title": "BOND 26 | Official Teaser Trailer (2028) 4K",
-          "channel": "JoBlo Movie Network",
-          "metrics": "49,759 views",
-          "url": "https://www.youtube.com/watch?v=SecMnqrDbUc",
-          "thumbnail": "https://i.ytimg.com/vi/SecMnqrDbUc/hqdefault.jpg"
-        },
-        {
-          "title": "BOYS vs GIRLS Split the Village in HALF! (Minecraft)",
-          "channel": "Cash",
-          "metrics": "593,853 views",
-          "url": "https://www.youtube.com/watch?v=9WdigZ7TTkM",
-          "thumbnail": "https://i.ytimg.com/vi/9WdigZ7TTkM/hqdefault.jpg"
-        },
-        {
-          "title": "Thank God It's Christmas... Again!",
-          "channel": "Queen - Topic",
-          "metrics": "104,783 views",
-          "url": "https://www.youtube.com/watch?v=PZy03UDusjg",
-          "thumbnail": "https://i.ytimg.com/vi/PZy03UDusjg/hqdefault.jpg"
-        },
-        {
-          "title": "Danganronpa 2x2 - System Trailer",
-          "channel": "Spike Chunsoft, Inc.",
-          "metrics": "144,942 views",
-          "url": "https://www.youtube.com/watch?v=ReJkYcgSneE",
-          "thumbnail": "https://i.ytimg.com/vi/ReJkYcgSneE/hqdefault.jpg"
-        },
-        {
-          "title": "🔴LIVE | AOE 2 | GETTING DRUNK ON MONDAY | ME AND JOHN VS HARD BOTS | FART IN MY MOUTH | #BUNGULATE",
-          "channel": "TheBurntPeanut",
-          "metrics": "1,358,516 views",
-          "url": "https://www.youtube.com/watch?v=CW_rULxbDs0",
-          "thumbnail": "https://i.ytimg.com/vi/CW_rULxbDs0/hqdefault.jpg"
-        },
-        {
-          "title": "Shaggy - Angel (Lyrics) Ft. Rayvon",
-          "channel": "RapVerse",
-          "metrics": "295,522 views",
-          "url": "https://www.youtube.com/watch?v=NJ8sBelL59Q",
-          "thumbnail": "https://i.ytimg.com/vi/NJ8sBelL59Q/hqdefault.jpg"
-        },
-        {
-          "title": "JAMES BOND TRAILER 2028 Robert Pattinson",
-          "channel": "Emergency Awesome",
-          "metrics": "268,077 views",
-          "url": "https://www.youtube.com/watch?v=Y6cPcmQDtio",
-          "thumbnail": "https://i.ytimg.com/vi/Y6cPcmQDtio/hqdefault.jpg"
-        },
-        {
-          "title": "GTA 6 Has So Much to Do... It's Actually RIDICULOUS!",
-          "channel": "Hazard",
-          "metrics": "411,638 views",
-          "url": "https://www.youtube.com/watch?v=587-lLYxzPw",
-          "thumbnail": "https://i.ytimg.com/vi/587-lLYxzPw/hqdefault.jpg"
-        },
-        {
-          "title": "EETHA - Ji Ji Re Ji (Video) Shraddha Kapoor | Ajay-Atul, Shreya G, Amitabh B | In Cinemas 4th Dec",
-          "channel": "Universal Music India",
-          "metrics": "1,387,708 views",
-          "url": "https://www.youtube.com/watch?v=0HPTMnDgH5U",
-          "thumbnail": "https://i.ytimg.com/vi/0HPTMnDgH5U/hqdefault.jpg"
-        },
-        {
           "title": "JAMES BOND 007 Official Teaser Trailer (2028) Robert Pattinson",
           "channel": "KinoCheck.com",
-          "metrics": "10,317 views",
+          "metrics": "90,062 views",
           "url": "https://www.youtube.com/watch?v=-2YlG_F634s",
           "thumbnail": "https://i.ytimg.com/vi/-2YlG_F634s/hqdefault.jpg"
         },
         {
-          "title": "14-0 Or I Don’t Get McGeady!! Fellis Fellas!",
-          "channel": "Harry Hesketh",
-          "metrics": "73,748 views",
-          "url": "https://www.youtube.com/watch?v=-CcH02SrUyY",
-          "thumbnail": "https://i.ytimg.com/vi/-CcH02SrUyY/hqdefault.jpg"
+          "title": "I Killed EVERY Bug in This House... (Roblox)",
+          "channel": "More Techy",
+          "metrics": "117,320 views",
+          "url": "https://www.youtube.com/watch?v=z8oLN3Dnvog",
+          "thumbnail": "https://i.ytimg.com/vi/z8oLN3Dnvog/hqdefault.jpg"
         },
         {
-          "title": "The Chainsmokers - Closer ft. Halsey ❤️ (lyrics)",
-          "channel": "Octava Rock",
-          "metrics": "331,563 views",
-          "url": "https://www.youtube.com/watch?v=nYDdr9BBJZI",
-          "thumbnail": "https://i.ytimg.com/vi/nYDdr9BBJZI/hqdefault.jpg"
+          "title": "Skepta - Secrets of Patriarchy (Official Video)",
+          "channel": "SKEPTA",
+          "metrics": "13,850 views",
+          "url": "https://www.youtube.com/watch?v=RhSuan_P6z4",
+          "thumbnail": "https://i.ytimg.com/vi/RhSuan_P6z4/hqdefault.jpg"
         },
         {
-          "title": "NBA 2K27 x GTA 6 (Grand Theft Auto 6) - Official Vice City Crossover Trailer",
-          "channel": "IGN",
-          "metrics": "1,477,702 views",
-          "url": "https://www.youtube.com/watch?v=0e746-1G_sE",
-          "thumbnail": "https://i.ytimg.com/vi/0e746-1G_sE/hqdefault.jpg"
+          "title": "GTA 6 MARATHON | Official Trailer",
+          "channel": "Kai Cenat Live",
+          "metrics": "1,825,386 views",
+          "url": "https://www.youtube.com/watch?v=_AY5krZErfg",
+          "thumbnail": "https://i.ytimg.com/vi/_AY5krZErfg/hqdefault.jpg"
         },
         {
-          "title": "Country Battle Royale LIVE 🌍 DAY 4",
-          "channel": "Relaxing Simulations",
-          "metrics": "7,481,999 views",
-          "url": "https://www.youtube.com/watch?v=VDwuiTSLSh0",
-          "thumbnail": "https://i.ytimg.com/vi/VDwuiTSLSh0/hqdefault.jpg"
+          "title": "Trolling My Friends As The MIMIC...",
+          "channel": "Techys",
+          "metrics": "100,637 views",
+          "url": "https://www.youtube.com/watch?v=GaZCIv4QYyc",
+          "thumbnail": "https://i.ytimg.com/vi/GaZCIv4QYyc/hqdefault.jpg"
+        },
+        {
+          "title": "Lil Baby - Aint Goin (Official Music Video)",
+          "channel": "Lil Baby Official ",
+          "metrics": "64,944 views",
+          "url": "https://www.youtube.com/watch?v=BBYdzzyWhTU",
+          "thumbnail": "https://i.ytimg.com/vi/BBYdzzyWhTU/hqdefault.jpg"
+        },
+        {
+          "title": "Official Hollyoaks Winter Trailer 2026 | Hollyoaks",
+          "channel": "Hollyoaks",
+          "metrics": "53,299 views",
+          "url": "https://www.youtube.com/watch?v=S6WSR8lq7H0",
+          "thumbnail": "https://i.ytimg.com/vi/S6WSR8lq7H0/hqdefault.jpg"
+        },
+        {
+          "title": "GTA 6 - Everything You Need to Know",
+          "channel": "TmarTn2",
+          "metrics": "910,205 views",
+          "url": "https://www.youtube.com/watch?v=RrgB-jXPcaI",
+          "thumbnail": "https://i.ytimg.com/vi/RrgB-jXPcaI/hqdefault.jpg"
         },
         {
           "title": "XG - DEPENDS (Performance Video)",
           "channel": "XG",
-          "metrics": "541,001 views",
+          "metrics": "903,684 views",
           "url": "https://www.youtube.com/watch?v=_B0QvdeXjdE",
           "thumbnail": "https://i.ytimg.com/vi/_B0QvdeXjdE/hqdefault.jpg"
         },
         {
-          "title": "GIVE ME SOME SUGAH | Official Trailer | Netflix",
-          "channel": "Netflix",
-          "metrics": "920,185 views",
-          "url": "https://www.youtube.com/watch?v=tLdpJLVaVRQ",
-          "thumbnail": "https://i.ytimg.com/vi/tLdpJLVaVRQ/hqdefault.jpg"
+          "title": "JAMES BOND: 007 Official Trailer (2027) Teaser",
+          "channel": "MovieGasm‍․com",
+          "metrics": "324,878 views",
+          "url": "https://www.youtube.com/watch?v=0k8cc3ilIhM",
+          "thumbnail": "https://i.ytimg.com/vi/0k8cc3ilIhM/hqdefault.jpg"
         },
         {
-          "title": "Can I Beat My Dad’s Hollywood Money?",
-          "channel": "Omega Luke",
-          "metrics": "49,165 views",
-          "url": "https://www.youtube.com/watch?v=R9PiUJj2cRk",
-          "thumbnail": "https://i.ytimg.com/vi/R9PiUJj2cRk/hqdefault.jpg"
+          "title": "Can 1 Champion beat 5 Coppers?",
+          "channel": "Jynxzi",
+          "metrics": "1,364,695 views",
+          "url": "https://www.youtube.com/watch?v=_XbDOwFfUWg",
+          "thumbnail": "https://i.ytimg.com/vi/_XbDOwFfUWg/hqdefault.jpg"
         },
         {
-          "title": "Dj Elynzoo - This life is mine",
-          "channel": "Dj Elynzoo",
-          "metrics": "657,042 views",
-          "url": "https://www.youtube.com/watch?v=CVd_ZdHHKVg",
-          "thumbnail": "https://i.ytimg.com/vi/CVd_ZdHHKVg/hqdefault.jpg"
+          "title": "#67 #SAD  Dopesmoke - 1Link Ft OTL x G41 x C1 x CFigures x DT",
+          "channel": "Dopesmoke 67",
+          "metrics": "103,732 views",
+          "url": "https://www.youtube.com/watch?v=jpTZeL7CSmU",
+          "thumbnail": "https://i.ytimg.com/vi/jpTZeL7CSmU/hqdefault.jpg"
         },
         {
-          "title": "Warframe | Warframe: Tau Official Teaser - Watch Devstream 199 on November 27!",
-          "channel": "PlayWarframe",
-          "metrics": "202,277 views",
-          "url": "https://www.youtube.com/watch?v=Mgv4nC-A_GY",
-          "thumbnail": "https://i.ytimg.com/vi/Mgv4nC-A_GY/hqdefault.jpg"
+          "title": "The Other Bennet Sister Special | BritBox Official Trailer",
+          "channel": "BritBox",
+          "metrics": "10,081 views",
+          "url": "https://www.youtube.com/watch?v=8mOveiRgOX4",
+          "thumbnail": "https://i.ytimg.com/vi/8mOveiRgOX4/hqdefault.jpg"
         },
         {
-          "title": "GTA 6 Can Do Things GTA 5 NEVER Could",
-          "channel": "GrandGecko",
-          "metrics": "481,675 views",
-          "url": "https://www.youtube.com/watch?v=lHlyHpa1URg",
-          "thumbnail": "https://i.ytimg.com/vi/lHlyHpa1URg/hqdefault.jpg"
+          "title": "something is wrong with sage...",
+          "channel": "Techy Plays",
+          "metrics": "122,324 views",
+          "url": "https://www.youtube.com/watch?v=UlZcekWiVzY",
+          "thumbnail": "https://i.ytimg.com/vi/UlZcekWiVzY/hqdefault.jpg"
         },
         {
-          "title": "Mama Don't Close Your Eyes",
-          "channel": "Yoshimasa Terui - Topic",
-          "metrics": "385,100 views",
-          "url": "https://www.youtube.com/watch?v=Xk4m6S5O-po",
-          "thumbnail": "https://i.ytimg.com/vi/Xk4m6S5O-po/hqdefault.jpg"
+          "title": "Shaggy - Angel (Lyrics) Ft. Rayvon",
+          "channel": "RapVerse",
+          "metrics": "388,708 views",
+          "url": "https://www.youtube.com/watch?v=NJ8sBelL59Q",
+          "thumbnail": "https://i.ytimg.com/vi/NJ8sBelL59Q/hqdefault.jpg"
         },
         {
-          "title": "Garfield | Official Trailer | Paramount+",
-          "channel": "Paramount Plus",
-          "metrics": "196,340 views",
-          "url": "https://www.youtube.com/watch?v=QL-Z4fYqEYc",
-          "thumbnail": "https://i.ytimg.com/vi/QL-Z4fYqEYc/hqdefault.jpg"
+          "title": "The Other Bennet Sister Christmas Special | Trailer – BBC",
+          "channel": "BBC Trailers",
+          "metrics": "16,910 views",
+          "url": "https://www.youtube.com/watch?v=bfutqPqdPyc",
+          "thumbnail": "https://i.ytimg.com/vi/bfutqPqdPyc/hqdefault.jpg"
         },
         {
-          "title": "County Lines 3",
-          "channel": "Frosty - Topic",
-          "metrics": "23,231 views",
-          "url": "https://www.youtube.com/watch?v=hHnaP-H46fs",
-          "thumbnail": "https://i.ytimg.com/vi/hHnaP-H46fs/hqdefault.jpg"
+          "title": "I Spent $1000 to UPGRADE MY SUBSCRIBERS FC 27 Account! #7",
+          "channel": "Danny Aarons",
+          "metrics": "56,637 views",
+          "url": "https://www.youtube.com/watch?v=2ZtFnDp0lCY",
+          "thumbnail": "https://i.ytimg.com/vi/2ZtFnDp0lCY/hqdefault.jpg"
         },
         {
-          "title": "Sonic the Hedgehog x McLaren Racing: Beyond Fast - Teaser Trailer",
-          "channel": "Sonic the Hedgehog",
-          "metrics": "234,905 views",
-          "url": "https://www.youtube.com/watch?v=f8lFkUzg5Mg",
-          "thumbnail": "https://i.ytimg.com/vi/f8lFkUzg5Mg/hqdefault.jpg"
+          "title": "ONEIL, KANVISE, ERCODES - Smalltown Boy (Official Lyric Video)",
+          "channel": "ONEIL",
+          "metrics": "276,782 views",
+          "url": "https://www.youtube.com/watch?v=4s423Hr1WaQ",
+          "thumbnail": "https://i.ytimg.com/vi/4s423Hr1WaQ/hqdefault.jpg"
         },
         {
-          "title": "Big Men Chapter 5 - Nuksaan (Official Video) R Nait | Latest Punjabi Songs 2026",
-          "channel": "R Nait",
-          "metrics": "2,141,846 views",
-          "url": "https://www.youtube.com/watch?v=2VU3R5jlDiM",
-          "thumbnail": "https://i.ytimg.com/vi/2VU3R5jlDiM/hqdefault.jpg"
+          "title": "2nd Anniversary Celebration Trailer | Two Years of Marvel Rivals",
+          "channel": "Marvel Rivals",
+          "metrics": "143,874 views",
+          "url": "https://www.youtube.com/watch?v=dXHSPs5bblQ",
+          "thumbnail": "https://i.ytimg.com/vi/dXHSPs5bblQ/hqdefault.jpg"
         },
         {
-          "title": "Love is Blind: South Africa | Official Trailer | Netflix",
-          "channel": "AfricaOnNetflix",
-          "metrics": "12,842 views",
-          "url": "https://www.youtube.com/watch?v=FKcMa7iCRKs",
-          "thumbnail": "https://i.ytimg.com/vi/FKcMa7iCRKs/hqdefault.jpg"
+          "title": "Funniest Sidemen GTA Moments Whilst You Wait For GTA 6",
+          "channel": "SidemenReacts",
+          "metrics": "818,614 views",
+          "url": "https://www.youtube.com/watch?v=NHThc9GQatY",
+          "thumbnail": "https://i.ytimg.com/vi/NHThc9GQatY/hqdefault.jpg"
         },
         {
-          "title": "ROBLOX JUMP TO STEAL PHONKS…",
-          "channel": "CashBlox",
-          "metrics": "615,792 views",
-          "url": "https://www.youtube.com/watch?v=xicMjSTDdYI",
-          "thumbnail": "https://i.ytimg.com/vi/xicMjSTDdYI/hqdefault.jpg"
+          "title": "Aa Khada Jatt | Gippy Grewal | Happy Raikoti | New Punjabi Song 2026 | Humble Music",
+          "channel": "Humble Music",
+          "metrics": "1,693,975 views",
+          "url": "https://www.youtube.com/watch?v=qhl0syiggJg",
+          "thumbnail": "https://i.ytimg.com/vi/qhl0syiggJg/hqdefault.jpg"
         },
         {
-          "title": "Top 50 Christmas Songs of ALL Time 🎅 Best Christmas Music Playlist 🎄🎁 Merry Christmas Songs",
-          "channel": "Winter Glow Christmas",
-          "metrics": "334,691 views",
-          "url": "https://www.youtube.com/watch?v=o2LLvKf608Y",
-          "thumbnail": "https://i.ytimg.com/vi/o2LLvKf608Y/hqdefault.jpg"
+          "title": "Remain | Official Trailer",
+          "channel": "Warner Bros.",
+          "metrics": "2,925,542 views",
+          "url": "https://www.youtube.com/watch?v=Fso81Ypg9T4",
+          "thumbnail": "https://i.ytimg.com/vi/Fso81Ypg9T4/hqdefault.jpg"
         },
         {
-          "title": "this marvel news is crazy...",
-          "channel": "VETZ",
-          "metrics": "58,836 views",
-          "url": "https://www.youtube.com/watch?v=vU0eErdO850",
-          "thumbnail": "https://i.ytimg.com/vi/vU0eErdO850/hqdefault.jpg"
+          "title": "Finally Downloading GTA 6!",
+          "channel": "Caylus  ",
+          "metrics": "185,942 views",
+          "url": "https://www.youtube.com/watch?v=lGqAWGv3Ifo",
+          "thumbnail": "https://i.ytimg.com/vi/lGqAWGv3Ifo/hqdefault.jpg"
+        },
+        {
+          "title": "The Four Owls - Get Over (Official Video)",
+          "channel": "HighFocusTV",
+          "metrics": "14,364 views",
+          "url": "https://www.youtube.com/watch?v=VG0sTS5a_34",
+          "thumbnail": "https://i.ytimg.com/vi/VG0sTS5a_34/hqdefault.jpg"
+        },
+        {
+          "title": "Honest Trailers | Resident Evil (2026)",
+          "channel": "Screen Junkies",
+          "metrics": "70,741 views",
+          "url": "https://www.youtube.com/watch?v=N4T1WcU4qHA",
+          "thumbnail": "https://i.ytimg.com/vi/N4T1WcU4qHA/hqdefault.jpg"
         }
       ]
     }
@@ -1051,93 +1072,121 @@
       {
         "title": "deepseek-ai/chat-demo",
         "channel": "TypeScript",
-        "metrics": "4,404 stars",
+        "metrics": "4,507 stars",
         "url": "https://github.com/deepseek-ai/chat-demo",
         "thumbnail": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
       {
         "title": "apex-compute/ANR",
         "channel": "C++",
-        "metrics": "2,539 stars",
+        "metrics": "2,579 stars",
         "url": "https://github.com/apex-compute/ANR",
         "thumbnail": "https://avatars.githubusercontent.com/u/222723497?v=4"
       },
       {
-        "title": "hitkeeen/blender-ai-mcp-addon",
-        "channel": "Mixed",
-        "metrics": "2,387 stars",
-        "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-        "thumbnail": "https://avatars.githubusercontent.com/u/340037382?v=4"
+        "title": "krisgfx9/Wireless-Device-Battery-Monitor",
+        "channel": "C++",
+        "metrics": "2,464 stars",
+        "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+        "thumbnail": "https://avatars.githubusercontent.com/u/85200472?v=4"
       },
       {
         "title": "Noniv/abyssal-garden",
         "channel": "JavaScript",
-        "metrics": "1,983 stars",
+        "metrics": "2,123 stars",
         "url": "https://github.com/Noniv/abyssal-garden",
         "thumbnail": "https://avatars.githubusercontent.com/u/80125277?v=4"
       },
       {
+        "title": "Immortal-Protocols/lastbook",
+        "channel": "Python",
+        "metrics": "1,627 stars",
+        "url": "https://github.com/Immortal-Protocols/lastbook",
+        "thumbnail": "https://avatars.githubusercontent.com/u/223367958?v=4"
+      },
+      {
         "title": "duwqijlk/muse-protocol",
         "channel": "Python",
-        "metrics": "1,551 stars",
+        "metrics": "1,578 stars",
         "url": "https://github.com/duwqijlk/muse-protocol",
         "thumbnail": "https://avatars.githubusercontent.com/u/126966774?v=4"
       },
       {
         "title": "Eynnzerr/TelemetryCleaner",
         "channel": "Kotlin",
-        "metrics": "1,415 stars",
+        "metrics": "1,466 stars",
         "url": "https://github.com/Eynnzerr/TelemetryCleaner",
         "thumbnail": "https://avatars.githubusercontent.com/u/73703990?v=4"
       },
       {
         "title": "ZiChuanLan/freebie-radar",
         "channel": "TypeScript",
-        "metrics": "1,354 stars",
+        "metrics": "1,417 stars",
         "url": "https://github.com/ZiChuanLan/freebie-radar",
         "thumbnail": "https://avatars.githubusercontent.com/u/139305401?v=4"
       },
       {
-        "title": "krisgfx9/Wireless-Device-Battery-Monitor",
-        "channel": "C++",
-        "metrics": "1,156 stars",
-        "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-        "thumbnail": "https://avatars.githubusercontent.com/u/85200472?v=4"
-      },
-      {
-        "title": "Immortal-Protocols/lastbook",
+        "title": "gylive/google-ultra",
         "channel": "Python",
-        "metrics": "1,156 stars",
-        "url": "https://github.com/Immortal-Protocols/lastbook",
-        "thumbnail": "https://avatars.githubusercontent.com/u/223367958?v=4"
+        "metrics": "1,370 stars",
+        "url": "https://github.com/gylive/google-ultra",
+        "thumbnail": "https://avatars.githubusercontent.com/u/87460536?v=4"
       },
       {
-        "title": "opencoredev/islandcn",
-        "channel": "TypeScript",
-        "metrics": "788 stars",
-        "url": "https://github.com/opencoredev/islandcn",
-        "thumbnail": "https://avatars.githubusercontent.com/u/218007078?v=4"
+        "title": "erkamyaman/rust-anything",
+        "channel": "Rust",
+        "metrics": "1,044 stars",
+        "url": "https://github.com/erkamyaman/rust-anything",
+        "thumbnail": "https://avatars.githubusercontent.com/u/88717125?v=4"
       },
       {
         "title": "CzzzzzzJ/mdldm-maitian",
         "channel": "JavaScript",
-        "metrics": "771 stars",
+        "metrics": "981 stars",
         "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
         "thumbnail": "https://avatars.githubusercontent.com/u/110924215?v=4"
       },
       {
+        "title": "sybil-solutions/inference-optimisation-skill",
+        "channel": "Python",
+        "metrics": "877 stars",
+        "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+        "thumbnail": "https://avatars.githubusercontent.com/u/284200730?v=4"
+      },
+      {
         "title": "haziqahmedqasmi/PeakCut",
         "channel": "Python",
-        "metrics": "758 stars",
+        "metrics": "851 stars",
         "url": "https://github.com/haziqahmedqasmi/PeakCut",
         "thumbnail": "https://avatars.githubusercontent.com/u/134844667?v=4"
       },
       {
+        "title": "joshpuckett/allo",
+        "channel": "Python",
+        "metrics": "851 stars",
+        "url": "https://github.com/joshpuckett/allo",
+        "thumbnail": "https://avatars.githubusercontent.com/u/403737?v=4"
+      },
+      {
+        "title": "opencoredev/islandcn",
+        "channel": "TypeScript",
+        "metrics": "793 stars",
+        "url": "https://github.com/opencoredev/islandcn",
+        "thumbnail": "https://avatars.githubusercontent.com/u/218007078?v=4"
+      },
+      {
         "title": "AIRzZ90/study-materials-fork",
         "channel": "TypeScript",
-        "metrics": "745 stars",
+        "metrics": "746 stars",
         "url": "https://github.com/AIRzZ90/study-materials-fork",
         "thumbnail": "https://avatars.githubusercontent.com/u/218946305?v=4"
+      },
+      {
+        "title": "n4ze3m/tiny-voca",
+        "channel": "Python",
+        "metrics": "686 stars",
+        "url": "https://github.com/n4ze3m/tiny-voca",
+        "thumbnail": "https://avatars.githubusercontent.com/u/39720973?v=4"
       },
       {
         "title": "linknimiball1974/ai-texture-forge",
@@ -1147,54 +1196,26 @@
         "thumbnail": "https://avatars.githubusercontent.com/u/353259982?v=4"
       },
       {
-        "title": "joshpuckett/allo",
-        "channel": "Python",
-        "metrics": "683 stars",
-        "url": "https://github.com/joshpuckett/allo",
-        "thumbnail": "https://avatars.githubusercontent.com/u/403737?v=4"
-      },
-      {
-        "title": "n4ze3m/tiny-voca",
-        "channel": "Python",
-        "metrics": "656 stars",
-        "url": "https://github.com/n4ze3m/tiny-voca",
-        "thumbnail": "https://avatars.githubusercontent.com/u/39720973?v=4"
-      },
-      {
-        "title": "rivet-dev/open-orange",
-        "channel": "TypeScript",
-        "metrics": "646 stars",
-        "url": "https://github.com/rivet-dev/open-orange",
-        "thumbnail": "https://avatars.githubusercontent.com/u/57733614?v=4"
-      },
-      {
         "title": "yetanotherbrowser/yab",
         "channel": "Swift",
-        "metrics": "641 stars",
+        "metrics": "672 stars",
         "url": "https://github.com/yetanotherbrowser/yab",
         "thumbnail": "https://avatars.githubusercontent.com/u/340330928?v=4"
       },
       {
-        "title": "makepad/relax",
-        "channel": "Rust",
-        "metrics": "588 stars",
-        "url": "https://github.com/makepad/relax",
-        "thumbnail": "https://avatars.githubusercontent.com/u/20386338?v=4"
-      },
-      {
-        "title": "mit-han-lab/pear",
-        "channel": "Python",
-        "metrics": "588 stars",
-        "url": "https://github.com/mit-han-lab/pear",
-        "thumbnail": "https://avatars.githubusercontent.com/u/39571499?v=4"
+        "title": "chuanqisun/spaceship",
+        "channel": "HTML",
+        "metrics": "657 stars",
+        "url": "https://github.com/chuanqisun/spaceship",
+        "thumbnail": "https://avatars.githubusercontent.com/u/1895289?v=4"
       }
     ],
     "bluesky": [
       {
-        "title": "Ukrainian drones hit Crimean Bridge",
+        "title": "Global stocks slide before Nvidia earnings",
         "channel": "Bluesky Trending",
         "metrics": "Trending Topic",
-        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ca017e6d8837",
+        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c97b59dd35f9",
         "thumbnail": ""
       },
       {
@@ -1205,59 +1226,59 @@
         "thumbnail": ""
       },
       {
-        "title": "Nationwide emergency alert test",
+        "title": "The Game Awards nominations",
         "channel": "Bluesky Trending",
         "metrics": "Trending Topic",
-        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8486d6b08f03",
+        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0bf92d371708",
         "thumbnail": ""
       },
       {
-        "title": "Optimizely hack hits major websites",
+        "title": "US loses measles elimination status",
         "channel": "Bluesky Trending",
         "metrics": "Trending Topic",
-        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bbffe525a19d",
+        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
         "thumbnail": ""
       },
       {
-        "title": "Alan Milburn's youth unemployment review",
+        "title": "Sean Duffy addresses possible outage hack",
         "channel": "Bluesky Trending",
         "metrics": "Trending Topic",
-        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f89cc146b4ff",
+        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8baaecf59e81",
         "thumbnail": ""
       },
       {
-        "title": "GB News reports Pattinson as Bond",
+        "title": "Trash geyser prompts LA health order",
         "channel": "Bluesky Trending",
         "metrics": "Trending Topic",
-        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c1f8d5c5b57b",
         "thumbnail": ""
       },
       {
-        "title": "Microsoft blames outage on bug",
+        "title": "Apple services hit by outage",
+        "channel": "Bluesky Trending",
+        "metrics": "Trending Topic",
+        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c182645b18b7",
+        "thumbnail": ""
+      },
+      {
+        "title": "Microsoft, FAA, Zelle outages",
         "channel": "Bluesky Trending",
         "metrics": "Trending Topic",
         "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
         "thumbnail": ""
       },
       {
-        "title": "Data center emissions rival Denmark",
+        "title": "Ocarina of Time remake",
         "channel": "Bluesky Trending",
         "metrics": "Trending Topic",
-        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4f82956e8540",
+        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
         "thumbnail": ""
       },
       {
-        "title": "Bird photography",
+        "title": "Pattinson will be next James Bond",
         "channel": "Bluesky Trending",
         "metrics": "Trending Topic",
-        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
-        "thumbnail": ""
-      },
-      {
-        "title": "Tariff refunds fund executive bonuses",
-        "channel": "Bluesky Trending",
-        "metrics": "Trending Topic",
-        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e069258b2d64",
+        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
         "thumbnail": ""
       }
     ]
