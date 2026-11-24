@@ -1,337 +1,351 @@
 {
-  "updated_at": "2026-11-23T20:57:56.530264+00:00",
+  "updated_at": "2026-11-24T05:14:03.356091+00:00",
   "countries": {
     "US": {
       "name": "United States",
       "youtube": [
         {
-          "title": "Travis Scott - Burn This Shit Down [from Grand Theft Auto VI: The Album (Deluxe Edition)]",
-          "channel": "Atlantic Records",
-          "metrics": "216,773 views",
-          "url": "https://www.youtube.com/watch?v=2sUhJahVWyQ",
-          "thumbnail": "https://i.ytimg.com/vi/2sUhJahVWyQ/hqdefault.jpg"
+          "title": "Burn This Shit Down (from GTAVI: The Album)",
+          "channel": "Travis Scott - Topic",
+          "metrics": "238,180 views",
+          "url": "https://www.youtube.com/watch?v=FTQVONPGlus",
+          "thumbnail": "https://i.ytimg.com/vi/FTQVONPGlus/hqdefault.jpg"
         },
         {
           "title": "Avengers: Doomsday | Final Trailer | In Theaters December 18",
           "channel": "Marvel Entertainment",
-          "metrics": "22,215,256 views",
+          "metrics": "32,186,194 views",
           "url": "https://www.youtube.com/watch?v=Wb8Tq_HD4E8",
           "thumbnail": "https://i.ytimg.com/vi/Wb8Tq_HD4E8/hqdefault.jpg"
         },
         {
+          "title": "10,000 Players Simulate WORLD WAR in Minecraft",
+          "channel": "Spoke",
+          "metrics": "1,995,715 views",
+          "url": "https://www.youtube.com/watch?v=qvR50Jh7OmU",
+          "thumbnail": "https://i.ytimg.com/vi/qvR50Jh7OmU/hqdefault.jpg"
+        },
+        {
+          "title": "Travis Scott - Burn This Shit Down [from Grand Theft Auto VI: The Album (Deluxe Edition)]",
+          "channel": "Atlantic Records",
+          "metrics": "435,815 views",
+          "url": "https://www.youtube.com/watch?v=2sUhJahVWyQ",
+          "thumbnail": "https://i.ytimg.com/vi/2sUhJahVWyQ/hqdefault.jpg"
+        },
+        {
+          "title": "Avengers: Doomsday Final Trailer BREAKDOWN - Easter Eggs You Missed!",
+          "channel": "ScreenCrush",
+          "metrics": "656,044 views",
+          "url": "https://www.youtube.com/watch?v=2kOH5w8I2FU",
+          "thumbnail": "https://i.ytimg.com/vi/2kOH5w8I2FU/hqdefault.jpg"
+        },
+        {
+          "title": "DO NOT Cheat in This Game",
+          "channel": "SMii7Y",
+          "metrics": "1,044,157 views",
+          "url": "https://www.youtube.com/watch?v=KB97gc8GqwU",
+          "thumbnail": "https://i.ytimg.com/vi/KB97gc8GqwU/hqdefault.jpg"
+        },
+        {
+          "title": "SANDAUN LEWA (Meri Waromo)",
+          "channel": "JNR VIGI - Topic",
+          "metrics": "24,910 views",
+          "url": "https://www.youtube.com/watch?v=9Z4ZL6LWvXA",
+          "thumbnail": "https://i.ytimg.com/vi/9Z4ZL6LWvXA/hqdefault.jpg"
+        },
+        {
+          "title": "AVENGERS DOOMSDAY FINAL TRAILER Doctor Doom, X-Men & Every Hidden Detail!",
+          "channel": "Emergency Awesome",
+          "metrics": "524,660 views",
+          "url": "https://www.youtube.com/watch?v=-wNMKJaUE6M",
+          "thumbnail": "https://i.ytimg.com/vi/-wNMKJaUE6M/hqdefault.jpg"
+        },
+        {
+          "title": "SML Movie: Brooklyn Guy Plays GTA 6",
+          "channel": "SML",
+          "metrics": "215,434 views",
+          "url": "https://www.youtube.com/watch?v=lu5yv5TZQ6Q",
+          "thumbnail": "https://i.ytimg.com/vi/lu5yv5TZQ6Q/hqdefault.jpg"
+        },
+        {
+          "title": "Got Dat (from GTAVI: The Album)",
+          "channel": "Pooh Shiesty - Topic",
+          "metrics": "36,236 views",
+          "url": "https://www.youtube.com/watch?v=VqduzvCBgTM",
+          "thumbnail": "https://i.ytimg.com/vi/VqduzvCBgTM/hqdefault.jpg"
+        },
+        {
+          "title": "DOOMSDAY FINAL TRAILER | Reaction and Q&A! | New Rockstars",
+          "channel": "New Rockstars",
+          "metrics": "576,392 views",
+          "url": "https://www.youtube.com/watch?v=7vkXwEp3oak",
+          "thumbnail": "https://i.ytimg.com/vi/7vkXwEp3oak/hqdefault.jpg"
+        },
+        {
           "title": "GTA 6 just exposed every game critic..",
           "channel": "Asmongold TV  ",
-          "metrics": "1,487,770 views",
+          "metrics": "1,935,557 views",
           "url": "https://www.youtube.com/watch?v=2pKaKXIyDW0",
           "thumbnail": "https://i.ytimg.com/vi/2pKaKXIyDW0/hqdefault.jpg"
         },
         {
           "title": "Kevin Gates - Care In The World",
           "channel": "kevingatesTV",
-          "metrics": "91,931 views",
+          "metrics": "138,452 views",
           "url": "https://www.youtube.com/watch?v=qbXruk-8ig8",
           "thumbnail": "https://i.ytimg.com/vi/qbXruk-8ig8/hqdefault.jpg"
         },
         {
-          "title": "AVENGERS DOOMSDAY FINAL TRAILER REACTION!",
-          "channel": "The Media Knights",
-          "metrics": "406,510 views",
-          "url": "https://www.youtube.com/watch?v=LfIXOqxQCsg",
-          "thumbnail": "https://i.ytimg.com/vi/LfIXOqxQCsg/hqdefault.jpg"
-        },
-        {
-          "title": "Killing Cutelings To Feed The Masses [Can Em All 1/2]",
-          "channel": "Joe Bart Games",
-          "metrics": "882,361 views",
-          "url": "https://www.youtube.com/watch?v=Mfc6Um3v8tc",
-          "thumbnail": "https://i.ytimg.com/vi/Mfc6Um3v8tc/hqdefault.jpg"
-        },
-        {
-          "title": "SANDAUN LEWA (Meri Waromo)",
-          "channel": "JNR VIGI - Topic",
-          "metrics": "22,721 views",
-          "url": "https://www.youtube.com/watch?v=9Z4ZL6LWvXA",
-          "thumbnail": "https://i.ytimg.com/vi/9Z4ZL6LWvXA/hqdefault.jpg"
-        },
-        {
-          "title": "AVENGERS DOOMSDAY Trailer Breakdown | Every Easter Egg, Story Detail Theory & Detail | Reaction",
-          "channel": "Heavy Spoilers",
-          "metrics": "227,683 views",
-          "url": "https://www.youtube.com/watch?v=Quw5hz3rjCU",
-          "thumbnail": "https://i.ytimg.com/vi/Quw5hz3rjCU/hqdefault.jpg"
-        },
-        {
-          "title": "We Swept The Moon Again...",
-          "channel": "SMii7Yminus",
-          "metrics": "592,230 views",
-          "url": "https://www.youtube.com/watch?v=S-4bFvKfnRE",
-          "thumbnail": "https://i.ytimg.com/vi/S-4bFvKfnRE/hqdefault.jpg"
-        },
-        {
-          "title": "Burn This Shit Down (from GTAVI: The Album)",
-          "channel": "Travis Scott - Topic",
-          "metrics": "81,764 views",
-          "url": "https://www.youtube.com/watch?v=FTQVONPGlus",
-          "thumbnail": "https://i.ytimg.com/vi/FTQVONPGlus/hqdefault.jpg"
-        },
-        {
-          "title": "TO ME, MY X-MEN! Avengers Doomsday FINAL TRAILER REACTION!! - Doctor Doom",
+          "title": "That Epic Team Up Is NOT The Final Battle! AVENGERS DOOMSDAY FINAL TRAILER REACTION",
           "channel": "Reel Rejects",
-          "metrics": "296,818 views",
-          "url": "https://www.youtube.com/watch?v=6eblkecysvY",
-          "thumbnail": "https://i.ytimg.com/vi/6eblkecysvY/hqdefault.jpg"
+          "metrics": "314,049 views",
+          "url": "https://www.youtube.com/watch?v=NTRd-Jv5EYw",
+          "thumbnail": "https://i.ytimg.com/vi/NTRd-Jv5EYw/hqdefault.jpg"
         },
         {
-          "title": "Never trust the trapper",
-          "channel": "JudeLow",
-          "metrics": "1,666,271 views",
-          "url": "https://www.youtube.com/watch?v=8fklS3_lBSg",
-          "thumbnail": "https://i.ytimg.com/vi/8fklS3_lBSg/hqdefault.jpg"
-        },
-        {
-          "title": "Pero Nimodo",
-          "channel": "Doble Efecto - Topic",
-          "metrics": "100,127 views",
-          "url": "https://www.youtube.com/watch?v=PuMm2jLGz3k",
-          "thumbnail": "https://i.ytimg.com/vi/PuMm2jLGz3k/hqdefault.jpg"
-        },
-        {
-          "title": "DOOMSDAY FINAL TRAILER | Reaction and Q&A! | New Rockstars",
-          "channel": "New Rockstars",
-          "metrics": "264,190 views",
-          "url": "https://www.youtube.com/watch?v=7vkXwEp3oak",
-          "thumbnail": "https://i.ytimg.com/vi/7vkXwEp3oak/hqdefault.jpg"
-        },
-        {
-          "title": "I Shouldn’t Have Went To My Friends House…",
-          "channel": "CaseOh",
-          "metrics": "730,798 views",
-          "url": "https://www.youtube.com/watch?v=8VXdHVcZVJg",
-          "thumbnail": "https://i.ytimg.com/vi/8VXdHVcZVJg/hqdefault.jpg"
-        },
-        {
-          "title": "My Sacrifice (Remastered 2026)",
-          "channel": "Creed - Topic",
-          "metrics": "126,329 views",
-          "url": "https://www.youtube.com/watch?v=WatRHixuvlk",
-          "thumbnail": "https://i.ytimg.com/vi/WatRHixuvlk/hqdefault.jpg"
-        },
-        {
-          "title": "GTA 6: 37 Tips You Should Know",
-          "channel": "TGG",
-          "metrics": "557,070 views",
-          "url": "https://www.youtube.com/watch?v=fyT21-s4VZQ",
-          "thumbnail": "https://i.ytimg.com/vi/fyT21-s4VZQ/hqdefault.jpg"
-        },
-        {
-          "title": "Crazy For You",
-          "channel": "Release - Topic",
-          "metrics": "503,484 views",
-          "url": "https://www.youtube.com/watch?v=Zl5xZ_LLA1c",
-          "thumbnail": "https://i.ytimg.com/vi/Zl5xZ_LLA1c/hqdefault.jpg"
-        },
-        {
-          "title": "NO WAY THEY SHOWED THAT!! Avengers: Doomsday FINAL Trailer REACTION!",
-          "channel": "Kristian Harloff",
-          "metrics": "208,384 views",
-          "url": "https://www.youtube.com/watch?v=tNR44wUPmig",
-          "thumbnail": "https://i.ytimg.com/vi/tNR44wUPmig/hqdefault.jpg"
-        },
-        {
-          "title": "I Built a Factory of 100% Pure Madness in Moon Sweepers",
-          "channel": "Let's Game It Out",
-          "metrics": "1,822,449 views",
-          "url": "https://www.youtube.com/watch?v=HLzkcYqdIik",
-          "thumbnail": "https://i.ytimg.com/vi/HLzkcYqdIik/hqdefault.jpg"
+          "title": "WE PLAYED GTA 6 FOR THE FIRST TIME",
+          "channel": "Kalogeras Sisters ",
+          "metrics": "549,372 views",
+          "url": "https://www.youtube.com/watch?v=dTjbyU_Bi00",
+          "thumbnail": "https://i.ytimg.com/vi/dTjbyU_Bi00/hqdefault.jpg"
         },
         {
           "title": "Maluma - Sobrio (Letra/Lyrics)",
           "channel": "7clouds Spain",
-          "metrics": "325,654 views",
+          "metrics": "544,766 views",
           "url": "https://www.youtube.com/watch?v=5WNr3Vmgq0A",
           "thumbnail": "https://i.ytimg.com/vi/5WNr3Vmgq0A/hqdefault.jpg"
         },
         {
-          "title": "AVENGERS DOOMSDAY FINAL TRAILER Doctor Doom, X-Men & Every Hidden Detail!",
-          "channel": "Emergency Awesome",
-          "metrics": "145,406 views",
-          "url": "https://www.youtube.com/watch?v=-wNMKJaUE6M",
-          "thumbnail": "https://i.ytimg.com/vi/-wNMKJaUE6M/hqdefault.jpg"
+          "title": "AVENGERS DOOMSDAY Trailer Breakdown | Every Easter Egg, Story Detail Theory & Detail | Reaction",
+          "channel": "Heavy Spoilers",
+          "metrics": "389,631 views",
+          "url": "https://www.youtube.com/watch?v=Quw5hz3rjCU",
+          "thumbnail": "https://i.ytimg.com/vi/Quw5hz3rjCU/hqdefault.jpg"
         },
         {
-          "title": "GTA 6 - 100 HUGE Tips You NEED to Know (Don't Make These Mistakes)",
-          "channel": "BennyCentral",
-          "metrics": "227,051 views",
-          "url": "https://www.youtube.com/watch?v=X54pK6784-c",
-          "thumbnail": "https://i.ytimg.com/vi/X54pK6784-c/hqdefault.jpg"
-        },
-        {
-          "title": "Christmas Songs Playlist 🎅  Top Christmas Songs of All Time Playlist 🎄 Best Christmas Music 2027",
-          "channel": "Christmas Songs and Carols - Love to Sing",
-          "metrics": "728,563 views",
-          "url": "https://www.youtube.com/watch?v=UWa8xqMLwhw",
-          "thumbnail": "https://i.ytimg.com/vi/UWa8xqMLwhw/hqdefault.jpg"
-        },
-        {
-          "title": "The Escape Podcast REACT TO THE AVENGERS DOOMSDAY FINAL TRAILER…",
-          "channel": "WHATNERDtalk",
-          "metrics": "115,999 views",
-          "url": "https://www.youtube.com/watch?v=FT3H-TQV0i4",
-          "thumbnail": "https://i.ytimg.com/vi/FT3H-TQV0i4/hqdefault.jpg"
-        },
-        {
-          "title": "The Most CRIMINAL GTA 6 Hot Takes",
-          "channel": "The Act Man",
-          "metrics": "545,297 views",
-          "url": "https://www.youtube.com/watch?v=AsMKX-jTS50",
-          "thumbnail": "https://i.ytimg.com/vi/AsMKX-jTS50/hqdefault.jpg"
+          "title": "Rockstar is freaking out now..",
+          "channel": "Asmongold Clips",
+          "metrics": "1,346,618 views",
+          "url": "https://www.youtube.com/watch?v=sAr0M87A6ZE",
+          "thumbnail": "https://i.ytimg.com/vi/sAr0M87A6ZE/hqdefault.jpg"
         },
         {
           "title": "Top Christmas Songs of All Time 🎅🏼 Best Christmas Music Playlist 🎅🏼 Christmas Playlist 2026",
           "channel": "Timeless Music",
-          "metrics": "340,008 views",
+          "metrics": "447,934 views",
           "url": "https://www.youtube.com/watch?v=Io9yYWWOhm4",
           "thumbnail": "https://i.ytimg.com/vi/Io9yYWWOhm4/hqdefault.jpg"
         },
         {
-          "title": "Avengers Doomsday Final Trailer REACTION",
-          "channel": "Beyond The Trailer",
-          "metrics": "128,736 views",
-          "url": "https://www.youtube.com/watch?v=E-vhD2cnKpQ",
-          "thumbnail": "https://i.ytimg.com/vi/E-vhD2cnKpQ/hqdefault.jpg"
+          "title": "AVENGERS DOOMSDAY FINAL TRAILER REACTION!",
+          "channel": "The Media Knights",
+          "metrics": "598,945 views",
+          "url": "https://www.youtube.com/watch?v=LfIXOqxQCsg",
+          "thumbnail": "https://i.ytimg.com/vi/LfIXOqxQCsg/hqdefault.jpg"
         },
         {
-          "title": "Flunky x Jammin - Otendewa ( Official Audio )",
-          "channel": "Flunky",
-          "metrics": "217,206 views",
-          "url": "https://www.youtube.com/watch?v=-1Doa1tmSAY",
-          "thumbnail": "https://i.ytimg.com/vi/-1Doa1tmSAY/hqdefault.jpg"
+          "title": "Still Bloatmaxing in GTA 6",
+          "channel": "penguinz0",
+          "metrics": "841,952 views",
+          "url": "https://www.youtube.com/watch?v=FGY0qhd3AsA",
+          "thumbnail": "https://i.ytimg.com/vi/FGY0qhd3AsA/hqdefault.jpg"
+        },
+        {
+          "title": "Pero Nimodo",
+          "channel": "Doble Efecto - Topic",
+          "metrics": "133,499 views",
+          "url": "https://www.youtube.com/watch?v=PuMm2jLGz3k",
+          "thumbnail": "https://i.ytimg.com/vi/PuMm2jLGz3k/hqdefault.jpg"
         },
         {
           "title": "FINAL AVENGERS DOOMSDAY TRAILER | Emergency Pod #4",
           "channel": "The Escape Pod",
-          "metrics": "100,432 views",
+          "metrics": "353,790 views",
           "url": "https://www.youtube.com/watch?v=c_7JBX4uvkQ",
           "thumbnail": "https://i.ytimg.com/vi/c_7JBX4uvkQ/hqdefault.jpg"
         },
         {
-          "title": "100 Days in the Appalachian Mountains in Hardcore Minecraft",
-          "channel": "Forge Labs",
-          "metrics": "870,282 views",
-          "url": "https://www.youtube.com/watch?v=3sRUyWxVeWA",
-          "thumbnail": "https://i.ytimg.com/vi/3sRUyWxVeWA/hqdefault.jpg"
+          "title": "The Family Business..  Full Game ",
+          "channel": "CaseOh",
+          "metrics": "229,441 views",
+          "url": "https://www.youtube.com/watch?v=wGG2WDxMR8w",
+          "thumbnail": "https://i.ytimg.com/vi/wGG2WDxMR8w/hqdefault.jpg"
         },
         {
           "title": "Kane Rodriguez - Filoso (En Vivo)",
           "channel": "Kane Rodriguez",
-          "metrics": "224,299 views",
+          "metrics": "270,822 views",
           "url": "https://www.youtube.com/watch?v=0zIPyHJxEBU",
           "thumbnail": "https://i.ytimg.com/vi/0zIPyHJxEBU/hqdefault.jpg"
         },
         {
-          "title": "SO HYPE!🔥AVENGERS: DOOMSDAY FINAL TRAILER REACTION!",
-          "channel": "Dos Cavazos",
-          "metrics": "145,428 views",
-          "url": "https://www.youtube.com/watch?v=TMsBM9rCnME",
-          "thumbnail": "https://i.ytimg.com/vi/TMsBM9rCnME/hqdefault.jpg"
+          "title": "Making BILLIONS Killing Cutelings [Can Em All 2/2]",
+          "channel": "Joe Bart Games",
+          "metrics": "332,052 views",
+          "url": "https://www.youtube.com/watch?v=p3zbu4PhbNo",
+          "thumbnail": "https://i.ytimg.com/vi/p3zbu4PhbNo/hqdefault.jpg"
         },
         {
-          "title": "Asmongold is right about GTA 6",
-          "channel": "Sydney Watson",
-          "metrics": "772,482 views",
-          "url": "https://www.youtube.com/watch?v=vmBr0_HfS-4",
-          "thumbnail": "https://i.ytimg.com/vi/vmBr0_HfS-4/hqdefault.jpg"
+          "title": "My Sacrifice (Remastered 2026)",
+          "channel": "Creed - Topic",
+          "metrics": "153,325 views",
+          "url": "https://www.youtube.com/watch?v=WatRHixuvlk",
+          "thumbnail": "https://i.ytimg.com/vi/WatRHixuvlk/hqdefault.jpg"
         },
         {
-          "title": "Mangi Sulu",
-          "channel": "Kronos_StyleKumul - Topic",
-          "metrics": "43,442 views",
-          "url": "https://www.youtube.com/watch?v=Rqg2skyf3lw",
-          "thumbnail": "https://i.ytimg.com/vi/Rqg2skyf3lw/hqdefault.jpg"
+          "title": "ImDontai Reacts To Avengers: Doomsday | Final Trailer",
+          "channel": "ImStillDontai",
+          "metrics": "204,473 views",
+          "url": "https://www.youtube.com/watch?v=6QEhGwdkD1A",
+          "thumbnail": "https://i.ytimg.com/vi/6QEhGwdkD1A/hqdefault.jpg"
         },
         {
-          "title": "AVENGERS DOOMSDAY FINAL TRAILER EASTER EGG BREAKDOWN",
-          "channel": "Everything Always",
-          "metrics": "106,920 views",
-          "url": "https://www.youtube.com/watch?v=UEE8BWN-WkM",
-          "thumbnail": "https://i.ytimg.com/vi/UEE8BWN-WkM/hqdefault.jpg"
+          "title": "Busting 33 MYTHS In GTA 6!",
+          "channel": "Caylus  ",
+          "metrics": "454,994 views",
+          "url": "https://www.youtube.com/watch?v=wWXs9eKfllg",
+          "thumbnail": "https://i.ytimg.com/vi/wWXs9eKfllg/hqdefault.jpg"
         },
         {
-          "title": "GTA 6 Has Exposed a BIG Problem With AAA Games",
-          "channel": "gameranx",
-          "metrics": "1,384,260 views",
-          "url": "https://www.youtube.com/watch?v=H3DQNv21hmk",
-          "thumbnail": "https://i.ytimg.com/vi/H3DQNv21hmk/hqdefault.jpg"
-        },
-        {
-          "title": "Top 50 Christmas Songs of All Time 🎅🏼 Classic Christmas Music with Fireplace 🎅🏼 Merry Christmas 2027",
-          "channel": "Merry Christmas Vibes",
-          "metrics": "453,462 views",
-          "url": "https://www.youtube.com/watch?v=qEF9Q0cIjDQ",
-          "thumbnail": "https://i.ytimg.com/vi/qEF9Q0cIjDQ/hqdefault.jpg"
-        },
-        {
-          "title": "AVENGERS DOOMSDAY FINAL TRAILER BREAKDOWN! THEY CONFIRMED IT!",
-          "channel": "The Cosmic Wonder",
-          "metrics": "76,392 views",
-          "url": "https://www.youtube.com/watch?v=OVQW_5UF93A",
-          "thumbnail": "https://i.ytimg.com/vi/OVQW_5UF93A/hqdefault.jpg"
-        },
-        {
-          "title": "If You Steal a Car in GTA 6, I’ll Pay For It!",
-          "channel": "MrBeast Gaming",
-          "metrics": "25,891,592 views",
-          "url": "https://www.youtube.com/watch?v=Ra6sNe8s2Hc",
-          "thumbnail": "https://i.ytimg.com/vi/Ra6sNe8s2Hc/hqdefault.jpg"
-        },
-        {
-          "title": "Anuel AA | SE TOCO EL T*TITO CON MI GL*CK (Video Oficial)",
-          "channel": "Anuel AA",
-          "metrics": "9,839,315 views",
-          "url": "https://www.youtube.com/watch?v=1lOvAvBlzSM",
-          "thumbnail": "https://i.ytimg.com/vi/1lOvAvBlzSM/hqdefault.jpg"
+          "title": "Crazy For You",
+          "channel": "Release - Topic",
+          "metrics": "575,480 views",
+          "url": "https://www.youtube.com/watch?v=Zl5xZ_LLA1c",
+          "thumbnail": "https://i.ytimg.com/vi/Zl5xZ_LLA1c/hqdefault.jpg"
         },
         {
           "title": "Avengers: Doomsday | Final Trailer | Reaction!",
           "channel": "Tyrone Magnus",
-          "metrics": "60,550 views",
+          "metrics": "205,875 views",
           "url": "https://www.youtube.com/watch?v=RTlHMQygK4c",
           "thumbnail": "https://i.ytimg.com/vi/RTlHMQygK4c/hqdefault.jpg"
         },
         {
           "title": "Discord VCs at 7AM",
           "channel": "isaacwhy",
-          "metrics": "228,621 views",
+          "metrics": "463,143 views",
           "url": "https://www.youtube.com/watch?v=GQ1YwGxIr8w",
           "thumbnail": "https://i.ytimg.com/vi/GQ1YwGxIr8w/hqdefault.jpg"
         },
         {
-          "title": "Enrique Iglesias, Descemer Bueno, Gente De Zona - Bailando (Lyrics)",
-          "channel": "7clouds Tropical",
-          "metrics": "604,050 views",
-          "url": "https://www.youtube.com/watch?v=kajwjHIQRPs",
-          "thumbnail": "https://i.ytimg.com/vi/kajwjHIQRPs/hqdefault.jpg"
-        },
-        {
-          "title": "Avengers: Doomsday | Final Trailer Reaction!",
-          "channel": "RT TV REACTS",
-          "metrics": "99,784 views",
-          "url": "https://www.youtube.com/watch?v=1dUjhJfNX_M",
-          "thumbnail": "https://i.ytimg.com/vi/1dUjhJfNX_M/hqdefault.jpg"
-        },
-        {
-          "title": "Peaceful Day - Cozy Outdoor Jazz (Official Music Video)",
-          "channel": "Cozy Outdoor Jazz",
-          "metrics": "104,822 views",
-          "url": "https://www.youtube.com/watch?v=I4TEn_uZ4A4",
-          "thumbnail": "https://i.ytimg.com/vi/I4TEn_uZ4A4/hqdefault.jpg"
+          "title": "Flunky x Jammin - Otendewa ( Official Audio )",
+          "channel": "Flunky",
+          "metrics": "221,164 views",
+          "url": "https://www.youtube.com/watch?v=-1Doa1tmSAY",
+          "thumbnail": "https://i.ytimg.com/vi/-1Doa1tmSAY/hqdefault.jpg"
         },
         {
           "title": "Smosh Winter Games 2026 Trailer",
           "channel": "Smosh",
-          "metrics": "155,591 views",
+          "metrics": "612,258 views",
           "url": "https://www.youtube.com/watch?v=D6azmeRWwCc",
           "thumbnail": "https://i.ytimg.com/vi/D6azmeRWwCc/hqdefault.jpg"
+        },
+        {
+          "title": "GTA 6 - What's New In the First Patch?",
+          "channel": "IGN",
+          "metrics": "400,088 views",
+          "url": "https://www.youtube.com/watch?v=GotN7bLCgpU",
+          "thumbnail": "https://i.ytimg.com/vi/GotN7bLCgpU/hqdefault.jpg"
+        },
+        {
+          "title": "better than ONE.",
+          "channel": "YFN Lucci - Topic",
+          "metrics": "60,525 views",
+          "url": "https://www.youtube.com/watch?v=Co6mdOPD5j0",
+          "thumbnail": "https://i.ytimg.com/vi/Co6mdOPD5j0/hqdefault.jpg"
+        },
+        {
+          "title": "The Escape Podcast REACT TO THE AVENGERS DOOMSDAY FINAL TRAILER…",
+          "channel": "WHATNERDtalk",
+          "metrics": "211,894 views",
+          "url": "https://www.youtube.com/watch?v=FT3H-TQV0i4",
+          "thumbnail": "https://i.ytimg.com/vi/FT3H-TQV0i4/hqdefault.jpg"
+        },
+        {
+          "title": "Rockstar in Full Panic as GTA 6 Crisis Worsens...",
+          "channel": "LegacyKillaHD",
+          "metrics": "501,969 views",
+          "url": "https://www.youtube.com/watch?v=hzOHcW-mUkY",
+          "thumbnail": "https://i.ytimg.com/vi/hzOHcW-mUkY/hqdefault.jpg"
+        },
+        {
+          "title": "Mangi Sulu",
+          "channel": "Kronos_StyleKumul - Topic",
+          "metrics": "44,264 views",
+          "url": "https://www.youtube.com/watch?v=Rqg2skyf3lw",
+          "thumbnail": "https://i.ytimg.com/vi/Rqg2skyf3lw/hqdefault.jpg"
+        },
+        {
+          "title": "AVENGERS DOOMSDAY FINAL TRAILER BREAKDOWN! THEY CONFIRMED IT!",
+          "channel": "The Cosmic Wonder",
+          "metrics": "171,076 views",
+          "url": "https://www.youtube.com/watch?v=OVQW_5UF93A",
+          "thumbnail": "https://i.ytimg.com/vi/OVQW_5UF93A/hqdefault.jpg"
+        },
+        {
+          "title": "ROBLOX IN THIS WORLD..??",
+          "channel": "Tyler & Snowi",
+          "metrics": "196,907 views",
+          "url": "https://www.youtube.com/watch?v=Jx6_QkuGG2M",
+          "thumbnail": "https://i.ytimg.com/vi/Jx6_QkuGG2M/hqdefault.jpg"
+        },
+        {
+          "title": "Christmas Songs Playlist 🎅  Top Christmas Songs of All Time Playlist 🎄 Best Christmas Music 2027",
+          "channel": "Christmas Songs and Carols - Love to Sing",
+          "metrics": "854,659 views",
+          "url": "https://www.youtube.com/watch?v=UWa8xqMLwhw",
+          "thumbnail": "https://i.ytimg.com/vi/UWa8xqMLwhw/hqdefault.jpg"
+        },
+        {
+          "title": "The Final Avenger Doomsday Trailer Looks...",
+          "channel": "3C Films",
+          "metrics": "168,386 views",
+          "url": "https://www.youtube.com/watch?v=pL0TYrku4vs",
+          "thumbnail": "https://i.ytimg.com/vi/pL0TYrku4vs/hqdefault.jpg"
+        },
+        {
+          "title": "GTA 6 Walkthrough Gameplay Part 6 - SWAMPED (GRAND THEFT AUTO 6)",
+          "channel": "theRadBrad",
+          "metrics": "342,063 views",
+          "url": "https://www.youtube.com/watch?v=Hm5z-scFVgs",
+          "thumbnail": "https://i.ytimg.com/vi/Hm5z-scFVgs/hqdefault.jpg"
+        },
+        {
+          "title": "Love & Hate - (Visualizer)",
+          "channel": "Saii Kay",
+          "metrics": "5,014 views",
+          "url": "https://www.youtube.com/watch?v=OwUrH6J1_N0",
+          "thumbnail": "https://i.ytimg.com/vi/OwUrH6J1_N0/hqdefault.jpg"
+        },
+        {
+          "title": "\"Avengers: Doomsday\" Final Trailer REACTION!!",
+          "channel": "Dwayne N Jazz",
+          "metrics": "107,445 views",
+          "url": "https://www.youtube.com/watch?v=D77Az4EWNu4",
+          "thumbnail": "https://i.ytimg.com/vi/D77Az4EWNu4/hqdefault.jpg"
+        },
+        {
+          "title": "I Must Clean Up EVERY BALL in Roblox...",
+          "channel": "Techys",
+          "metrics": "329,453 views",
+          "url": "https://www.youtube.com/watch?v=HOKS5aKoEHM",
+          "thumbnail": "https://i.ytimg.com/vi/HOKS5aKoEHM/hqdefault.jpg"
+        },
+        {
+          "title": "WHEREVER YOU ARE",
+          "channel": "Chase Atlantic - Topic",
+          "metrics": "92,379 views",
+          "url": "https://www.youtube.com/watch?v=RXFUSMaAHdk",
+          "thumbnail": "https://i.ytimg.com/vi/RXFUSMaAHdk/hqdefault.jpg"
+        },
+        {
+          "title": "HE SAID IT! | Avengers Doomsday Final Trailer REACTION",
+          "channel": "MaJeliv",
+          "metrics": "142,481 views",
+          "url": "https://www.youtube.com/watch?v=QAhHQVZxPRs",
+          "thumbnail": "https://i.ytimg.com/vi/QAhHQVZxPRs/hqdefault.jpg"
         }
       ]
     },
@@ -339,347 +353,347 @@
       "name": "India",
       "youtube": [
         {
-          "title": "Diviki Diviki - January 12 Vidudala| Venkatesh,Kalyan Ram,Keerthy, Krithi| Anil Ravipudi| GV Prakash",
-          "channel": "Zee Music South",
-          "metrics": "17,740,815 views",
-          "url": "https://www.youtube.com/watch?v=UckZ7N_Zt28",
-          "thumbnail": "https://i.ytimg.com/vi/UckZ7N_Zt28/hqdefault.jpg"
+          "title": "#Video ~ गुलाबी नगर | #Raushan Rohi | #Srishti Bharti | Gulabi Nagar | New #Magahi Song #2026",
+          "channel": "Bhojpuri Music World",
+          "metrics": "199,105 views",
+          "url": "https://www.youtube.com/watch?v=HYyo1fdcGD4",
+          "thumbnail": "https://i.ytimg.com/vi/HYyo1fdcGD4/hqdefault.jpg"
         },
         {
           "title": "Avengers: Doomsday | Final Trailer | In Theaters December 18",
           "channel": "Marvel Entertainment",
-          "metrics": "22,215,256 views",
+          "metrics": "32,186,194 views",
           "url": "https://www.youtube.com/watch?v=Wb8Tq_HD4E8",
           "thumbnail": "https://i.ytimg.com/vi/Wb8Tq_HD4E8/hqdefault.jpg"
         },
         {
           "title": "TREASURE HUNTING IN THE OCEAN GONE WRONG! | GTA 6 GAMEPLAY #4",
           "channel": "Techno Gamerz",
-          "metrics": "6,728,509 views",
+          "metrics": "7,144,756 views",
           "url": "https://www.youtube.com/watch?v=Dz0naoD1QWo",
           "thumbnail": "https://i.ytimg.com/vi/Dz0naoD1QWo/hqdefault.jpg"
         },
         {
-          "title": "तुळशी विवाह मंगलाष्टके || Tulsi Vivah Mangalashtak || Mangalashtak Marathi",
-          "channel": "SB Music Studio",
-          "metrics": "395,191 views",
-          "url": "https://www.youtube.com/watch?v=9nsUMb7edMM",
-          "thumbnail": "https://i.ytimg.com/vi/9nsUMb7edMM/hqdefault.jpg"
+          "title": "Diviki Diviki - January 12 Vidudala| Venkatesh,Kalyan Ram,Keerthy, Krithi| Anil Ravipudi| GV Prakash",
+          "channel": "Zee Music South",
+          "metrics": "17,926,420 views",
+          "url": "https://www.youtube.com/watch?v=UckZ7N_Zt28",
+          "thumbnail": "https://i.ytimg.com/vi/UckZ7N_Zt28/hqdefault.jpg"
         },
         {
           "title": "Panchayat Season 5 - Official Trailer | Jitendra Kumar, Raghubir Yadav, Neena Gupta, Sanvikaa",
           "channel": "Prime Video India",
-          "metrics": "7,294,025 views",
+          "metrics": "8,727,402 views",
           "url": "https://www.youtube.com/watch?v=36a-E7A35F8",
           "thumbnail": "https://i.ytimg.com/vi/36a-E7A35F8/hqdefault.jpg"
         },
         {
           "title": "Finally Playing GTA 6 😍 First Time ",
           "channel": "Sourav Joshi Vlogs",
-          "metrics": "9,332,720 views",
+          "metrics": "9,423,426 views",
           "url": "https://www.youtube.com/watch?v=PPWTwGU-cqQ",
           "thumbnail": "https://i.ytimg.com/vi/PPWTwGU-cqQ/hqdefault.jpg"
         },
         {
-          "title": "#Video ~ गुलाबी नगर | #Raushan Rohi | #Srishti Bharti | Gulabi Nagar | New #Magahi Song #2026",
-          "channel": "Bhojpuri Music World",
-          "metrics": "147,221 views",
-          "url": "https://www.youtube.com/watch?v=HYyo1fdcGD4",
-          "thumbnail": "https://i.ytimg.com/vi/HYyo1fdcGD4/hqdefault.jpg"
+          "title": "Kartika Punei Danga Bhasa Gita | Namita Agrawal | କାର୍ତ୍ତିକ ପୁନେଇ ପାହାନ୍ତା | Kartika Purnima Special",
+          "channel": "Namita Agrawal 2",
+          "metrics": "199,323 views",
+          "url": "https://www.youtube.com/watch?v=-hiVjw4kcDE",
+          "thumbnail": "https://i.ytimg.com/vi/-hiVjw4kcDE/hqdefault.jpg"
         },
         {
           "title": "Family Pack - Official Teaser | Sree Vishnu, Sakkshi Mhadolkar | Ram Abbaraju | Mythri Movie Makers",
           "channel": "Mythri Movie Makers",
-          "metrics": "1,272,265 views",
+          "metrics": "1,606,611 views",
           "url": "https://www.youtube.com/watch?v=H6THWs8RP2Q",
           "thumbnail": "https://i.ytimg.com/vi/H6THWs8RP2Q/hqdefault.jpg"
         },
         {
-          "title": "GTA 5 LIVE 🔥 #shortsfeed #shorts #grandtheftauto5",
-          "channel": " NAITIK 09",
-          "metrics": "4,410,143 views",
-          "url": "https://www.youtube.com/watch?v=M8R_UCYT5JY",
-          "thumbnail": "https://i.ytimg.com/vi/M8R_UCYT5JY/hqdefault.jpg"
+          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+          "channel": "Raajoo Gaming",
+          "metrics": "3,903,943 views",
+          "url": "https://www.youtube.com/watch?v=8CMVvCEXEA0",
+          "thumbnail": "https://i.ytimg.com/vi/8CMVvCEXEA0/hqdefault.jpg"
         },
         {
           "title": "90s Purane Gane | 90s Hits Hindi Songs | 90s Old Is Gold | 90s Evergreen Songs | 90s Hindi Gane",
           "channel": "Tips Official",
-          "metrics": "1,029,175 views",
+          "metrics": "1,113,932 views",
           "url": "https://www.youtube.com/watch?v=ZV9HJpTx-iA",
           "thumbnail": "https://i.ytimg.com/vi/ZV9HJpTx-iA/hqdefault.jpg"
         },
         {
-          "title": "BHOGI Official Trailer | Sharwanand | Sampath Nandi | Anupama | Dimple Hayathi | Bheems Ceciroleo",
-          "channel": "Aditya Music",
-          "metrics": "3,231,384 views",
-          "url": "https://www.youtube.com/watch?v=dWOYaZ2gb9I",
-          "thumbnail": "https://i.ytimg.com/vi/dWOYaZ2gb9I/hqdefault.jpg"
-        },
-        {
-          "title": "तुळशीची आरती मराठी | Tulshichi Aarti Marathi Lyrics | Tulsi Vivah Aarti Marathi तुळशी मातेची आरती",
-          "channel": "Vision Bhakti Marathi",
-          "metrics": "374,488 views",
-          "url": "https://www.youtube.com/watch?v=euiMlrD142c",
-          "thumbnail": "https://i.ytimg.com/vi/euiMlrD142c/hqdefault.jpg"
-        },
-        {
-          "title": "Cosmic Samson Trailer | Sandeep Pradeep | Abhijith Joseph | Sibi Mathew Alex | Weekend Blockbusters",
-          "channel": "Think Music India",
-          "metrics": "2,698,910 views",
-          "url": "https://www.youtube.com/watch?v=EA-a7RR-7DY",
-          "thumbnail": "https://i.ytimg.com/vi/EA-a7RR-7DY/hqdefault.jpg"
-        },
-        {
-          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-          "channel": "PAJI IS LIVE",
-          "metrics": "2,790,485 views",
-          "url": "https://www.youtube.com/watch?v=VCcA3AAWlUs",
-          "thumbnail": "https://i.ytimg.com/vi/VCcA3AAWlUs/hqdefault.jpg"
-        },
-        {
-          "title": "#Video | दिलवा के दुखवा | #Pawan Singh & #Khushi Kakkar | Dilwa Ke Dukhwa | New Bhojpuri Sad Song",
-          "channel": "Gannayak Films",
-          "metrics": "2,499,057 views",
-          "url": "https://www.youtube.com/watch?v=d8zrrgmIZYo",
-          "thumbnail": "https://i.ytimg.com/vi/d8zrrgmIZYo/hqdefault.jpg"
-        },
-        {
           "title": "Avengers Doomsday Final Trailer • Reaction",
           "channel": "thePJ",
-          "metrics": "937,902 views",
+          "metrics": "1,042,123 views",
           "url": "https://www.youtube.com/watch?v=ZofzcwNE7-c",
           "thumbnail": "https://i.ytimg.com/vi/ZofzcwNE7-c/hqdefault.jpg"
         },
         {
-          "title": "Stealing Divine Egg From DOORBIN GORILLA KING in Minecraft..",
-          "channel": "Carry Depie",
-          "metrics": "1,345,650 views",
-          "url": "https://www.youtube.com/watch?v=jvkDnEYCJyI",
-          "thumbnail": "https://i.ytimg.com/vi/jvkDnEYCJyI/hqdefault.jpg"
+          "title": "GTA 5 LIVE 🔥 #shortsfeed #shorts #grandtheftauto5",
+          "channel": " NAITIK 09",
+          "metrics": "4,410,471 views",
+          "url": "https://www.youtube.com/watch?v=M8R_UCYT5JY",
+          "thumbnail": "https://i.ytimg.com/vi/M8R_UCYT5JY/hqdefault.jpg"
+        },
+        {
+          "title": "तुळशी विवाह मंगलाष्टके || Tulsi Vivah Mangalashtak || Mangalashtak Marathi",
+          "channel": "SB Music Studio",
+          "metrics": "401,877 views",
+          "url": "https://www.youtube.com/watch?v=9nsUMb7edMM",
+          "thumbnail": "https://i.ytimg.com/vi/9nsUMb7edMM/hqdefault.jpg"
+        },
+        {
+          "title": "Avengers Doomsday final trailer breakdown: Thor’s new power",
+          "channel": "BnfTV",
+          "metrics": "649,122 views",
+          "url": "https://www.youtube.com/watch?v=CZkeklCEHwg",
+          "thumbnail": "https://i.ytimg.com/vi/CZkeklCEHwg/hqdefault.jpg"
         },
         {
           "title": "पाप करिले | Paap Karile | Tuntun Yadav | Prabha Raj | New Bhojpuri Song 2026 | Bhojpuri Gana",
           "channel": "Saregama Hum Bhojpuri",
-          "metrics": "513,090 views",
+          "metrics": "579,968 views",
           "url": "https://www.youtube.com/watch?v=x241t5aFBWM",
           "thumbnail": "https://i.ytimg.com/vi/x241t5aFBWM/hqdefault.jpg"
         },
         {
           "title": "Avengers Doomsday Final Trailer Breakdown (தமிழ்)",
           "channel": "Mokka Commentry",
-          "metrics": "160,902 views",
+          "metrics": "278,312 views",
           "url": "https://www.youtube.com/watch?v=fFtEk0hYUu0",
           "thumbnail": "https://i.ytimg.com/vi/fFtEk0hYUu0/hqdefault.jpg"
         },
         {
-          "title": "Sheru Bhai Life Simulator Game | Trailer",
-          "channel": "Skorax",
-          "metrics": "111,912 views",
-          "url": "https://www.youtube.com/watch?v=kPlB9o4hmPg",
-          "thumbnail": "https://i.ytimg.com/vi/kPlB9o4hmPg/hqdefault.jpg"
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "metrics": "2,790,753 views",
+          "url": "https://www.youtube.com/watch?v=VCcA3AAWlUs",
+          "thumbnail": "https://i.ytimg.com/vi/VCcA3AAWlUs/hqdefault.jpg"
         },
         {
-          "title": "Nas Nas Kyu Dukhe पिया मेरी नस नस के हो दुखे  Anjali Raghav Karan Chaudhary !! Brajbhasha Song",
-          "channel": "DHUN ONE MUSIC ",
-          "metrics": "149,664 views",
-          "url": "https://www.youtube.com/watch?v=LHUnweMm4Jg",
-          "thumbnail": "https://i.ytimg.com/vi/LHUnweMm4Jg/hqdefault.jpg"
+          "title": "#Video | दिलवा के दुखवा | #Pawan Singh & #Khushi Kakkar | Dilwa Ke Dukhwa | New Bhojpuri Sad Song",
+          "channel": "Gannayak Films",
+          "metrics": "2,614,439 views",
+          "url": "https://www.youtube.com/watch?v=d8zrrgmIZYo",
+          "thumbnail": "https://i.ytimg.com/vi/d8zrrgmIZYo/hqdefault.jpg"
         },
         {
-          "title": "Avengers Doomsday final trailer breakdown: Thor’s new power",
-          "channel": "BnfTV",
-          "metrics": "475,852 views",
-          "url": "https://www.youtube.com/watch?v=CZkeklCEHwg",
-          "thumbnail": "https://i.ytimg.com/vi/CZkeklCEHwg/hqdefault.jpg"
+          "title": "Avengers Doomsday Final Trailer Breakdown!",
+          "channel": "ComicVerse",
+          "metrics": "595,466 views",
+          "url": "https://www.youtube.com/watch?v=3tXrwPkXdZg",
+          "thumbnail": "https://i.ytimg.com/vi/3tXrwPkXdZg/hqdefault.jpg"
         },
         {
           "title": "Minecraft Mobs if they had Kids..",
           "channel": "Karry Kraft",
-          "metrics": "455,782 views",
+          "metrics": "522,433 views",
           "url": "https://www.youtube.com/watch?v=UfsM7_cNsII",
           "thumbnail": "https://i.ytimg.com/vi/UfsM7_cNsII/hqdefault.jpg"
         },
         {
-          "title": "కార్తీక  సోమవారం రోజు ఈ పాటలు వింటే అష్టఐశ్వర్యాలు పొందుతారు SIVA MANASASMARAMI BHAKTHI SONGS",
-          "channel": "భక్తి పాటలు తెలుగు - Bhakthi Patalu Telugu",
-          "metrics": "557,359 views",
-          "url": "https://www.youtube.com/watch?v=DNZzpsxRNhw",
-          "thumbnail": "https://i.ytimg.com/vi/DNZzpsxRNhw/hqdefault.jpg"
-        },
-        {
-          "title": "MAYAN Chapter 1 - Trailer | Jayasurya | Jithin K Jose | Rajeev Govindan | Nyla Usha | Mujeeb Majeed",
-          "channel": "Universal Music South",
-          "metrics": "1,604,351 views",
-          "url": "https://www.youtube.com/watch?v=Y488C2KfdmQ",
-          "thumbnail": "https://i.ytimg.com/vi/Y488C2KfdmQ/hqdefault.jpg"
-        },
-        {
-          "title": "I Stole The RAREST FERRARI in GTA 6",
-          "channel": "Mythpat",
-          "metrics": "1,401,562 views",
-          "url": "https://www.youtube.com/watch?v=BgIISP2mi3o",
-          "thumbnail": "https://i.ytimg.com/vi/BgIISP2mi3o/hqdefault.jpg"
-        },
-        {
           "title": "तुलसी माता की आरती Tulsi Mata Ki Aarti - Jai Jai Tulsi Mata Aarti | Tulsi Vivah Song | Tulsi Aarti",
           "channel": "Nova Spiritual India",
-          "metrics": "977,814 views",
+          "metrics": "1,020,435 views",
           "url": "https://www.youtube.com/watch?v=eoreyvVBX0o",
           "thumbnail": "https://i.ytimg.com/vi/eoreyvVBX0o/hqdefault.jpg"
         },
         {
+          "title": "BHOGI Official Trailer | Sharwanand | Sampath Nandi | Anupama | Dimple Hayathi | Bheems Ceciroleo",
+          "channel": "Aditya Music",
+          "metrics": "3,342,510 views",
+          "url": "https://www.youtube.com/watch?v=dWOYaZ2gb9I",
+          "thumbnail": "https://i.ytimg.com/vi/dWOYaZ2gb9I/hqdefault.jpg"
+        },
+        {
+          "title": "Sheru Bhai Life Simulator Game | Trailer",
+          "channel": "Skorax",
+          "metrics": "126,516 views",
+          "url": "https://www.youtube.com/watch?v=kPlB9o4hmPg",
+          "thumbnail": "https://i.ytimg.com/vi/kPlB9o4hmPg/hqdefault.jpg"
+        },
+        {
+          "title": "तुळशीची आरती मराठी | Tulshichi Aarti Marathi Lyrics | Tulsi Vivah Aarti Marathi तुळशी मातेची आरती",
+          "channel": "Vision Bhakti Marathi",
+          "metrics": "376,209 views",
+          "url": "https://www.youtube.com/watch?v=euiMlrD142c",
+          "thumbnail": "https://i.ytimg.com/vi/euiMlrD142c/hqdefault.jpg"
+        },
+        {
+          "title": "Cosmic Samson Trailer | Sandeep Pradeep | Abhijith Joseph | Sibi Mathew Alex | Weekend Blockbusters",
+          "channel": "Think Music India",
+          "metrics": "2,872,833 views",
+          "url": "https://www.youtube.com/watch?v=EA-a7RR-7DY",
+          "thumbnail": "https://i.ytimg.com/vi/EA-a7RR-7DY/hqdefault.jpg"
+        },
+        {
+          "title": "Stealing Divine Egg From DOORBIN GORILLA KING in Minecraft..",
+          "channel": "Carry Depie",
+          "metrics": "1,387,156 views",
+          "url": "https://www.youtube.com/watch?v=jvkDnEYCJyI",
+          "thumbnail": "https://i.ytimg.com/vi/jvkDnEYCJyI/hqdefault.jpg"
+        },
+        {
+          "title": "కార్తీక  పౌర్ణమి రోజు ఈ పాటలు వింటే సకల సంపదలు, అష్ట ఐశ్వర్యాలు మీ సొంతం SIVA MANASASMARAMI songs",
+          "channel": "భక్తి పాటలు తెలుగు - Bhakthi Patalu Telugu",
+          "metrics": "260,635 views",
+          "url": "https://www.youtube.com/watch?v=EgYecI4L_cs",
+          "thumbnail": "https://i.ytimg.com/vi/EgYecI4L_cs/hqdefault.jpg"
+        },
+        {
+          "title": "Avengers Doomsday Final Trailer Review | Yogi Bolta Hai",
+          "channel": "YOGI BOLTA HAI",
+          "metrics": "411,331 views",
+          "url": "https://www.youtube.com/watch?v=rfog9n__9Xw",
+          "thumbnail": "https://i.ytimg.com/vi/rfog9n__9Xw/hqdefault.jpg"
+        },
+        {
+          "title": "I Stole The RAREST FERRARI in GTA 6",
+          "channel": "Mythpat",
+          "metrics": "1,450,376 views",
+          "url": "https://www.youtube.com/watch?v=BgIISP2mi3o",
+          "thumbnail": "https://i.ytimg.com/vi/BgIISP2mi3o/hqdefault.jpg"
+        },
+        {
+          "title": "Nas Nas Kyu Dukhe पिया मेरी नस नस के हो दुखे  Anjali Raghav Karan Chaudhary !! Brajbhasha Song",
+          "channel": "DHUN ONE MUSIC ",
+          "metrics": "152,678 views",
+          "url": "https://www.youtube.com/watch?v=LHUnweMm4Jg",
+          "thumbnail": "https://i.ytimg.com/vi/LHUnweMm4Jg/hqdefault.jpg"
+        },
+        {
           "title": "Baap Paihle Aa-Gaya! ⋮ Avengers Doomsday Final Trailer",
           "channel": "PJ Explained",
-          "metrics": "345,268 views",
+          "metrics": "522,400 views",
           "url": "https://www.youtube.com/watch?v=A46yjvbtrVU",
           "thumbnail": "https://i.ytimg.com/vi/A46yjvbtrVU/hqdefault.jpg"
         },
         {
           "title": "I Found A Buried Giant Scary Herobrine Robot In Minecraft..",
           "channel": "MrAlpha",
-          "metrics": "544,626 views",
+          "metrics": "590,920 views",
           "url": "https://www.youtube.com/watch?v=dFrTvx9XYrQ",
           "thumbnail": "https://i.ytimg.com/vi/dFrTvx9XYrQ/hqdefault.jpg"
         },
         {
-          "title": "பரணி தீபம் கார்த்திகை சோமவாரத்தில்  கேட்க வேண்டிய  சிவ ஸ்துதி - சிவபுராணம் - Sivapuranam",
-          "channel": "Hasini Musicals",
-          "metrics": "605,298 views",
-          "url": "https://www.youtube.com/watch?v=9QPLYN91RNE",
-          "thumbnail": "https://i.ytimg.com/vi/9QPLYN91RNE/hqdefault.jpg"
+          "title": "Uncha Nicha Rasta - Nonstop Haryanvi Dj Song 2026 | Raj Mawar, Komal C | Bharti Choudhary Dance",
+          "channel": "Seema Music",
+          "metrics": "146,492 views",
+          "url": "https://www.youtube.com/watch?v=bNE9_x8HSgc",
+          "thumbnail": "https://i.ytimg.com/vi/bNE9_x8HSgc/hqdefault.jpg"
         },
         {
-          "title": "Avengers Doomsday Final Trailer Review | Yogi Bolta Hai",
-          "channel": "YOGI BOLTA HAI",
-          "metrics": "283,591 views",
-          "url": "https://www.youtube.com/watch?v=rfog9n__9Xw",
-          "thumbnail": "https://i.ytimg.com/vi/rfog9n__9Xw/hqdefault.jpg"
+          "title": "MAYAN Chapter 1 - Trailer | Jayasurya | Jithin K Jose | Rajeev Govindan | Nyla Usha | Mujeeb Majeed",
+          "channel": "Universal Music South",
+          "metrics": "1,638,454 views",
+          "url": "https://www.youtube.com/watch?v=Y488C2KfdmQ",
+          "thumbnail": "https://i.ytimg.com/vi/Y488C2KfdmQ/hqdefault.jpg"
         },
         {
-          "title": "GTA 5 LIVE | Train vs 100 Luxury Cars 😱🔥 कौन बचेगा?",
-          "channel": "Sunil Gaming",
-          "metrics": "2,387,164 views",
-          "url": "https://www.youtube.com/watch?v=pv_tQ7ImYw4",
-          "thumbnail": "https://i.ytimg.com/vi/pv_tQ7ImYw4/hqdefault.jpg"
+          "title": "ADDING 10 MUTATION TO THE LUCKIEST DIVINE EGG IN STEAL AN EGG ROBLOX !!",
+          "channel": "Shivang Mini",
+          "metrics": "684,039 views",
+          "url": "https://www.youtube.com/watch?v=Ul7OayWHyTc",
+          "thumbnail": "https://i.ytimg.com/vi/Ul7OayWHyTc/hqdefault.jpg"
         },
         {
-          "title": "Dilruba Dilnasheen - Rito Riba (Lyrics)",
-          "channel": "7clouds",
-          "metrics": "1,090,398 views",
-          "url": "https://www.youtube.com/watch?v=_5KLn99WKTI",
-          "thumbnail": "https://i.ytimg.com/vi/_5KLn99WKTI/hqdefault.jpg"
+          "title": "కార్తీక పౌర్ణమి రోజున వినాల్సిన శివుని పాటలు | Karthika Pournami Special | Shiva Songs Telugu",
+          "channel": "Maha Mantram - మహా మంత్రం ",
+          "metrics": "85,447 views",
+          "url": "https://www.youtube.com/watch?v=1L0CKL4kXxw",
+          "thumbnail": "https://i.ytimg.com/vi/1L0CKL4kXxw/hqdefault.jpg"
+        },
+        {
+          "title": "Avengers Doomsday Trailer REVIEW | Deeksha Sharma",
+          "channel": "Filmi Indian",
+          "metrics": "300,304 views",
+          "url": "https://www.youtube.com/watch?v=oihFqr7958U",
+          "thumbnail": "https://i.ytimg.com/vi/oihFqr7958U/hqdefault.jpg"
+        },
+        {
+          "title": "🌿FREE FIRE LIVE🌿PLAYING BR-RANKED😎2X AWM SPEED GAME PLAY 🎮🎯 ON LIVE - GARENA FREE FIRE",
+          "channel": "DAD I AM OK GAMING",
+          "metrics": "1,112,142 views",
+          "url": "https://www.youtube.com/watch?v=XFlepkGLtO4",
+          "thumbnail": "https://i.ytimg.com/vi/XFlepkGLtO4/hqdefault.jpg"
+        },
+        {
+          "title": "#Video - स्प्लेंडर से फॉर्चूनर | #Sanjay Yaduvanshi | Splendor Se Fourtuner | New #Bhojpuri Song",
+          "channel": "Wave Music",
+          "metrics": "292,223 views",
+          "url": "https://www.youtube.com/watch?v=HirA1HmcljY",
+          "thumbnail": "https://i.ytimg.com/vi/HirA1HmcljY/hqdefault.jpg"
         },
         {
           "title": "Avengers Doomsday Final Trailer - My Thoughts | Reeload Media",
           "channel": "REELOAD MEDIA",
-          "metrics": "110,932 views",
+          "metrics": "142,747 views",
           "url": "https://www.youtube.com/watch?v=rhHBlIHyGhU",
           "thumbnail": "https://i.ytimg.com/vi/rhHBlIHyGhU/hqdefault.jpg"
         },
         {
           "title": "If You Steal a Car in GTA 6, I’ll Pay For It!",
           "channel": "MrBeast Gaming",
-          "metrics": "25,891,592 views",
+          "metrics": "27,565,559 views",
           "url": "https://www.youtube.com/watch?v=Ra6sNe8s2Hc",
           "thumbnail": "https://i.ytimg.com/vi/Ra6sNe8s2Hc/hqdefault.jpg"
         },
         {
-          "title": "DJ Pe Morni (Official Video) Ajay Hooda | Gori Nagori | New Haryanvi Dj Song 2026",
-          "channel": "Ajay Hooda",
-          "metrics": "2,636,731 views",
-          "url": "https://www.youtube.com/watch?v=lsBcMKVj18c",
-          "thumbnail": "https://i.ytimg.com/vi/lsBcMKVj18c/hqdefault.jpg"
+          "title": "पूर्णिमा के दिन हर घर में सुनी जाती हैं कार्तिक पूर्णिमा अमृतधारा कथा | Kartik Purnima Katha 2026",
+          "channel": "Aaj Ki Amritdhara",
+          "metrics": "131,745 views",
+          "url": "https://www.youtube.com/watch?v=0dl61c9fXtU",
+          "thumbnail": "https://i.ytimg.com/vi/0dl61c9fXtU/hqdefault.jpg"
         },
         {
-          "title": "Avengers Doomsday Trailer REVIEW | Deeksha Sharma",
-          "channel": "Filmi Indian",
-          "metrics": "177,256 views",
-          "url": "https://www.youtube.com/watch?v=oihFqr7958U",
-          "thumbnail": "https://i.ytimg.com/vi/oihFqr7958U/hqdefault.jpg"
+          "title": "Avengers: Doomsday Final Trailer reaction w @BnfTV || sanki reacts",
+          "channel": "sanki reacts",
+          "metrics": "196,603 views",
+          "url": "https://www.youtube.com/watch?v=d6IKq7PTCv0",
+          "thumbnail": "https://i.ytimg.com/vi/d6IKq7PTCv0/hqdefault.jpg"
         },
         {
-          "title": "ADDING 10 MUTATION TO THE LUCKIEST DIVINE EGG IN STEAL AN EGG ROBLOX !!",
-          "channel": "Shivang Mini",
-          "metrics": "633,079 views",
-          "url": "https://www.youtube.com/watch?v=Ul7OayWHyTc",
-          "thumbnail": "https://i.ytimg.com/vi/Ul7OayWHyTc/hqdefault.jpg"
+          "title": "TAG ZGOD IS HERE! | LETS TALK | GTA LATER",
+          "channel": "ZGOD GAMING",
+          "metrics": "1,316,414 views",
+          "url": "https://www.youtube.com/watch?v=mHwlG9Qu_OM",
+          "thumbnail": "https://i.ytimg.com/vi/mHwlG9Qu_OM/hqdefault.jpg"
         },
         {
           "title": "Ramayana: Mangal Rang (Full Video) | Namit M,Nitesh T| Ranbir K,Sai |AR Rahman,Arijit,Shreya,Kumar V",
           "channel": "T-Series",
-          "metrics": "1,988,718 views",
+          "metrics": "2,067,603 views",
           "url": "https://www.youtube.com/watch?v=tdGLInZJF9I",
           "thumbnail": "https://i.ytimg.com/vi/tdGLInZJF9I/hqdefault.jpg"
         },
         {
           "title": "AVENGERS DOOMSDAY FINAL TRAILER REACTION!",
           "channel": "The Media Knights",
-          "metrics": "406,510 views",
+          "metrics": "598,945 views",
           "url": "https://www.youtube.com/watch?v=LfIXOqxQCsg",
           "thumbnail": "https://i.ytimg.com/vi/LfIXOqxQCsg/hqdefault.jpg"
         },
         {
-          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-          "channel": "Raajoo Gaming",
-          "metrics": "5,103,895 views",
-          "url": "https://www.youtube.com/watch?v=dBiKIdPKmF0",
-          "thumbnail": "https://i.ytimg.com/vi/dBiKIdPKmF0/hqdefault.jpg"
+          "title": "GTA 5 LIVE | Train vs 100 Luxury Cars 😱🔥 कौन बचेगा?",
+          "channel": "Sunil Gaming",
+          "metrics": "2,387,274 views",
+          "url": "https://www.youtube.com/watch?v=pv_tQ7ImYw4",
+          "thumbnail": "https://i.ytimg.com/vi/pv_tQ7ImYw4/hqdefault.jpg"
         },
         {
-          "title": "#Video - स्प्लेंडर से फॉर्चूनर | #Sanjay Yaduvanshi | Splendor Se Fourtuner | New #Bhojpuri Song",
-          "channel": "Wave Music",
-          "metrics": "257,856 views",
-          "url": "https://www.youtube.com/watch?v=HirA1HmcljY",
-          "thumbnail": "https://i.ytimg.com/vi/HirA1HmcljY/hqdefault.jpg"
+          "title": "பரணி தீபம் கார்த்திகை சோமவாரத்தில்  கேட்க வேண்டிய  சிவ ஸ்துதி - சிவபுராணம் - Sivapuranam",
+          "channel": "Hasini Musicals",
+          "metrics": "626,162 views",
+          "url": "https://www.youtube.com/watch?v=9QPLYN91RNE",
+          "thumbnail": "https://i.ytimg.com/vi/9QPLYN91RNE/hqdefault.jpg"
         },
         {
-          "title": "Devi Mahathme Official Trailer | Rangayana Raghu | Nagaraj Somayaji | SK Rao | Hombale Music",
-          "channel": "Hombale Music",
-          "metrics": "163,617 views",
-          "url": "https://www.youtube.com/watch?v=TSO2rNX5NTE",
-          "thumbnail": "https://i.ytimg.com/vi/TSO2rNX5NTE/hqdefault.jpg"
-        },
-        {
-          "title": "🔴EXPLORING VICE CITY - GTA 6 STREAM (EASTER EGGS)",
-          "channel": "IShowSpeed",
-          "metrics": "10,192,672 views",
-          "url": "https://www.youtube.com/watch?v=izXcd-bU72k",
-          "thumbnail": "https://i.ytimg.com/vi/izXcd-bU72k/hqdefault.jpg"
-        },
-        {
-          "title": "#Video | #Pawan Singh | बबुआन | #Shilpi Raj #Chandani Singh | New Bhojpuri #babuan_song #pawansingh",
-          "channel": "Sur Entertainment",
-          "metrics": "298,572 views",
-          "url": "https://www.youtube.com/watch?v=JTactmQPNDM",
-          "thumbnail": "https://i.ytimg.com/vi/JTactmQPNDM/hqdefault.jpg"
-        },
-        {
-          "title": "Avengers: Doomsday Final Trailer reaction w @BnfTV || sanki reacts",
-          "channel": "sanki reacts",
-          "metrics": "178,437 views",
-          "url": "https://www.youtube.com/watch?v=d6IKq7PTCv0",
-          "thumbnail": "https://i.ytimg.com/vi/d6IKq7PTCv0/hqdefault.jpg"
-        },
-        {
-          "title": "😱 FINALLY SHERU BHAI KI SHINCHAN AUR JACK KE GHAR MEIN ENTRY HO GAYI 🦁🔥 | शेरू भाई की घर में एंट्री!",
-          "channel": "OMTRIX GAMING",
-          "metrics": "394,536 views",
-          "url": "https://www.youtube.com/watch?v=dcY_Ocdau3Q",
-          "thumbnail": "https://i.ytimg.com/vi/dcY_Ocdau3Q/hqdefault.jpg"
-        },
-        {
-          "title": "#Video - खून पानी | #Ashish Yadav | Ft, #Updated Biharan | Khoon Pani | Magahi #Rangdari Song 2026",
-          "channel": "Shanti Films",
-          "metrics": "541,571 views",
-          "url": "https://www.youtube.com/watch?v=xpfIn1hFcQY",
-          "thumbnail": "https://i.ytimg.com/vi/xpfIn1hFcQY/hqdefault.jpg"
-        },
-        {
-          "title": "Srimathi Official Trailer | Nivetha Thomas, Thiruveer | Renu Desai",
-          "channel": "Mana Stars",
-          "metrics": "383,003 views",
-          "url": "https://www.youtube.com/watch?v=zBZBcSXNGZc",
-          "thumbnail": "https://i.ytimg.com/vi/zBZBcSXNGZc/hqdefault.jpg"
+          "title": "Avengers Doomsday Final Trailer Breakdown..!!😱😱",
+          "channel": "SUPER FACTS",
+          "metrics": "61,863 views",
+          "url": "https://www.youtube.com/watch?v=QxUD7UujJx8",
+          "thumbnail": "https://i.ytimg.com/vi/QxUD7UujJx8/hqdefault.jpg"
         }
       ]
     },
@@ -689,345 +703,331 @@
         {
           "title": "Travis Scott - Burn This Shit Down [from Grand Theft Auto VI: The Album (Deluxe Edition)]",
           "channel": "Atlantic Records",
-          "metrics": "216,773 views",
+          "metrics": "435,815 views",
           "url": "https://www.youtube.com/watch?v=2sUhJahVWyQ",
           "thumbnail": "https://i.ytimg.com/vi/2sUhJahVWyQ/hqdefault.jpg"
         },
         {
           "title": "Avengers: Doomsday | Final Trailer | In Theaters December 18",
           "channel": "Marvel Entertainment",
-          "metrics": "22,215,256 views",
+          "metrics": "32,186,194 views",
           "url": "https://www.youtube.com/watch?v=Wb8Tq_HD4E8",
           "thumbnail": "https://i.ytimg.com/vi/Wb8Tq_HD4E8/hqdefault.jpg"
         },
         {
+          "title": "10,000 Players Simulate WORLD WAR in Minecraft",
+          "channel": "Spoke",
+          "metrics": "1,995,715 views",
+          "url": "https://www.youtube.com/watch?v=qvR50Jh7OmU",
+          "thumbnail": "https://i.ytimg.com/vi/qvR50Jh7OmU/hqdefault.jpg"
+        },
+        {
+          "title": "Burn This Shit Down (from GTAVI: The Album)",
+          "channel": "Travis Scott - Topic",
+          "metrics": "238,180 views",
+          "url": "https://www.youtube.com/watch?v=FTQVONPGlus",
+          "thumbnail": "https://i.ytimg.com/vi/FTQVONPGlus/hqdefault.jpg"
+        },
+        {
+          "title": "Avengers: Doomsday Final Trailer BREAKDOWN - Easter Eggs You Missed!",
+          "channel": "ScreenCrush",
+          "metrics": "656,044 views",
+          "url": "https://www.youtube.com/watch?v=2kOH5w8I2FU",
+          "thumbnail": "https://i.ytimg.com/vi/2kOH5w8I2FU/hqdefault.jpg"
+        },
+        {
+          "title": "DO NOT Cheat in This Game",
+          "channel": "SMii7Y",
+          "metrics": "1,044,157 views",
+          "url": "https://www.youtube.com/watch?v=KB97gc8GqwU",
+          "thumbnail": "https://i.ytimg.com/vi/KB97gc8GqwU/hqdefault.jpg"
+        },
+        {
+          "title": "Hzino - Co-Sign (Official Visualiser) Prod By D33",
+          "channel": "Hzino",
+          "metrics": "9,344 views",
+          "url": "https://www.youtube.com/watch?v=K7WREJ6xL4g",
+          "thumbnail": "https://i.ytimg.com/vi/K7WREJ6xL4g/hqdefault.jpg"
+        },
+        {
+          "title": "DOOMSDAY FINAL TRAILER | Reaction and Q&A! | New Rockstars",
+          "channel": "New Rockstars",
+          "metrics": "576,392 views",
+          "url": "https://www.youtube.com/watch?v=7vkXwEp3oak",
+          "thumbnail": "https://i.ytimg.com/vi/7vkXwEp3oak/hqdefault.jpg"
+        },
+        {
           "title": "GTA 6 just exposed every game critic..",
           "channel": "Asmongold TV  ",
-          "metrics": "1,487,770 views",
+          "metrics": "1,935,557 views",
           "url": "https://www.youtube.com/watch?v=2pKaKXIyDW0",
           "thumbnail": "https://i.ytimg.com/vi/2pKaKXIyDW0/hqdefault.jpg"
         },
         {
           "title": "Christmas Songs Playlist 🎅  Top Christmas Songs of All Time Playlist 🎄 Best Christmas Music 2027",
           "channel": "Christmas Songs and Carols - Love to Sing",
-          "metrics": "728,563 views",
+          "metrics": "854,659 views",
           "url": "https://www.youtube.com/watch?v=UWa8xqMLwhw",
           "thumbnail": "https://i.ytimg.com/vi/UWa8xqMLwhw/hqdefault.jpg"
         },
         {
-          "title": "AVENGERS DOOMSDAY Trailer Breakdown | Every Easter Egg, Story Detail Theory & Detail | Reaction",
-          "channel": "Heavy Spoilers",
-          "metrics": "227,683 views",
-          "url": "https://www.youtube.com/watch?v=Quw5hz3rjCU",
-          "thumbnail": "https://i.ytimg.com/vi/Quw5hz3rjCU/hqdefault.jpg"
-        },
-        {
-          "title": "GTA 6: 37 Tips You Should Know",
-          "channel": "TGG",
-          "metrics": "557,070 views",
-          "url": "https://www.youtube.com/watch?v=fyT21-s4VZQ",
-          "thumbnail": "https://i.ytimg.com/vi/fyT21-s4VZQ/hqdefault.jpg"
-        },
-        {
-          "title": "Hzino - Co-Sign (Official Visualiser) Prod By D33",
-          "channel": "Hzino",
-          "metrics": "5,478 views",
-          "url": "https://www.youtube.com/watch?v=K7WREJ6xL4g",
-          "thumbnail": "https://i.ytimg.com/vi/K7WREJ6xL4g/hqdefault.jpg"
-        },
-        {
-          "title": "AVENGERS DOOMSDAY FINAL TRAILER REACTION!",
-          "channel": "The Media Knights",
-          "metrics": "406,510 views",
-          "url": "https://www.youtube.com/watch?v=LfIXOqxQCsg",
-          "thumbnail": "https://i.ytimg.com/vi/LfIXOqxQCsg/hqdefault.jpg"
-        },
-        {
-          "title": "SIDEMEN AMONG US GTA 6 EDITION",
-          "channel": "MoreSidemen",
-          "metrics": "3,396,065 views",
-          "url": "https://www.youtube.com/watch?v=vunYsm7gV9s",
-          "thumbnail": "https://i.ytimg.com/vi/vunYsm7gV9s/hqdefault.jpg"
-        },
-        {
-          "title": "Burn This Shit Down (from GTAVI: The Album)",
-          "channel": "Travis Scott - Topic",
-          "metrics": "81,764 views",
-          "url": "https://www.youtube.com/watch?v=FTQVONPGlus",
-          "thumbnail": "https://i.ytimg.com/vi/FTQVONPGlus/hqdefault.jpg"
-        },
-        {
-          "title": "TO ME, MY X-MEN! Avengers Doomsday FINAL TRAILER REACTION!! - Doctor Doom",
-          "channel": "Reel Rejects",
-          "metrics": "296,818 views",
-          "url": "https://www.youtube.com/watch?v=6eblkecysvY",
-          "thumbnail": "https://i.ytimg.com/vi/6eblkecysvY/hqdefault.jpg"
-        },
-        {
-          "title": "Grand Theft Auto 6 is Absolutely Insane...",
-          "channel": "jackfrags",
-          "metrics": "731,896 views",
-          "url": "https://www.youtube.com/watch?v=38Q4pkpgjLM",
-          "thumbnail": "https://i.ytimg.com/vi/38Q4pkpgjLM/hqdefault.jpg"
-        },
-        {
-          "title": "Chase Atlantic - WHEREVER YOU ARE (Official Music Video)",
-          "channel": "CHASE ATLANTIC",
-          "metrics": "103,495 views",
-          "url": "https://www.youtube.com/watch?v=n5mEkqPdRBI",
-          "thumbnail": "https://i.ytimg.com/vi/n5mEkqPdRBI/hqdefault.jpg"
-        },
-        {
-          "title": "The Escape Podcast REACT TO THE AVENGERS DOOMSDAY FINAL TRAILER…",
-          "channel": "WHATNERDtalk",
-          "metrics": "115,999 views",
-          "url": "https://www.youtube.com/watch?v=FT3H-TQV0i4",
-          "thumbnail": "https://i.ytimg.com/vi/FT3H-TQV0i4/hqdefault.jpg"
-        },
-        {
-          "title": "I Must Clean Up EVERY BALL in Roblox...",
-          "channel": "Techys",
-          "metrics": "142,263 views",
-          "url": "https://www.youtube.com/watch?v=HOKS5aKoEHM",
-          "thumbnail": "https://i.ytimg.com/vi/HOKS5aKoEHM/hqdefault.jpg"
-        },
-        {
-          "title": "I Don't Mind",
-          "channel": "MEYO - Topic",
-          "metrics": "131,610 views",
-          "url": "https://www.youtube.com/watch?v=hx7ItPNcUNw",
-          "thumbnail": "https://i.ytimg.com/vi/hx7ItPNcUNw/hqdefault.jpg"
-        },
-        {
-          "title": "DOOMSDAY FINAL TRAILER | Reaction and Q&A! | New Rockstars",
-          "channel": "New Rockstars",
-          "metrics": "264,190 views",
-          "url": "https://www.youtube.com/watch?v=7vkXwEp3oak",
-          "thumbnail": "https://i.ytimg.com/vi/7vkXwEp3oak/hqdefault.jpg"
-        },
-        {
-          "title": "Discord VCs at 7AM",
-          "channel": "isaacwhy",
-          "metrics": "228,621 views",
-          "url": "https://www.youtube.com/watch?v=GQ1YwGxIr8w",
-          "thumbnail": "https://i.ytimg.com/vi/GQ1YwGxIr8w/hqdefault.jpg"
-        },
-        {
-          "title": "Lkay80m x Gwpa80m - NICOTINE (OFFICIAL MUSIC VIDEO)",
-          "channel": "Lkay80m",
-          "metrics": "18,595 views",
-          "url": "https://www.youtube.com/watch?v=DRIItZuHXFk",
-          "thumbnail": "https://i.ytimg.com/vi/DRIItZuHXFk/hqdefault.jpg"
-        },
-        {
-          "title": "Panchayat Season 5 - Official Trailer | Jitendra Kumar, Raghubir Yadav, Neena Gupta, Sanvikaa",
-          "channel": "Prime Video India",
-          "metrics": "7,294,025 views",
-          "url": "https://www.youtube.com/watch?v=36a-E7A35F8",
-          "thumbnail": "https://i.ytimg.com/vi/36a-E7A35F8/hqdefault.jpg"
-        },
-        {
-          "title": "Mac Gaming is Solved But Not By Apple",
-          "channel": "Linus Tech Tips",
-          "metrics": "372,757 views",
-          "url": "https://www.youtube.com/watch?v=Ip5EiqbuBpE",
-          "thumbnail": "https://i.ytimg.com/vi/Ip5EiqbuBpE/hqdefault.jpg"
-        },
-        {
-          "title": "Shaggy - Angel (Lyrics) ft. Rayvon",
-          "channel": "GroovLatn",
-          "metrics": "39,740 views",
-          "url": "https://www.youtube.com/watch?v=OIB8mqQbueM",
-          "thumbnail": "https://i.ytimg.com/vi/OIB8mqQbueM/hqdefault.jpg"
-        },
-        {
-          "title": "NO WAY THEY SHOWED THAT!! Avengers: Doomsday FINAL Trailer REACTION!",
-          "channel": "Kristian Harloff",
-          "metrics": "208,384 views",
-          "url": "https://www.youtube.com/watch?v=tNR44wUPmig",
-          "thumbnail": "https://i.ytimg.com/vi/tNR44wUPmig/hqdefault.jpg"
-        },
-        {
-          "title": "Never trust the trapper",
-          "channel": "JudeLow",
-          "metrics": "1,666,271 views",
-          "url": "https://www.youtube.com/watch?v=8fklS3_lBSg",
-          "thumbnail": "https://i.ytimg.com/vi/8fklS3_lBSg/hqdefault.jpg"
-        },
-        {
-          "title": "Luis Fonsi - Despacito ft. Daddy Yankee (Letra/Lyrics)",
-          "channel": "jostland.",
-          "metrics": "232,616 views",
-          "url": "https://www.youtube.com/watch?v=zXAsoHvFfIk",
-          "thumbnail": "https://i.ytimg.com/vi/zXAsoHvFfIk/hqdefault.jpg"
-        },
-        {
-          "title": "Avengers Doomsday Final Trailer REACTION",
-          "channel": "Beyond The Trailer",
-          "metrics": "128,736 views",
-          "url": "https://www.youtube.com/watch?v=E-vhD2cnKpQ",
-          "thumbnail": "https://i.ytimg.com/vi/E-vhD2cnKpQ/hqdefault.jpg"
-        },
-        {
-          "title": "*NEW* GTA 6 UNLIMITED MONEY GLITCH: MAKE $500,000 AN HOUR!",
-          "channel": "MrDalekJD",
-          "metrics": "133,925 views",
-          "url": "https://www.youtube.com/watch?v=DM1Au7JTzcE",
-          "thumbnail": "https://i.ytimg.com/vi/DM1Au7JTzcE/hqdefault.jpg"
-        },
-        {
-          "title": "Crazy For You",
-          "channel": "Release - Topic",
-          "metrics": "503,484 views",
-          "url": "https://www.youtube.com/watch?v=Zl5xZ_LLA1c",
-          "thumbnail": "https://i.ytimg.com/vi/Zl5xZ_LLA1c/hqdefault.jpg"
-        },
-        {
           "title": "AVENGERS DOOMSDAY FINAL TRAILER Doctor Doom, X-Men & Every Hidden Detail!",
           "channel": "Emergency Awesome",
-          "metrics": "145,406 views",
+          "metrics": "524,660 views",
           "url": "https://www.youtube.com/watch?v=-wNMKJaUE6M",
           "thumbnail": "https://i.ytimg.com/vi/-wNMKJaUE6M/hqdefault.jpg"
         },
         {
-          "title": "GTA 6 - Part 18 - Jason's Impossible Test",
-          "channel": "TmarTn2",
-          "metrics": "166,926 views",
-          "url": "https://www.youtube.com/watch?v=NixKoHGHxko",
-          "thumbnail": "https://i.ytimg.com/vi/NixKoHGHxko/hqdefault.jpg"
+          "title": "GTA 6 - What's New In the First Patch?",
+          "channel": "IGN",
+          "metrics": "400,088 views",
+          "url": "https://www.youtube.com/watch?v=GotN7bLCgpU",
+          "thumbnail": "https://i.ytimg.com/vi/GotN7bLCgpU/hqdefault.jpg"
         },
         {
-          "title": "Alex Botea - Colt de rai | Official Video",
-          "channel": "X-pert Production Official",
-          "metrics": "706,824 views",
-          "url": "https://www.youtube.com/watch?v=qQMAv-2i-tA",
-          "thumbnail": "https://i.ytimg.com/vi/qQMAv-2i-tA/hqdefault.jpg"
+          "title": "Lkay80m x Gwpa80m - NICOTINE (OFFICIAL MUSIC VIDEO)",
+          "channel": "Lkay80m",
+          "metrics": "23,650 views",
+          "url": "https://www.youtube.com/watch?v=DRIItZuHXFk",
+          "thumbnail": "https://i.ytimg.com/vi/DRIItZuHXFk/hqdefault.jpg"
+        },
+        {
+          "title": "AVENGERS DOOMSDAY Trailer Breakdown | Every Easter Egg, Story Detail Theory & Detail | Reaction",
+          "channel": "Heavy Spoilers",
+          "metrics": "389,631 views",
+          "url": "https://www.youtube.com/watch?v=Quw5hz3rjCU",
+          "thumbnail": "https://i.ytimg.com/vi/Quw5hz3rjCU/hqdefault.jpg"
+        },
+        {
+          "title": "WE PLAYED GTA 6 FOR THE FIRST TIME",
+          "channel": "Kalogeras Sisters ",
+          "metrics": "549,372 views",
+          "url": "https://www.youtube.com/watch?v=dTjbyU_Bi00",
+          "thumbnail": "https://i.ytimg.com/vi/dTjbyU_Bi00/hqdefault.jpg"
+        },
+        {
+          "title": "Chase Atlantic - WHEREVER YOU ARE (Official Music Video)",
+          "channel": "CHASE ATLANTIC",
+          "metrics": "179,722 views",
+          "url": "https://www.youtube.com/watch?v=n5mEkqPdRBI",
+          "thumbnail": "https://i.ytimg.com/vi/n5mEkqPdRBI/hqdefault.jpg"
         },
         {
           "title": "FINAL AVENGERS DOOMSDAY TRAILER | Emergency Pod #4",
           "channel": "The Escape Pod",
-          "metrics": "100,432 views",
+          "metrics": "353,790 views",
           "url": "https://www.youtube.com/watch?v=c_7JBX4uvkQ",
           "thumbnail": "https://i.ytimg.com/vi/c_7JBX4uvkQ/hqdefault.jpg"
         },
         {
-          "title": "This is vanilla Minecraft",
-          "channel": "Mumbo Jumbo",
-          "metrics": "1,633,232 views",
-          "url": "https://www.youtube.com/watch?v=4q55KOKC9zk",
-          "thumbnail": "https://i.ytimg.com/vi/4q55KOKC9zk/hqdefault.jpg"
-        },
-        {
-          "title": "ArrDee - MY FLEX (Visualiser)",
-          "channel": "ArrDee",
-          "metrics": "39,865 views",
-          "url": "https://www.youtube.com/watch?v=IJUgcInGpRg",
-          "thumbnail": "https://i.ytimg.com/vi/IJUgcInGpRg/hqdefault.jpg"
-        },
-        {
-          "title": "Learn The Skill, Win $1,000 (Minecraft)",
-          "channel": "Dash",
-          "metrics": "99,559 views",
-          "url": "https://www.youtube.com/watch?v=JV-rtAdtQq8",
-          "thumbnail": "https://i.ytimg.com/vi/JV-rtAdtQq8/hqdefault.jpg"
-        },
-        {
-          "title": "2026 OFFICIAL RECAP AUDIO",
-          "channel": "Gravagerz",
-          "metrics": "181,357 views",
-          "url": "https://www.youtube.com/watch?v=3ibVDmPdoeE",
-          "thumbnail": "https://i.ytimg.com/vi/3ibVDmPdoeE/hqdefault.jpg"
-        },
-        {
-          "title": "AVENGERS: DOOMSDAY FINAL TRAILER REACTION! (I CRIED OMG)",
-          "channel": "Zach Pope",
-          "metrics": "191,259 views",
-          "url": "https://www.youtube.com/watch?v=DWrLax5ifDg",
-          "thumbnail": "https://i.ytimg.com/vi/DWrLax5ifDg/hqdefault.jpg"
-        },
-        {
-          "title": "Asmongold is right about GTA 6",
-          "channel": "Sydney Watson",
-          "metrics": "772,482 views",
-          "url": "https://www.youtube.com/watch?v=vmBr0_HfS-4",
-          "thumbnail": "https://i.ytimg.com/vi/vmBr0_HfS-4/hqdefault.jpg"
-        },
-        {
-          "title": "Ishqa (From \"Dar-E-Nijaat\")",
-          "channel": "Naveed Nashad - Topic",
-          "metrics": "729,495 views",
-          "url": "https://www.youtube.com/watch?v=A_Sdgoik66k",
-          "thumbnail": "https://i.ytimg.com/vi/A_Sdgoik66k/hqdefault.jpg"
-        },
-        {
-          "title": "SO HYPE!🔥AVENGERS: DOOMSDAY FINAL TRAILER REACTION!",
-          "channel": "Dos Cavazos",
-          "metrics": "145,428 views",
-          "url": "https://www.youtube.com/watch?v=TMsBM9rCnME",
-          "thumbnail": "https://i.ytimg.com/vi/TMsBM9rCnME/hqdefault.jpg"
-        },
-        {
-          "title": "GTA 6 Is the Most Expensive Flop Ever Made",
-          "channel": "Could You Survive History?",
-          "metrics": "517,170 views",
-          "url": "https://www.youtube.com/watch?v=QQ8mlZPXgZQ",
-          "thumbnail": "https://i.ytimg.com/vi/QQ8mlZPXgZQ/hqdefault.jpg"
-        },
-        {
-          "title": "Top 50 Christmas Songs of All Time 🎅🏼 Classic Christmas Music with Fireplace 🎅🏼 Merry Christmas 2027",
-          "channel": "Merry Christmas Vibes",
-          "metrics": "453,462 views",
-          "url": "https://www.youtube.com/watch?v=qEF9Q0cIjDQ",
-          "thumbnail": "https://i.ytimg.com/vi/qEF9Q0cIjDQ/hqdefault.jpg"
-        },
-        {
-          "title": "Avengers Doomsday - FINAL TRAILER REACTION!",
-          "channel": "Caboose",
-          "metrics": "130,596 views",
-          "url": "https://www.youtube.com/watch?v=f-i7kyZMF3Y",
-          "thumbnail": "https://i.ytimg.com/vi/f-i7kyZMF3Y/hqdefault.jpg"
-        },
-        {
-          "title": "GTA 6 - 100 HUGE Tips You NEED to Know (Don't Make These Mistakes)",
-          "channel": "BennyCentral",
-          "metrics": "227,051 views",
-          "url": "https://www.youtube.com/watch?v=X54pK6784-c",
-          "thumbnail": "https://i.ytimg.com/vi/X54pK6784-c/hqdefault.jpg"
-        },
-        {
-          "title": "Like a Dog",
-          "channel": "Bella Kay - Topic",
-          "metrics": "44,622 views",
-          "url": "https://www.youtube.com/watch?v=ej6tN8yV4os",
-          "thumbnail": "https://i.ytimg.com/vi/ej6tN8yV4os/hqdefault.jpg"
-        },
-        {
-          "title": "AVENGERS DOOMSDAY FINAL TRAILER BREAKDOWN! THEY CONFIRMED IT!",
-          "channel": "The Cosmic Wonder",
-          "metrics": "76,392 views",
-          "url": "https://www.youtube.com/watch?v=OVQW_5UF93A",
-          "thumbnail": "https://i.ytimg.com/vi/OVQW_5UF93A/hqdefault.jpg"
-        },
-        {
           "title": "GTA 6 Walkthrough Gameplay Part 6 - SWAMPED (GRAND THEFT AUTO 6)",
           "channel": "theRadBrad",
-          "metrics": "162,130 views",
+          "metrics": "342,063 views",
           "url": "https://www.youtube.com/watch?v=Hm5z-scFVgs",
           "thumbnail": "https://i.ytimg.com/vi/Hm5z-scFVgs/hqdefault.jpg"
         },
         {
+          "title": "Shaggy - Angel (Lyrics) ft. Rayvon",
+          "channel": "GroovLatn",
+          "metrics": "79,220 views",
+          "url": "https://www.youtube.com/watch?v=OIB8mqQbueM",
+          "thumbnail": "https://i.ytimg.com/vi/OIB8mqQbueM/hqdefault.jpg"
+        },
+        {
+          "title": "AVENGERS DOOMSDAY FINAL TRAILER REACTION!",
+          "channel": "The Media Knights",
+          "metrics": "598,945 views",
+          "url": "https://www.youtube.com/watch?v=LfIXOqxQCsg",
+          "thumbnail": "https://i.ytimg.com/vi/LfIXOqxQCsg/hqdefault.jpg"
+        },
+        {
+          "title": "Mac Gaming is Solved But Not By Apple",
+          "channel": "Linus Tech Tips",
+          "metrics": "1,110,077 views",
+          "url": "https://www.youtube.com/watch?v=Ip5EiqbuBpE",
+          "thumbnail": "https://i.ytimg.com/vi/Ip5EiqbuBpE/hqdefault.jpg"
+        },
+        {
+          "title": "I Don't Mind",
+          "channel": "Meyo - Topic",
+          "metrics": "145,698 views",
+          "url": "https://www.youtube.com/watch?v=hx7ItPNcUNw",
+          "thumbnail": "https://i.ytimg.com/vi/hx7ItPNcUNw/hqdefault.jpg"
+        },
+        {
+          "title": "That Epic Team Up Is NOT The Final Battle! AVENGERS DOOMSDAY FINAL TRAILER REACTION",
+          "channel": "Reel Rejects",
+          "metrics": "314,049 views",
+          "url": "https://www.youtube.com/watch?v=NTRd-Jv5EYw",
+          "thumbnail": "https://i.ytimg.com/vi/NTRd-Jv5EYw/hqdefault.jpg"
+        },
+        {
+          "title": "I Spent 24 Hours as a Stealth Hitman in GTA 6",
+          "channel": "Vadact",
+          "metrics": "302,974 views",
+          "url": "https://www.youtube.com/watch?v=3cqGwucx58g",
+          "thumbnail": "https://i.ytimg.com/vi/3cqGwucx58g/hqdefault.jpg"
+        },
+        {
+          "title": "Luis Fonsi - Despacito ft. Daddy Yankee (Letra/Lyrics)",
+          "channel": "jostland.",
+          "metrics": "360,117 views",
+          "url": "https://www.youtube.com/watch?v=zXAsoHvFfIk",
+          "thumbnail": "https://i.ytimg.com/vi/zXAsoHvFfIk/hqdefault.jpg"
+        },
+        {
+          "title": "The Escape Podcast REACT TO THE AVENGERS DOOMSDAY FINAL TRAILER…",
+          "channel": "WHATNERDtalk",
+          "metrics": "211,894 views",
+          "url": "https://www.youtube.com/watch?v=FT3H-TQV0i4",
+          "thumbnail": "https://i.ytimg.com/vi/FT3H-TQV0i4/hqdefault.jpg"
+        },
+        {
+          "title": "GTA 6: 37 Tips You Should Know",
+          "channel": "TGG",
+          "metrics": "713,281 views",
+          "url": "https://www.youtube.com/watch?v=fyT21-s4VZQ",
+          "thumbnail": "https://i.ytimg.com/vi/fyT21-s4VZQ/hqdefault.jpg"
+        },
+        {
+          "title": "Crazy For You",
+          "channel": "Release - Topic",
+          "metrics": "575,480 views",
+          "url": "https://www.youtube.com/watch?v=Zl5xZ_LLA1c",
+          "thumbnail": "https://i.ytimg.com/vi/Zl5xZ_LLA1c/hqdefault.jpg"
+        },
+        {
+          "title": "Panchayat Season 5 - Official Trailer | Jitendra Kumar, Raghubir Yadav, Neena Gupta, Sanvikaa",
+          "channel": "Prime Video India",
+          "metrics": "8,727,402 views",
+          "url": "https://www.youtube.com/watch?v=36a-E7A35F8",
+          "thumbnail": "https://i.ytimg.com/vi/36a-E7A35F8/hqdefault.jpg"
+        },
+        {
+          "title": "WE FAILED A MISSION... (GTA VI Part #5)",
+          "channel": "MM7Games",
+          "metrics": "67,005 views",
+          "url": "https://www.youtube.com/watch?v=bLiPbNIyrys",
+          "thumbnail": "https://i.ytimg.com/vi/bLiPbNIyrys/hqdefault.jpg"
+        },
+        {
+          "title": "Avengers Doomsday Final Trailer REACTION",
+          "channel": "Beyond The Trailer",
+          "metrics": "184,789 views",
+          "url": "https://www.youtube.com/watch?v=E-vhD2cnKpQ",
+          "thumbnail": "https://i.ytimg.com/vi/E-vhD2cnKpQ/hqdefault.jpg"
+        },
+        {
+          "title": "Avengers: Doomsday | Final Trailer | Reaction!",
+          "channel": "Tyrone Magnus",
+          "metrics": "205,875 views",
+          "url": "https://www.youtube.com/watch?v=RTlHMQygK4c",
+          "thumbnail": "https://i.ytimg.com/vi/RTlHMQygK4c/hqdefault.jpg"
+        },
+        {
+          "title": "Still Bloatmaxing in GTA 6",
+          "channel": "penguinz0",
+          "metrics": "841,952 views",
+          "url": "https://www.youtube.com/watch?v=FGY0qhd3AsA",
+          "thumbnail": "https://i.ytimg.com/vi/FGY0qhd3AsA/hqdefault.jpg"
+        },
+        {
           "title": "Smosh Winter Games 2026 Trailer",
           "channel": "Smosh",
-          "metrics": "155,591 views",
+          "metrics": "612,258 views",
           "url": "https://www.youtube.com/watch?v=D6azmeRWwCc",
           "thumbnail": "https://i.ytimg.com/vi/D6azmeRWwCc/hqdefault.jpg"
         },
         {
-          "title": "DF Direct Weekly #291: Grand Theft Auto 6 PC 60FPS Specs, Is A Switch 2 Port Possible?",
+          "title": "Rockstar in Full Panic as GTA 6 Crisis Worsens...",
+          "channel": "LegacyKillaHD",
+          "metrics": "501,969 views",
+          "url": "https://www.youtube.com/watch?v=hzOHcW-mUkY",
+          "thumbnail": "https://i.ytimg.com/vi/hzOHcW-mUkY/hqdefault.jpg"
+        },
+        {
+          "title": "NO WAY THEY SHOWED THAT!! Avengers: Doomsday FINAL Trailer REACTION!",
+          "channel": "Kristian Harloff",
+          "metrics": "254,420 views",
+          "url": "https://www.youtube.com/watch?v=tNR44wUPmig",
+          "thumbnail": "https://i.ytimg.com/vi/tNR44wUPmig/hqdefault.jpg"
+        },
+        {
+          "title": "Grand Theft Auto 6 - Xbox Series X|S Unlocked FPS Glitch Tested - How Fast Can It Really Run?",
           "channel": "Digital Foundry",
-          "metrics": "130,852 views",
-          "url": "https://www.youtube.com/watch?v=bbw-nkpqP5s",
-          "thumbnail": "https://i.ytimg.com/vi/bbw-nkpqP5s/hqdefault.jpg"
+          "metrics": "419,287 views",
+          "url": "https://www.youtube.com/watch?v=VzKA9ayxZMY",
+          "thumbnail": "https://i.ytimg.com/vi/VzKA9ayxZMY/hqdefault.jpg"
+        },
+        {
+          "title": "Making BILLIONS Killing Cutelings [Can Em All 2/2]",
+          "channel": "Joe Bart Games",
+          "metrics": "332,052 views",
+          "url": "https://www.youtube.com/watch?v=p3zbu4PhbNo",
+          "thumbnail": "https://i.ytimg.com/vi/p3zbu4PhbNo/hqdefault.jpg"
+        },
+        {
+          "title": "ImDontai Reacts To Avengers: Doomsday | Final Trailer",
+          "channel": "ImStillDontai",
+          "metrics": "204,473 views",
+          "url": "https://www.youtube.com/watch?v=6QEhGwdkD1A",
+          "thumbnail": "https://i.ytimg.com/vi/6QEhGwdkD1A/hqdefault.jpg"
+        },
+        {
+          "title": "Discord VCs at 7AM",
+          "channel": "isaacwhy",
+          "metrics": "463,143 views",
+          "url": "https://www.youtube.com/watch?v=GQ1YwGxIr8w",
+          "thumbnail": "https://i.ytimg.com/vi/GQ1YwGxIr8w/hqdefault.jpg"
+        },
+        {
+          "title": "AVENGERS DOOMSDAY FINAL TRAILER BREAKDOWN! THEY CONFIRMED IT!",
+          "channel": "The Cosmic Wonder",
+          "metrics": "171,076 views",
+          "url": "https://www.youtube.com/watch?v=OVQW_5UF93A",
+          "thumbnail": "https://i.ytimg.com/vi/OVQW_5UF93A/hqdefault.jpg"
+        },
+        {
+          "title": "Robbing Houses In GTA 6",
+          "channel": "Treyten Extra",
+          "metrics": "264,665 views",
+          "url": "https://www.youtube.com/watch?v=nQXrOiKUXxA",
+          "thumbnail": "https://i.ytimg.com/vi/nQXrOiKUXxA/hqdefault.jpg"
+        },
+        {
+          "title": "AVENGERS DOOMSDAY FINAL TRAILER BREAKDOWN! | The Escape Pod Podcast",
+          "channel": "TheEscapeClips",
+          "metrics": "75,033 views",
+          "url": "https://www.youtube.com/watch?v=qdVA8cGQDqU",
+          "thumbnail": "https://i.ytimg.com/vi/qdVA8cGQDqU/hqdefault.jpg"
+        },
+        {
+          "title": "Busting 33 MYTHS In GTA 6!",
+          "channel": "Caylus  ",
+          "metrics": "454,994 views",
+          "url": "https://www.youtube.com/watch?v=wWXs9eKfllg",
+          "thumbnail": "https://i.ytimg.com/vi/wWXs9eKfllg/hqdefault.jpg"
+        },
+        {
+          "title": "I RIPPED MY SHIRT! | Avengers: Doomsday FINAL TRAILER REACTION ",
+          "channel": "JUST TRUST ASH",
+          "metrics": "96,599 views",
+          "url": "https://www.youtube.com/watch?v=IOxWPo64PmA",
+          "thumbnail": "https://i.ytimg.com/vi/IOxWPo64PmA/hqdefault.jpg"
+        },
+        {
+          "title": "SO HYPE!🔥AVENGERS: DOOMSDAY FINAL TRAILER REACTION!",
+          "channel": "Dos Cavazos",
+          "metrics": "206,498 views",
+          "url": "https://www.youtube.com/watch?v=TMsBM9rCnME",
+          "thumbnail": "https://i.ytimg.com/vi/TMsBM9rCnME/hqdefault.jpg"
+        },
+        {
+          "title": "SIDEMEN AMONG US GTA 6 EDITION",
+          "channel": "MoreSidemen",
+          "metrics": "3,645,302 views",
+          "url": "https://www.youtube.com/watch?v=vunYsm7gV9s",
+          "thumbnail": "https://i.ytimg.com/vi/vunYsm7gV9s/hqdefault.jpg"
         }
       ]
     }
@@ -1035,159 +1035,152 @@
   "global": {
     "github": [
       {
-        "title": "ItsNotRexed/Leonida",
-        "channel": "Python",
-        "metrics": "30,825 stars",
-        "url": "https://github.com/ItsNotRexed/Leonida",
-        "thumbnail": "https://avatars.githubusercontent.com/u/300290919?v=4"
+        "title": "Marvisak/VIctory",
+        "channel": "Rust",
+        "metrics": "4,698 stars",
+        "url": "https://github.com/Marvisak/VIctory",
+        "thumbnail": "https://avatars.githubusercontent.com/u/60314886?v=4"
+      },
+      {
+        "title": "ivall/xcl",
+        "channel": "Rust",
+        "metrics": "4,193 stars",
+        "url": "https://github.com/ivall/xcl",
+        "thumbnail": "https://avatars.githubusercontent.com/u/32580210?v=4"
       },
       {
         "title": "EL4CTEO/fast-anything",
         "channel": "Rust",
-        "metrics": "3,058 stars",
+        "metrics": "3,255 stars",
         "url": "https://github.com/EL4CTEO/fast-anything",
         "thumbnail": "https://avatars.githubusercontent.com/u/215285446?v=4"
       },
       {
-        "title": "bookwjitchieni1986/blender-ai-mcp-addon",
-        "channel": "Mixed",
-        "metrics": "2,765 stars",
-        "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-        "thumbnail": "https://avatars.githubusercontent.com/u/356367752?v=4"
-      },
-      {
-        "title": "iamajmeena/neonclipping",
-        "channel": "Python",
-        "metrics": "2,298 stars",
-        "url": "https://github.com/iamajmeena/neonclipping",
-        "thumbnail": "https://avatars.githubusercontent.com/u/265551449?v=4"
-      },
-      {
         "title": "AFK-surf/xnulinux",
         "channel": "Objective-C++",
-        "metrics": "1,793 stars",
+        "metrics": "2,413 stars",
         "url": "https://github.com/AFK-surf/xnulinux",
         "thumbnail": "https://avatars.githubusercontent.com/u/221804798?v=4"
       },
       {
+        "title": "iamajmeena/neonclipping",
+        "channel": "Python",
+        "metrics": "2,325 stars",
+        "url": "https://github.com/iamajmeena/neonclipping",
+        "thumbnail": "https://avatars.githubusercontent.com/u/265551449?v=4"
+      },
+      {
         "title": "omonkeyz/xbox-emulator",
         "channel": "Rust",
-        "metrics": "1,627 stars",
+        "metrics": "1,712 stars",
         "url": "https://github.com/omonkeyz/xbox-emulator",
         "thumbnail": "https://avatars.githubusercontent.com/u/246595960?v=4"
       },
       {
         "title": "R0Y00/Xbox2Windows",
         "channel": "Python",
-        "metrics": "1,480 stars",
+        "metrics": "1,628 stars",
         "url": "https://github.com/R0Y00/Xbox2Windows",
         "thumbnail": "https://avatars.githubusercontent.com/u/128987794?v=4"
       },
       {
-        "title": "Lemxy/WinRust",
-        "channel": "Rust",
-        "metrics": "1,356 stars",
-        "url": "https://github.com/Lemxy/WinRust",
-        "thumbnail": "https://avatars.githubusercontent.com/u/183076981?v=4"
-      },
-      {
         "title": "os6/nospeaker",
         "channel": "Swift",
-        "metrics": "1,335 stars",
+        "metrics": "1,524 stars",
         "url": "https://github.com/os6/nospeaker",
         "thumbnail": "https://avatars.githubusercontent.com/u/239950?v=4"
       },
       {
-        "title": "ivall/xcl",
-        "channel": "Rust",
-        "metrics": "889 stars",
-        "url": "https://github.com/ivall/xcl",
-        "thumbnail": "https://avatars.githubusercontent.com/u/32580210?v=4"
+        "title": "4lwayz/portwatch-vi",
+        "channel": "JavaScript",
+        "metrics": "1,042 stars",
+        "url": "https://github.com/4lwayz/portwatch-vi",
+        "thumbnail": "https://avatars.githubusercontent.com/u/359682649?v=4"
       },
       {
         "title": "leanprover-community/riemann-hypothesis",
         "channel": "Lean",
-        "metrics": "844 stars",
+        "metrics": "899 stars",
         "url": "https://github.com/leanprover-community/riemann-hypothesis",
         "thumbnail": "https://avatars.githubusercontent.com/u/41703605?v=4"
       },
       {
         "title": "INK-Q/agy-fast",
         "channel": "TypeScript",
-        "metrics": "771 stars",
+        "metrics": "817 stars",
         "url": "https://github.com/INK-Q/agy-fast",
         "thumbnail": "https://avatars.githubusercontent.com/u/55076202?v=4"
       },
       {
-        "title": "MSNightmare/FastUnlock",
-        "channel": "Mixed",
-        "metrics": "700 stars",
-        "url": "https://github.com/MSNightmare/FastUnlock",
-        "thumbnail": "https://avatars.githubusercontent.com/u/291905677?v=4"
-      },
-      {
         "title": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
         "channel": "Python",
-        "metrics": "699 stars",
+        "metrics": "713 stars",
         "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
         "thumbnail": "https://avatars.githubusercontent.com/u/208099046?v=4"
       },
       {
+        "title": "MSNightmare/FastUnlock",
+        "channel": "Mixed",
+        "metrics": "704 stars",
+        "url": "https://github.com/MSNightmare/FastUnlock",
+        "thumbnail": "https://avatars.githubusercontent.com/u/291905677?v=4"
+      },
+      {
         "title": "danielwh2/sprite-stacking",
         "channel": "HTML",
-        "metrics": "636 stars",
+        "metrics": "688 stars",
         "url": "https://github.com/danielwh2/sprite-stacking",
         "thumbnail": "https://avatars.githubusercontent.com/u/51721416?v=4"
       },
       {
-        "title": "0xkaka/homeport",
-        "channel": "HTML",
-        "metrics": "632 stars",
-        "url": "https://github.com/0xkaka/homeport",
-        "thumbnail": "https://avatars.githubusercontent.com/u/95867652?v=4"
-      },
-      {
-        "title": "replit/datacat",
-        "channel": "TypeScript",
-        "metrics": "597 stars",
-        "url": "https://github.com/replit/datacat",
-        "thumbnail": "https://avatars.githubusercontent.com/u/983194?v=4"
-      },
-      {
         "title": "ItsNotRexed/Hookshot",
         "channel": "C++",
-        "metrics": "566 stars",
+        "metrics": "643 stars",
         "url": "https://github.com/ItsNotRexed/Hookshot",
         "thumbnail": "https://avatars.githubusercontent.com/u/300290919?v=4"
       },
       {
+        "title": "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+        "channel": "HTML",
+        "metrics": "604 stars",
+        "url": "https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+        "thumbnail": "https://avatars.githubusercontent.com/u/105894172?v=4"
+      },
+      {
         "title": "ThreatDefence/agentic-attack-detections",
         "channel": "Python",
-        "metrics": "554 stars",
+        "metrics": "577 stars",
         "url": "https://github.com/ThreatDefence/agentic-attack-detections",
         "thumbnail": "https://avatars.githubusercontent.com/u/260813551?v=4"
       },
       {
         "title": "CocoSgt/riemann-hypothesis-lean",
         "channel": "Lean",
-        "metrics": "546 stars",
+        "metrics": "551 stars",
         "url": "https://github.com/CocoSgt/riemann-hypothesis-lean",
         "thumbnail": "https://avatars.githubusercontent.com/u/6043666?v=4"
+      },
+      {
+        "title": "sybil-solutions/skill-distill",
+        "channel": "Python",
+        "metrics": "530 stars",
+        "url": "https://github.com/sybil-solutions/skill-distill",
+        "thumbnail": "https://avatars.githubusercontent.com/u/284200730?v=4"
+      },
+      {
+        "title": "erkamyaman/safe-anything",
+        "channel": "Rust",
+        "metrics": "517 stars",
+        "url": "https://github.com/erkamyaman/safe-anything",
+        "thumbnail": "https://avatars.githubusercontent.com/u/88717125?v=4"
       }
     ],
     "bluesky": [
       {
-        "title": "Washington girls' sports sex exam law",
+        "title": "Personal boycotts",
         "channel": "Bluesky Trending",
         "metrics": "Trending Topic",
-        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/48ab78c830ab",
-        "thumbnail": ""
-      },
-      {
-        "title": "Nvidia rehires Huang",
-        "channel": "Bluesky Trending",
-        "metrics": "Trending Topic",
-        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27cddaed38d4",
+        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fc2e410ba42a",
         "thumbnail": ""
       },
       {
@@ -1198,17 +1191,17 @@
         "thumbnail": ""
       },
       {
+        "title": "Iowa Army detonation court case",
+        "channel": "Bluesky Trending",
+        "metrics": "Trending Topic",
+        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+        "thumbnail": ""
+      },
+      {
         "title": "Google plans personalized AI TV channel",
         "channel": "Bluesky Trending",
         "metrics": "Trending Topic",
         "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ee838eef1813",
-        "thumbnail": ""
-      },
-      {
-        "title": "Alice Huang espionage allegations",
-        "channel": "Bluesky Trending",
-        "metrics": "Trending Topic",
-        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
         "thumbnail": ""
       },
       {
@@ -1219,31 +1212,38 @@
         "thumbnail": ""
       },
       {
-        "title": "Weather forecasts include lead plume",
+        "title": "Trump calls Putin his friend",
         "channel": "Bluesky Trending",
         "metrics": "Trending Topic",
-        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
         "thumbnail": ""
       },
       {
-        "title": "Cyclops in Avengers: Doomsday footage",
+        "title": "AI sell-off overshadows Anthropic IPO",
         "channel": "Bluesky Trending",
         "metrics": "Trending Topic",
-        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/322a7dc78c89",
+        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
         "thumbnail": ""
       },
       {
-        "title": "Doctor Who Day anniversary",
+        "title": "Sunrise on the Reaping's $225M debut",
         "channel": "Bluesky Trending",
         "metrics": "Trending Topic",
-        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c448680912",
+        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
         "thumbnail": ""
       },
       {
-        "title": "Favorite first Magic set card",
+        "title": "Thanksgiving dinner preparations",
         "channel": "Bluesky Trending",
         "metrics": "Trending Topic",
-        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7b6a6c402ab",
+        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+        "thumbnail": ""
+      },
+      {
+        "title": "Riemann hypothesis proof claimed",
+        "channel": "Bluesky Trending",
+        "metrics": "Trending Topic",
+        "url": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
         "thumbnail": ""
       }
     ]
